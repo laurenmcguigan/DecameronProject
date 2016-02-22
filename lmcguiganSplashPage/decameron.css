@@ -1,0 +1,38 @@
+
+body{
+    background-color: maroon
+}
+
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    outline-style: double
+}
+img{
+    outline-style: solid;
+    margin-left: 40%;
+    margin-right: 60%;
+    height: 30%;
+    width: 30%
+}
+p{
+    background-color: black;
+    color: white;
+    font-family: "Lucida Console", arial, sans-sarif;
+    text-align: left;
+    line-height: 1.5;
+    outline-style: double;
+    padding: 20px
+}
+div#links{
+    background-color: rgb(0, 59, 0);
+    color: black;
+    font-size: 16pt;
+    outline-style: solid;
+    text-align: center
+}
+a:link{
+    color: black
+}

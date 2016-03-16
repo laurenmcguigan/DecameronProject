@@ -1,0 +1,1990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <!--2016-03-15 ebb: I pulled this from the Obdurodon team's header, to create a separate file of it. We can use Regex or XSLT to change these lists quickly into what form we want. -->
+    
+       <listPerson> <person id="author" religion="christian" sex="m" origin="Firenze">Boccaccio</person>
+        <!--brigata people-->
+        <person id="dioneo" brigata="yes" sex="m" age="youth" origin="Firenze">Dioneo</person>
+        <person id="elissa" brigata="yes" sex="f" age="youth" origin="Firenze">Elissa</person>
+        <person id="emilia" brigata="yes" sex="f" age="youth" origin="Firenze">Emilia</person>
+        <person id="fiammetta" brigata="yes" sex="f" age="youth" origin="Firenze">Fiammetta</person>
+        <person id="filomena" brigata="yes" sex="f" age="youth" origin="Firenze">Filomena</person>
+        <person id="filostrato" brigata="yes" sex="m" age="youth" origin="Firenze"
+            >Filostrato</person>
+        <person id="lauretta" brigata="yes" sex="f" age="youth" origin="Firenze">Lauretta</person>
+        <person id="neifile" brigata="yes" sex="f" age="youth" origin="Firenze">Neifile</person>
+        <person id="pampinea" brigata="yes" sex="f" age="youth" origin="Firenze">Pampinea</person>
+        <person id="panfilo" brigata="yes" sex="m" age="youth" origin="Firenze">Panfilo</person>
+        <!--*****servants to the brigata people*****-->
+        <!--**we need to remember to add relationships to all this group**-->
+        <person id="chimera" sex="f" role="servant">Chimera</person>
+        <person id="licisca" sex="f" role="servant">Licisca</person>
+        <person id="misia" sex="f" role="servant">Misia</person>
+        <person id="parmeno" sex="m" role="servant">Parmeno</person>
+        <person id="sirisco" sex="m" role="servant">Sirisco</person>
+        <person id="stratilia" sex="f" role="servant">Stratilia</person>
+        <person id="tindaro" sex="m" role="servant">Tindaro</person>
+        <!--*************************************************************************-->
+        <!--*************************others***************************-->
+        <!--******NAMED******-->
+        <!--********A*******-->
+        <person id="abraam" religion="jew" sex="m" age="adult" role="merchant" estate="mercantile"
+            origin="Parigi"><rel whom="giannottocivigni" type="friend"/>Abraam / Giovanni</person>
+        <person id="adalieta" religion="christian" status="married" sex="f" age="youth"
+            role="housewife" estate="noble" origin="Pavia"><rel whom="torello" type="wife"
+            />Adalieta</person>
+        <person id="adriano" status="unmarried" sex="m" age="youth" role="unspecified"
+            estate="unknown" origin="Firenze"><rel whom="pinuccio" type="friend"/><rel
+                whom="donna-0906" type="lover"/>Adriano</person>
+        <person id="agnesa" religion="christian" status="married" sex="f" age="adult"
+            role="housewife" estate="mercantile" origin="Siena"><rel whom="marito-0703" type="wife"
+                /><rel whom="fraterinaldo" type="lover"/>Agnesa</person>
+        <!--<rel type="mother" whom="figlioccio-0703">-->
+        <person id="agnesabernabuccio" religion="christian" status="unmarried-to-married" sex="f"
+            age="youth" role="housewife" estate="unknown" origin="Faenza"><rel whom="bernabuccio"
+                type="daughter"/><rel whom="giannole" type="sister"/><rel whom="minghino"
+                type="wife"/><rel whom="guidotto giacomino" type="ward"/>Angesa di
+            Bernabuccio</person>
+        <person id="agilulfo" status="married" sex="m" age="adult" role="king" estate="royalty"
+            origin="Pavia"><rel whom="teodolinda" type="husband"/>Agilulfo</person>
+        <person id="agnolella" status="unmarried-to-married" sex="f" age="youth" estate="poor"
+            origin="Roma"><rel whom="gigliozzo" type="daughter"/><rel whom="pietroboccamazza"
+                type="wife"/>Agnolella</person>
+        <person id="agolante" status="married" sex="m" condition="temporarily-imprisoned"
+            role="merchant" estate="noble" origin="Firenze"><rel whom="tebaldo" type="son"/><rel
+                whom="agolanti" type="relative"/><rel whom="lamberto tedaldo" type="brother"
+            />Agolante Agolanti</person>
+        <person id="agolanti" type="historical" estate="noble" origin="Firenze">
+            <rel whom="agolante sandroagolanti alessandro lamberto tebaldo tedaldo" type="family"
+            />Agolanti</person>
+        <person id="berto" status="unmarried" age="adult" role="outlaw" estate="poor" origin="Imola"
+                ><disguise disguisename="frateAlberto" religion="christian" sex="m" role="monk"
+                estate="religious" origin="Imola"/><disguise disguisename="Gabriello" sex="m"
+                role="angel" estate="unknown"/>frate Alberto (Berto della Massa)</person>
+        <person id="maestroalberto" status="unmarried" sex="m" age="elder" role="doctor"
+            origin="Bologna">maestro Alberto da Bologna</person>
+        <person id="alatiel" religion="muslim" status="unmarried-to-married" sex="f" age="youth"
+            role="princess" estate="royalty" origin="AlessandriaEg"><rel whom="beminedab"
+                type="daughter"/><rel
+                whom="pericone principemorea ducaatene costanzio antioco marato" type="lover"/><rel
+                whom="ozbek regarbo" type="wife"/>Alatiel</person>
+        <!--gr03/09mercanteCipriano-->
+        <person id="aldobrandino" status="married" sex="m" condition="temporarily-imprisoned"
+            age="adult" estate="noble" origin="Firenze"><rel whom="ermellina" type="husband"/><rel
+                whom="faziuolo" type="murderer"/>Aldobrandino Palermini</person>
+        <person id="alessandro" religion="christian" status="unmarried-to-married" sex="m"
+            role="moneylender" estate="mercantile" origin="Firenze"><rel
+                whom="agolante lamberto tedaldo" type="nephew"/><rel whom="agolanti" type="relative"
+                /><rel whom="donna-0203" type="husband"/>Alessandro Agolanti</person>
+        <person id="alessandrochiarmontesi" status="unmarried" sex="m" age="adult" estate="noble"
+            origin="Firenze">Alessandro Chiarmontesi</person>
+        <person id="santoalesso" type="saint" religion="christian" sex="m" estate="religious"
+            origin="Roma">santo Alesso</person>
+        <person id="alessorinucci" sex="m" condition="deceased" age="adult" estate="noble"><rel
+                whom="nonnapulci" type="cousin"/>Alesso Rinucci</person>
+        <person id="alibech" status="unmarried-to-married" sex="f" age="youth" estate="mercantile"
+            origin="Gafsa"><rel whom="rustico" type="lover"/><rel whom="neerbale" type="wife"
+            />Alibech</person>
+        <person id="ambrogiolo" status="married" sex="m" age="youth" role="merchant"
+            estate="mercantile" origin="Piacenza">Ambrogiuolo da Piagenza</person>
+        <person id="ambruogia" status="married" sex="f" role="housewife" estate="mercantile"
+            origin="Milano"><rel whom="guasparruolo" type="wife"/><rel whom="gulfardo" type="lover"
+            />Ambruogia</person>
+        <person id="santoambruogio" type="saint" religion="christian" sex="m" estate="religious"
+            origin="Siena">santo Ambruogio (san Sedoni da Siena)</person>
+        <person id="ambruogioanselmini" status="married" sex="m" role="unspecified" estate="poor"
+            origin="Siena"><rel whom="mitaanselmini" type="husband"/><rel whom="tingocciomini"
+                type="friend"/>Ambruogio Anselmini</person>
+        <person id="amerigo" status="married" sex="m" age="adult" role="cityauthority"
+            estate="noble" origin="Trapani"><rel whom="violante" type="father"/>Amerigo Abate da
+            Trapani</person>
+        <person id="amore" type="mythological" religion="pagan" sex="m">Amore</person>
+        <person id="andreuccio" status="unmarried" sex="m" age="youth" role="merchant"
+            estate="mercantile" origin="Perugia">Andreuccio di Pietro (da Perugia)</person>
+        <person id="andreuola" status="unmarried-to-married" sex="f" age="youth" estate="noble"
+            origin="Brescia"><rel whom="negropontecarraro" type="daughter"/><rel whom="gabriotto"
+                type="lover"/>Andreuola (da Ponte Carraro)</person>
+        <person id="realfonso" type="historical" sex="m" role="king" estate="royalty">Anfonso X re
+            di Spagna</person>
+        <person id="ansaldo" religion="christian" status="unmarried" sex="m" role="knight"
+            estate="noble" origin="Friuli">Ansaldo Gradense</person>
+        <person id="antigono" religion="muslim" sex="m" age="elder" role="servant" estate="poor"
+            origin="Famagosta"><rel whom="recipro-0207 beminedab" type="servant"/>Antigono di
+            Famagosta</person>
+        <person id="antioco" sex="m" condition="alive-deceased" age="elder" estate="military"><rel
+                whom="ozbek" type="servant"/><rel whom="alatiel" type="lover"/>Antioco</person>
+        <person id="antonioorso" religion="christian" sex="m" age="adult" role="churchauthority"
+            estate="religious" origin="Firenze">Antonio d'Orso</person>
+        <person id="arcita" sex="f">Arcita</person>
+        <!--**character of Boccaccio's "Teseida" with Palemone**-->
+        <person id="aristippo" sex="m" estate="noble" origin="Cipro"><rel whom="galeso"
+                type="father"/>Aristippo (V.1)</person>
+        <person id="aristippo1008" religion="pagan" sex="m" role="philosopher" origin="Atene"
+            >Aristippo (X.8)</person>
+        <person id="arrighettocapece" status="married" sex="m" condition="temporarily-imprisoned"
+            age="adult" role="lord" estate="noble" origin="Napoli"><rel whom="beritolacaracciola"
+                type="husband"/><rel whom="giuffredi loscacciato" type="father"/>Arrighetto
+            Capece</person>
+        <person id="santoarrigo" type="saint" religion="christian" sex="m"
+            condition="alive-deceased" estate="religious" origin="Bolzano">santo Arrigo /
+            Arrigo</person>
+        <person id="arriguccio" religion="christian" status="married" sex="m" role="merchant"
+            estate="mercantile" origin="Firenze"><rel whom="sismonda" type="husband"/>Arriguccio
+            Berlinghieri</person>
+        <person id="atticiato" sex="m" estate="poor" origin="Firenze">Atticciato
+            (Atticiato)</person>
+        <person id="autari" status="married" condition="deceased" role="king" estate="royalty"
+            origin="longobarda"><rel whom="teodolinda" type="husband"/>Auttari</person>
+        <person id="marcheseazzo" sex="m" age="adult" role="cityauthority" estate="noble"
+            origin="Ferrara"><rel whom="vedova-0202" type="lover"/>marchese Azzo da Ferrara</person>
+        <!--********B*******-->
+        <person id="baronci" type="historical" role="family" origin="Firenze">Baronci</person>
+        <person id="bartolomea" status="married" sex="f" age="youth" estate="noble" origin="Pisa"
+                ><rel whom="riccardochinzica paganinomonaco" type="wife"/><rel whom="lottogualandi"
+                type="daughter"/>Bartolomea Gualandi</person>
+        <person id="rebasano" type="fictional" religion="muslim" sex="m" age="adult" role="king"
+            estate="royalty" origin="Turkey-AsiaMinor">Basano</person>
+        <person id="beatricegalluzzi" religion="christian" status="married" sex="f" estate="noble"
+            origin="Bologna"><rel whom="eganogalluzzi" type="wife"/><rel whom="lodovico"
+                type="lover"/>Beatrice Galluzzi</person>
+        <person id="belcolore" religion="christian" status="married" sex="f" age="adult"
+            role="housewife" estate="mercantile" origin="Varlungo"><rel whom="bentivegnamazzo"
+                type="wife"/><rel whom="prete-0802" type="lover"/>Belcolore</person>
+        <person id="beltramo" status="unmarried-to-married" sex="m" age="youth-adult" role="count"
+            estate="noble" origin="Roussillon"><rel whom="refrancia-0309" type="ward"/>
+            <rel whom="giletta" type="husband"/><rel whom="isnardo" type="son"/>Beltramo di
+            Rossiglione</person>
+        <person id="benedetto" sex="m" age="child" estate="mercantile" origin="Tuscany"><rel
+                whom="donna-0308 abate-0308 ferondo" type="son"/>Benedetto Ferondi</person>
+        <person id="bentivegnamazzo" status="married" sex="m" age="adult" role="peasant"
+            estate="mercantile" origin="Varlungo"><rel whom="belcolore" type="husband"/>Bentivegna
+            del Mazzo</person>
+        <person id="beminedab" type="fictional" religion="muslim" status="married" sex="m"
+            age="adult" role="sultan" estate="royalty" origin="AlessandriaEg">
+            <rel whom="alatiel" type="father"/>Beminedab / soldano</person>
+        <person id="bergamina" status="married" sex="f" age="adult"><rel whom="guasparruolosaliceto"
+                type="wife"/>Bergamina</person>
+        <person id="bergamino" sex="m" age="adult" role="courtier" estate="noble">Bergamino</person>
+        <person id="beritolacaracciola" status="married" sex="f" age="adult" estate="noble"
+            origin="Napoli"><rel whom="arrighettocapece" type="wife"/><rel
+                whom="giuffredi loscacciato" type="mother"/>madama Beritola Caracciola /
+            Cavriuola</person>
+        <person id="bernabo" status="married" sex="m" age="adult" role="merchant"
+            estate="mercantile" origin="Genova"><rel whom="ginevra" type="husband"/>Bernab&#242;
+            Lomellin da Genova</person>
+        <person id="bernabuccio" status="married" sex="m" age="adult" origin="Faenza"><rel
+                whom="giannole agnesabernabuccio" type="father"/>Bernabuccio</person>
+        <person id="bernardo" religion="christian" status="married" sex="m" age="adult"
+            role="artisan" estate="noble" origin="Firenze"><rel whom="lisa" type="father"/><rel
+                whom="madre-1007" type="husband"/>Bernardo Puccini</person>
+        <!--vz: need new role for Bernardo, apothecary (B. says "speziale")-->
+        <person id="santobernardo" type="saint" religion="christian" sex="m" condition="deceased"
+            estate="religious" origin="Clairvaux">san Bernardo</person>
+        <person id="bettobrunelleschi" type="historical" sex="m" age="adult" role="cityauthority"
+            estate="mercantile" origin="Firenze">Betto Brunelleschi</person>
+        <person id="biagiopizzini" sex="m" age="youth" origin="Certaldo">Biagio Pizzini</person>
+        <person id="biliuzza" sex="f" age="adult" origin="Varlungo"><rel whom="prete-0802"
+                type="lover"/>Biliuzza</person>
+        <person id="binguccio" sex="m" age="adult" origin="Varlungo">Binguccio dal Poggio</person>
+        <person id="biondello" sex="m" age="adult" estate="unknown" origin="Firenze"
+            >Biondello</person>
+        <person id="bonaccorri" sex="m" age="adult" role="legalauthority" estate="noble"
+            origin="Firenze">Bonaccorri da Ginestreto</person>
+        <person id="bonifazio" type="historical" religion="christian" status="unmarried" sex="m"
+            age="adult" role="pope" estate="religious" origin="Anagni">Bonifazio VIII</person>
+        <person id="brunetta" sex="f" role="peasant" estate="poor" origin="Tuscany"><rel
+                whom="chichibio" type="lover"/>Brunetta</person>
+        <person id="bruno" religion="christian" sex="m" age="adult" role="artist"
+            estate="mercantile" origin="Firenze">Bruno (di Giovanni d'Olivieri)</person>
+        <person id="buffalmacco" religion="christian" sex="m" age="adult" role="artist"
+            estate="mercantile" origin="Firenze">Buffalmacco (Bonamico)</person>
+        <person id="buglietto" sex="m" age="adult" origin="Varlungo"><rel whom="nuto" type="father"
+            />Buglietto</person>
+        <person id="buttafuoco" sex="m" age="adult" role="pander" estate="poor" origin="Napoli"
+            >Buttafuoco</person>
+        <!--********C*******-->
+        <person id="calandrino" religion="christian" status="married" sex="m" age="adult"
+            role="artist" estate="mercantile" origin="Firenze"><rel whom="tessa" type="husband"
+            />Calandrino</person>
+        <person id="canescala" type="historical" status="married" sex="m" age="adult" role="lord"
+            estate="noble" origin="Verona">messer Cane / Cangrande della Scala</person>
+        <person id="carapresa" religion="christian" sex="f" age="adult" role="servant" estate="poor"
+            origin="Trapani">Carapresa</person>
+        <person id="cmagno" type="historical" religion="christian" sex="m" age="adult" role="king"
+            estate="royalty" origin="unknown">Carlo Magno</person>
+        <person id="recarloi" type="historical" sex="m" age="adult" role="king" estate="royalty"
+            origin="France"><rel whom="recarloii" type="father"/><rel whom="robertoangio"
+                type="grandfather"/><rel whom="carlosenzaterra" type="uncle"/>re Carlo primo
+            d'Angi&#242;</person>
+        <!--<rel type="relative" whom="Angio">-->
+        <person id="recarloii" type="historical" religion="christian" sex="m" age="adult"
+            role="king" estate="royalty" origin="France"><rel whom="recarloi" type="son"/><rel
+                whom="robertoangio" type="father"/><rel whom="carlosenzaterra" type="cousin"/>re
+            Carlo secondo (nostro re Carlo)</person>
+        <!--<rel type="relative" whom="Angio">-->
+        <person id="carlosenzaterra" type="historical" status="married" sex="m" age="adult"
+            role="prince" estate="royalty" origin="Valois(France)"><rel whom="recarloi"
+                type="nephew"/><rel whom="recarloii" type="cousin"/>Carlo Senzaterra di
+            Valois</person>
+        <person id="cassandrea" status="unmarried-to-married" sex="f" age="adult" estate="noble"
+            origin="Rodi"><rel whom="lisimaco" type="wife"/>Cassandrea</person>
+        <person id="catalina" religion="christian" status="married" sex="f"
+            condition="temporarily-ill" role="housewife" estate="noble" origin="Bologna"><rel
+                whom="niccoluccio" type="wife"/><rel whom="gentile" type="relative"/><rel
+                whom="figlio-1004" type="mother"/>Catalina (Carisendi) Caccianemico</person>
+        <person id="catella" status="married" sex="f" age="adult" role="housewife" estate="noble"
+            origin="Napoli"><rel whom="filippello" type="wife"/><rel whom="ricciardominutolo"
+                type="lover"/>Catella Sighinolfi</person>
+        <person id="caterina" status="unmarried-to-married" sex="f" age="youth" origin="Romagna"
+                ><rel whom="lizio giacomina" type="daughter"/><rel whom="ricciardomanardi"
+                type="wife"/>Caterina da Valbona</person>
+        <person id="cavalcantecavalcanti" type="historical" religion="christian" sex="m"
+            estate="noble" origin="Firenze"><rel whom="guidocavalcanti" type="father"/>Cavalcante
+            Cavalcanti</person>
+        <person id="encararh" sex="m" age="adult" role="merchant" estate="mercantile"
+            origin="Catalonia">segner En Cararh</person>
+        <person id="ceccoangiulieri" type="historical" sex="m" age="adult" role="writer"
+            estate="noble" origin="Siena">Cecco Angiulieri</person>
+        <person id="ceccofortarrigo" sex="m" age="adult" role="unspecified" estate="noble"
+            origin="Siena">Cecco Fortarrigo</person>
+        <person id="cesca" sex="f" age="youth" role="maiden"><rel whom="fresco" type="niece"/>Cesca
+            da Celafico</person>
+        <person id="chichibio" sex="m" age="adult" role="servant" estate="poor" origin="Venezia"
+                ><rel whom="brunetta" type="lover"/><rel whom="curradogianfigliazzi" type="servant"
+            />Chichibio</person>
+        <person id="ciacco" sex="m" age="adult" estate="unknown" origin="Firenze">Ciacco</person>
+        <person id="ciappelletto" sexorientation="homosexual" sex="m" condition="alive-deceased"
+            age="adult" role="outlaw" origin="Prato">Ciappelletto/Cepparello</person>
+        <person id="cinciglione" sex="m" age="adult">Cinciglione</person>
+        <!--07-2001: from Corbaccio: is role drunkard?-->
+        <person id="cinopistoia" type="historical" sex="m" age="adult" role="writer" estate="noble"
+            origin="Pistoia">Cino da Pistoia (Guittoncino de' Sinibaldi)</person>
+        <person id="fratecipolla" religion="christian" status="unmarried" sex="m" age="adult"
+            role="preacher" estate="religious">frate Cipolla</person>
+        <person id="cipseo" sex="m" estate="noble" origin="Cipro"><rel whom="efigenia" type="father"
+            />Cipseo</person>
+        <person id="cisti" sex="m" age="adult" role="artisan" estate="mercantile" origin="Firenze"
+            >Cisti</person>
+        <person id="ciuriaci" sex="m" condition="alive-deceased" age="adult" role="servant"
+            estate="poor" origin="Morea"><rel whom="principemorea" type="servant"/>Ciuriaci</person>
+        <person id="ciutazza" status="unmarried" sex="f" age="adult" role="servant" estate="poor"
+            origin="Fiesole"><rel whom="piccarda" type="servant"/><rel whom="proposto-0804"
+                type="lover"/>Ciutazza</person>
+        <person id="narnaldcivada" age="adult" role="merchant" estate="mercantile"
+            origin="Marsiglia"><rel whom="bertellacivada magdalenacivada ninettacivada"
+                type="father"/>N'Arnald Civada</person>
+        <person id="bertellacivada" sex="f" condition="alive-deceased" age="youth" role="maiden"
+            estate="mercantile" origin="Marsiglia"><rel whom="narnaldcivada" type="daughter"/><rel
+                whom="magdalenacivada ninettacivada" type="sister"/><rel whom="ughetto" type="lover"
+            />Bertella Civada</person>
+        <person id="magdalenacivada" sex="f" condition="alive-deceased" age="youth" role="maiden"
+            estate="mercantile" origin="Marsiglia"><rel whom="narnaldcivada" type="daughter"/><rel
+                whom="bertellacivada ninettacivada" type="sister"/><rel whom="folco ducacreti"
+                type="lover"/>Magdalena Civada</person>
+        <person id="ninettacivada" sex="f" age="youth" role="maiden" estate="mercantile"
+            origin="Marsiglia"><rel whom="narnaldcivada" type="daughter"/><rel
+                whom="magdalenacivada bertellacivada" type="sister"/><rel whom="restagnone"
+                type="lover"/><rel whom="restagnone" type="murderer"/>Ninetta Civada</person>
+        <person id="abatecligni" type="historical" religion="christian" sex="m" age="adult"
+            role="churchauthority" estate="religious">abate di Clign&#237;</person>
+        <!--perhaps better to distinguish 1.7 and X.2, because it is not sure it is the same person-->
+        <!--vika: Branca, in name index, notes that it's indeed the same person -->
+        <person id="coppo" type="historical" sex="m" age="elder" role="cityauthority" estate="noble"
+            origin="Firenze">Coppo di Borghese Domenichi</person>
+        <!--he is the
+    narrator of 0509, is it there a way to say this? Are there other narrators?-->
+        <!--MP:  No, he's not the narrator, Fiammetta just re-tells a story he used to tell-->
+        <person id="corsodonati" type="historical" sex="m" age="adult" role="cityauthority"
+            estate="noble" origin="Firenze">Corso Donati</person>
+        <person id="costanzio" religion="christian" sex="m" age="adult" estate="royalty"
+            origin="Costantinopoli"><rel whom="imperatorecostantinopoli" type="son"/><rel
+                whom="alatiel" type="lover"/><rel whom="manuello" type="uncle"/>Costantino /
+            Constanzio</person>
+        <person id="cremete" religion="pagan" sex="m" condition="alive-deceased" age="elder"
+            estate="noble" origin="Atene"><rel whom="publioqf" type="friend"/><rel whom="gisippo"
+                type="father"/><rel whom="tito" type="guardian"/><rel whom="parentigisippo-1008"
+                type="relative"/>Cremete</person>
+        <person id="criseida" type="mythological" sex="f" age="adult"><rel whom="troilo"
+                type="lover"/>Criseida</person>
+        <!--character of Boccaccio's "Filostrato",
+    interesting entry for a glossary-->
+        <person id="crivello" sex="m" role="intermediary" estate="poor"><rel
+                whom="giacomino agnesabernabuccio" type="servant"/>Crivello</person>
+        <person id="currado-trapani" sex="m" age="adult" role="cityauthority" estate="noble"
+            origin="Trapani">Currado</person>
+        <person id="curradogianfigliazzi" sex="m" age="adult" role="lord" estate="noble"
+            origin="Tuscany">Currado Gianfigliazzi</person>
+        <person id="corradomalaspina" type="historical" status="married" sex="m" age="adult"
+            estate="noble" origin="Villafranca"><rel whom="mogliecmalaspina-0206" type="husband"
+                /><rel whom="spina" type="father"/>Currado de' marchesi Malespini</person>
+        <!--********D*******-->
+        <person id="dantealighieri" type="historical" religion="christian" status="married" sex="m"
+            role="writer" estate="noble" origin="Firenze">Dante Alighieri</person>
+        <person id="degoratta" sex="m" age="adult" role="courtier" estate="noble"
+            origin="Barcellona Catalonia">Dego della Ratta</person>
+        <person id="dianora" religion="christian" status="married" sex="f" estate="noble"
+            origin="Friuli"><rel whom="gilberto" type="wife"/>madonna Dianora</person>
+        <person id="santodomenico" type="saint" religion="christian" sex="m" condition="deceased"
+            estate="religious" origin="Calaruega (Spain)">san Domenico</person>
+        <!--********E*******-->
+        <person id="efigenia" status="unmarried-to-married" sex="f" age="youth" estate="noble"
+            origin="Cipro"><rel whom="cipseo" type="daughter"/><rel whom="galeso" type="wife"
+            />Efigenia</person>
+        <person id="eganogalluzzi" religion="christian" status="married" sex="m" estate="noble"
+            origin="Bologna"><rel whom="beatricegalluzzi" type="husband"/><disguise
+                disguisename="BeatriceGalluzzi" religion="christian" status="married" sex="f"
+                estate="noble" origin="Bologna"/>Egano Galluzzi</person>
+        <person id="elena" status="unmarried" sex="f" age="adult" role="widow" estate="noble"
+            origin="Firenze"><rel whom="amante-0807" type="lover"/>Elena</person>
+        <person id="ellisabetta" religion="christian" status="unmarried" sex="f"
+            condition="alive-deceased" age="youth" role="maiden" estate="mercantile"
+            origin="SanGimignano"><rel whom="fratelli-0405" type="sister"/><rel whom="lorenzo"
+                type="lover"/>Ellisabetta</person>
+        <person id="ercolano" status="married" age="adult" origin="Perugia"><rel
+                whom="moglieercolano-0510" type="husband"/>Ercolano</person>
+        <person id="ermellina" status="married" sex="f" age="adult" role="housewife" estate="noble"
+            origin="Firenze"><rel whom="aldobrandino" type="wife"/><rel whom="tedaldoelisei"
+                type="lover"/>Ermellina Palermini</person>
+        <person id="erminogrimaldi" sex="m" age="adult" role="lord" estate="noble" origin="Genova"
+            >Ermino (Avarizia) de' Grimaldi</person>
+        <person id="esculapio" type="mythological" religion="pagan" condition="deceased" age="adult"
+            origin="ancientGreece">Esculapio</person>
+        <person id="eva" type="biblical" sex="f" condition="deceased" age="adult">Eva</person>
+        <!--********F*******-->
+        <person id="faziuolo" sex="m" condition="alive-deceased" role="soldier" origin="Pontremoli"
+                ><rel whom="ermellina" type="lover"/>Faziuolo da Pontriemoli</person>
+        <person id="federigoalberighi" status="unmarried-to-married" sex="m" age="youth-elder"
+            role="widow" estate="noble" origin="Firenze"><rel whom="filippoalberighi" type="son"
+                /><rel whom="giovanna" type="husband"/>Federigo degli Alberighi</person>
+        <person id="federigoneripegolotti" status="unmarried" sex="m" age="youth" role="unspecified"
+            estate="unknown" origin="Firenze"><rel whom="monnatessa" type="lover"/>Federigo di Neri
+            Pegolotti</person>
+        <person id="federicoi" type="historical" religion="christian" sex="m" role="emperor"
+            estate="royalty" origin="Germany"><rel whom="federicoii" type="grandfather"/>imperador
+            Federigo primo (Barbarossa)</person>
+        <!--<rel type="relative" whom="Hohenstaufen">-->
+        <person id="federicoii" type="historical" status="married" sex="m" role="emperor"
+            estate="royalty" origin="Germany"><rel whom="federicoi" type="grandson"/>
+            <rel whom="gostanza-0404" type="son"/><rel whom="remanfredi" type="father"/><rel
+                whom="reguglielmo" type="cousin"/><rel whom="reina-1007" type="grandfather"
+            />Federigo secondo</person>
+        <!--<rel type="relative" whom="Hohenstaufen">
+  <rel type="nephew" whom="Ruggieri">-->
+        <person id="fediiar" type="historical" religion="christian" sex="m" age="adult" role="king"
+            estate="royalty" origin="Aragona"><rel whom="remanfredi" type="grandson"/>re Federigo II
+            d'Aragona</person>
+        <!--gr03/09<rel type="relative" whom="Aragona">-->
+        <person id="donfelice" religion="christian" sex="m" age="adult" role="monk"
+            estate="religious"><rel whom="monnaisabetta" type="lover"/>don Felice</person>
+        <person id="ferondo" religion="christian" status="married" sex="m"
+            condition="temporarily-imprisoned" role="peasant" estate="mercantile" origin="Tuscany"
+                ><rel whom="donna-0308" type="husband"/>Ferondo</person>
+        <person id="figiovanni" role="family" estate="noble" origin="Firenze"><rel
+                whom="ruggierifigiovanni" type="family"/>Figiovanni</person>
+        <person id="fiordaliso" religion="christian" sex="f" age="youth" role="prostitute"
+            estate="mercantile" origin="Palermo">giovane ciciliana / madama Fiordaliso</person>
+        <!--disguises herself as Andreuccio's sister - is there a way to tag this?-->
+        <person id="madonnafilippa" sex="f" age="adult" role="housewife" origin="Prato"><rel
+                whom="rinaldodepugliesi" type="wife"/><rel whom="lazzarinodeguazzagliotri"
+                type="lover"/>Madonna Filippa</person>
+        <person id="filippello" status="married" age="adult" estate="noble" origin="Napoli">
+            <rel whom="catella" type="husband"/>Filippello Sighinolfo</person>
+        <person id="filippo" status="unmarried" sex="m" age="youth" origin="Rimini"><rel
+                whom="donna-0705" type="lover"/>Filippo</person>
+        <person id="filippoalberighi" sex="m" age="adult" estate="noble" origin="Firenze"><rel
+                whom="federigoalberighi" type="father"/>Filippo Alberighi</person>
+        <person id="filippoargenti" type="historical" sex="m" age="adult" role="knight"
+            estate="noble" origin="Firenze">Filippo Argenti</person>
+        <person id="filippobalducci" religion="christian" status="unmarried" sex="m" role="widow"
+            estate="mercantile" origin="Firenze"><rel whom="figliobalducci-04intro" type="father"
+            />Filippo Balducci</person>
+        <person id="filippocornacchini" status="unmarried" sex="m" age="adult" role="merchant"
+            estate="mercantile" origin="Firenze"><rel whom="niccolocornacchini" type="son"/><rel
+                whom="niccolosa" type="lover"/>Filippo Cornacchini</person>
+        <person id="filippobornio" type="historical" sex="m" age="adult" role="king"
+            estate="royalty" origin="France">re Filippo il bornio</person>
+        <!--gr03/09<rel type="relative" whom="Capet">-->
+        <person id="filippominutolo" religion="christian" sex="m" condition="deceased" age="adult"
+            role="churchauthority" estate="religious" origin="Napoli">Filippo Minutolo</person>
+        <person id="fineo" sex="m" age="adult" role="king" estate="noble" origin="Armenia"><rel
+                whom="teodoro" type="father"/>Fineo</person>
+        <person id="folco" sex="m" age="youth-adult" role="unspecified" origin="Marsiglia"><rel
+                whom="magdalenacivada" type="lover"/><rel whom="magdalenacivada" type="murderer"
+            />Folco</person>
+        <person id="forese" sex="m" age="adult" role="legalauthority" estate="noble"
+            origin="Tuscany">messer Forese da Rabatta</person>
+        <person id="francesca" status="unmarried" sex="f" age="adult" role="widow" estate="noble"
+            origin="Pistoia">madonna Francesca de' Lazzari</person>
+        <person id="francesco" status="married" sex="m" age="adult" role="cityauthority"
+            estate="noble" origin="Pistoia"><rel whom="donna-0305" type="husband"/>messer Francesco
+            Vergellesi</person>
+        <person id="santofrancesco" type="saint" religion="christian" sex="m" condition="deceased"
+            estate="religious" origin="Assisi">san Francesco</person>
+        <person id="fresco" sex="m" origin="Celatico"><rel whom="cesca" type="uncle"/>Fresco da
+            Celatico</person>
+        <person id="fulvia" religion="pagan" status="unmarried-to-married" sex="f" age="youth"
+            role="maiden" estate="noble" origin="Roma"><rel whom="tito" type="sister"/><rel
+                whom="gisippo" type="wife"/><rel whom="publioqf" type="daughter"/>Fulvia</person>
+        <!--********G*******-->
+        <person id="gabriotto" brigata="no" status="unmarried-to-married" sex="m"
+            condition="alive-deceased" age="adult" estate="mercantile" origin="Brescia"><rel
+                whom="andreuola" type="lover"/>Gabriotto</person>
+        <person id="santogaleone" type="saint" religion="christian" sex="m" condition="deceased"
+            estate="religious">santo Galeone</person>
+        <person id="galeso" status="unmarried-to-married" sex="m" age="youth" estate="noble"
+            origin="Cipro"><rel whom="aristippo" type="son"/><rel whom="pasimunda ormisda"
+                type="murderer"/><rel whom="efigenia" type="husband"/>Galeso / Cimone</person>
+        <person id="galeno" religion="pagan" sex="m" condition="deceased" age="adult" role="doctor"
+            origin="ancientGreece">Galieno</person>
+        <person id="gemmata" status="married" sex="f" age="youth" role="housewife" estate="poor"
+            origin="Tresanti"><rel whom="pietrodatresanti" type="wife"/>Gemmata</person>
+        <person id="gentile" religion="christian" status="unmarried" sex="m" age="youth"
+            role="knight" estate="noble" origin="Bologna"><rel whom="catalina" type="relative"/><rel
+                whom="madre-1004" type="son"/>Gentile Carisendi</person>
+        <person id="gerardo" sex="m" condition="alive-deceased" role="doctor" estate="mercantile"
+            origin="Narbonne"><rel whom="giletta" type="father"/>Gerardo di Nerbona</person>
+        <person id="gerbino" religion="christian" status="unmarried" condition="alive-deceased"
+            estate="royalty"><rel whom="ruggieri-0404" type="son"/><rel whom="gostanza-0404"
+                type="nephew"/><rel whom="reguglielmo" type="grandson"/><rel whom="guiscardo"
+                type="family"/>Gerbino</person>
+        <person id="geremia" type="biblical" sex="m" condition="deceased" age="adult"
+            estate="religious">Geremia</person>
+        <person id="gerispina" status="married" sex="m" age="adult" estate="noble" origin="Firenze"
+            >Geri Spina</person>
+        <person id="ghino" type="historical" religion="christian" sex="m" age="adult" role="outlaw"
+            estate="noble" origin="Siena">Ghino di Tacco</person>
+        <person id="ghismonda" status="unmarried" sex="f" condition="alive-deceased" age="adult"
+            role="princess" estate="royalty" origin="Salerno"><rel whom="guiscardo" type="lover"
+                /><rel whom="tancredi" type="daughter"/>Ghismunda</person>
+        <person id="ghita" religion="christian" status="married" sex="f" age="adult"
+            role="housewife" estate="noble" origin="Arezzo"><rel whom="tofano" type="wife"/><rel
+                whom="giovane-0704" type="lover"/>monna Ghita</person>
+        <person id="giachetto" status="unmarried-to-married" sex="m" condition="temporarily-ill"
+            age="youth-adult" estate="noble" origin="Londra"><rel
+                whom="dama-0208 padregiachetto-0208" type="son"/><rel whom="violante" type="husband"
+            />Giachetto Lamiens</person>
+        <person id="giacomina" status="married" sex="f" age="adult" origin="Romagna"><rel
+                whom="caterina" type="mother"/><rel whom="lizio" type="wife"/>Giacomina da
+            Valbona</person>
+        <person id="giacomino" sex="m" age="elder" role="soldier" estate="military" origin="Pavia"
+                ><rel whom="agnesabernabuccio" type="guardian"/>Giacomino da Pavia</person>
+        <person id="gianprocida" type="historical" sex="m" origin="Procida"><rel
+                whom="landolfoprocida" type="brother"/><rel whom="gianniprocida" type="uncle"
+            />messer Gian di Procida</person>
+        <!--this character is named in II 6,41 and in V 6,39-->
+        <person id="giannello" religion="christian" status="unmarried" sex="m" age="youth"
+            role="unspecified" estate="unknown" origin="Napoli"><rel whom="peronella" type="lover"
+            />Giannello Scrignario</person>
+        <person id="gianniprocida" status="unmarried-to-married" sex="m" age="youth"
+            origin="Procida"><rel whom="landolfoprocida" type="son"/><rel whom="gianprocida"
+                type="nephew"/><rel whom="restituta" type="husband"/>Gianni da Procida</person>
+        <person id="violante" status="unmarried-to-married" sex="f" age="youth-adult" estate="noble"
+            origin="Anversa"><rel whom="gualtierianversa" type="daughter"/><rel whom="luigi"
+                type="sister"/><rel whom="giachetto" type="wife"/><disguise disguisename="Giannetta"
+                sex="m" role="servant" estate="poor" origin="Piccardia"/><rel
+                whom="dama-0208 padregiachetto-0208" type="ward"/>Violante / Giannetta</person>
+        <person id="giannilotteringhi" religion="christian" status="married" sex="m" age="adult"
+            role="merchant" estate="mercantile" origin="Firenze"><rel whom="monnatessa"
+                type="husband"/>Gianni Lotteringhi</person>
+        <person id="gianninello" sex="m" role="cityauthority" estate="noble" origin="Firenze">Gianni
+            di Nello</person>
+        <person id="giannole" sex="m" age="youth" origin="Faenza"><rel whom="agnesabernabuccio"
+                type="brother"/><rel whom="bernabuccio" type="son"/>Giannole di Severino</person>
+        <person id="giannottocivigni" religion="christian" sex="m" age="adult" role="merchant"
+            estate="mercantile" origin="Parigi"><rel whom="abraam" type="friend"/>Giannotto di
+            Civign&#236;</person>
+        <person id="giannucole" religion="christian" sex="m" age="adult-elder" role="peasant"
+            estate="poor" origin="Sanluzzo"><rel whom="griselda" type="father"/><rel
+                whom="figliuolo-1010 figliuola-1010" type="grandfather"/>Giannucole /
+            Giannucolo</person>
+        <person id="gigliozzo" sex="m" estate="poor" origin="Roma"><rel whom="agnolella"
+                type="father"/>Gigliuozzo Saullo</person>
+        <person id="gilberto" religion="christian" status="married" sex="m" age="adult"
+            estate="noble" origin="Friuli"><rel whom="dianora" type="husband"/>Gilberto</person>
+        <person id="giletta" status="unmarried-to-married" sex="f" age="youth-adult"
+            role="housewife" estate="mercantile" origin="Narbonne"><rel whom="gerardo"
+                type="daughter"/>
+            <rel whom="beltramo" type="wife"/>Giletta di Nerbona</person>
+        <person id="ginevrauberti" religion="christian" status="unmarried-to-married" sex="f"
+            age="youth" estate="noble" origin="Firenze"><rel whom="neriuberti" type="daughter"/><rel
+                whom="isottauberti" type="sister"/><rel whom="maffeopallizzi" type="wife"/>Ginevra
+            degli Uberti / Ginevra la bella</person>
+        <person id="sangiorgio" type="saint" religion="christian" sex="m" condition="deceased"
+            estate="religious" origin="Palestine">san Giorgio</person>
+        <person id="giosefo" status="married" sex="m" age="youth" role="unspecified"
+            estate="unknown" origin="Antiochia"><rel whom="donna-0909" type="husband"
+            />Giosefo</person>
+        <person id="giotto" type="historical" brigata="no" religion="christian" sex="m" age="adult"
+            role="artist" estate="noble" origin="Firenze">Giotto (Giotto di Bondone)</person>
+        <person id="giovanna" status="married" sex="f" role="widow" estate="noble" origin="Firenze"
+                ><rel whom="figliogiovanna-0509" type="mother"/><rel whom="federigoalberighi"
+                type="wife"/>monna Giovanna</person>
+        <person id="giovannibragoniera" sex="m" age="youth" origin="Certaldo">Giovanni del
+            Bragoniera</person>
+        <person id="giovannidibarolo" status="unmarried" sex="m" age="adult" role="churchauthority"
+            estate="poor" origin="Barletta">Gianni di Barolo</person>
+        <person id="girolamo" status="unmarried" sex="m" condition="alive-deceased" age="youth"
+            role="merchant" estate="mercantile" origin="Firenze"><rel whom="leonardosighieri"
+                type="son"/><rel whom="madre-0408" type="son"/><rel whom="salvestra" type="lover"
+            />Girolamo Sighieri</person>
+        <person id="giuffredi" status="unmarried-to-married" sex="m"
+            condition="temporarily-imprisoned" age="child-youth" estate="noble" origin="Napoli"
+                ><disguise disguisename="GiannottoProcida" sex="m" age="child-youth" role="servant"
+                estate="poor" origin="Procida"/><rel whom="beritolacaracciola arrighettocapece"
+                type="son"/><rel whom="loscacciato" type="brother"/><rel whom="spina" type="husband"
+                /><rel whom="corradomalaspina gasparredoria" type="servant"/>Giuffredi / Giannotto
+            di Procida</person>
+        <person id="gisippo" religion="pagan" status="unmarried-to-married" sex="m" estate="noble"
+            origin="Atene"><rel whom="cremete" type="son"/><rel whom="tito" type="friend"/><rel
+                whom="fulvia" type="husband"/><rel whom="parentigisippo-1008" type="relative"
+            />Gisippo</person>
+        <person id="santogiuliano" type="saint" religion="christian" status="married" sex="m"
+            condition="deceased" estate="religious">san Giuliano</person>
+        <person id="gostanza-0404" type="historical" religion="christian" sex="f" age="adult"
+            estate="royalty"><rel whom="reguglielmo" type="aunt"/><rel whom="ruggieri-0404"
+                type="sister"/><rel whom="federicoii" type="mother"/><rel whom="guiscardo"
+                type="relative"/><rel whom="remanfredi" type="grandmother"/>Gostanza Hohenstaufen
+            (IV.4)</person>
+        <person id="gostanza" religion="christian" status="unmarried-to-married" sex="f" age="youth"
+            estate="noble" origin="Lipari"><rel whom="martuccio" type="wife"/>Gostanza
+            (V.2)</person>
+        <person id="gottifrebuglione" type="historical" sex="m" age="adult" role="duke"
+            estate="noble" origin="France">Gottifr&#233; di Buglione</person>
+        <person id="griselda" religion="christian" status="unmarried-to-married" sex="f"
+            age="youth-adult" role="housewife" estate="poor" origin="Sanluzzo"><rel
+                whom="giannucole" type="daughter"/><rel whom="gualtierisanluzzo" type="wife"/><rel
+                whom="figliuola-1010 figliuolo-1010" type="mother"/>Griselda</person>
+        <person id="gualtierianversa" status="married" sex="m" condition="alive-deceased"
+            age="adult-elder" role="count" estate="noble" origin="Anversa"><disguise sex="m"
+                role="servant" estate="poor" origin="Piccardia"/><rel whom="luigi violante"
+                type="father"/>Gualtieri conte d'Anguersa</person>
+        <person id="gualtierisanluzzo" religion="christian" status="unmarried-to-married" sex="m"
+            age="adult" role="lord" estate="noble" origin="Sanluzzo"><rel whom="griselda"
+                type="husband"/><rel whom="figliuola-1010 figliuolo-1010" type="father"/><rel
+                whom="contipanago" type="relative"/><rel whom="famigliare-1010" type="relative"
+            />Gualtieri marchese di Sanluzzo</person>
+        <person id="gasparredoria" sex="m" age="adult" estate="noble" origin="Genova">messer
+            Guasparrino Doria</person>
+        <person id="guasparruolo" status="married" sex="m" role="merchant" estate="mercantile"
+            origin="Milano"><rel whom="ambruogia" type="husband"/>Guasparruolo Cagastraccio
+            <!--really!--></person>
+        <person id="guasparruolosaliceto" status="married" sex="m" age="adult" role="legalauthority"
+            origin="Forlimpopoli"><rel whom="bergamina" type="husband"/>Guasparuolo da
+            Saliceto</person>
+        <person id="guccio" sex="m" age="adult" role="servant" estate="poor"><rel
+                whom="fratecipolla" type="servant"/>Guccio (Balena o Imbratta o Porco)</person>
+        <person id="reguglielmo" type="historical" religion="christian" status="married" sex="m"
+            age="adult" role="king" estate="royalty" origin="Sicilia"><rel whom="gostanza-0404"
+                type="nephew"/><rel whom="guiscardo" type="relative"/><rel whom="ruggieri-0404"
+                type="nephew"/><rel whom="federicoii" type="cousin"/><rel whom="gerbino"
+                type="grandfather"/>Guglielmo II di Sicilia</person>
+        <person id="guidocavalcanti" type="historical" sex="m" age="adult" role="writer"
+            estate="noble" origin="Firenze"><rel whom="cavalcantecavalcanti" type="son"/>Guido
+            Cavalcanti</person>
+        <person id="guidotto" sex="m" condition="alive-deceased" age="elder" role="soldier"
+            estate="military" origin="Cremona"><rel whom="agnesabernabuccio" type="guardian"
+            />Guidotto da Cremona</person>
+        <person id="guidoanastagi" religion="christian" sex="m" condition="deceased" role="knight"
+            estate="noble" origin="Ravenna">Guido degli Anastagi</person>
+        <person id="guidomonforte" type="historical" sex="m" age="adult" role="count" estate="noble"
+            origin="France">Guido di Monforte</person>
+        <person id="guglielmino" sex="m" age="adult" origin="Romagna">Guiglielmino da
+            Medicina</person>
+        <person id="guiglielmoborsiere" sex="m" age="adult" role="courtier" estate="noble"
+            origin="Firenze">Guiglielmo Borsiere</person>
+        <person id="guiglielmoguardastagno" religion="christian" sex="m" condition="alive-deceased"
+            age="adult" role="knight" estate="noble" origin="France"><rel
+                whom="moglierossiglione-0409" type="lover"/>Guiglielmo Guardastagno</person>
+        <person id="guiglielmomagna" type="historical" religion="christian"
+            status="unmarried-to-married" sex="m" age="adult" role="knight" estate="noble"><rel
+                whom="isottauberti" type="husband"/>Guiglielmo della Magna</person>
+        <person id="guiglielmorossiglione" status="married" sex="m" age="adult" role="knight"
+            estate="noble" origin="Roussillon"><rel whom="moglierossiglione-0409" type="husband"
+                /><rel whom="guiglielmoguardastagno" type="murderer"/>Guiglielmo
+            Rossiglione</person>
+        <person id="guiscardo" status="unmarried" sex="m" condition="alive-deceased" age="adult"
+            estate="poor" origin="Salerno"><rel whom="ghismonda" type="lover"/><rel whom="tancredi"
+                type="servant"/>Guiscardo</person>
+        <person id="gulfardo" religion="christian" status="unmarried" sex="m" role="soldier"
+            estate="military" origin="Germany"><rel whom="ambruogia" type="lover"/>Gulfardo</person>
+        <!--********H*******-->
+        <!--please insert Hohestaunfen here, if Boccaccio mentions it-->
+        <!--********I*******-->
+        <person id="iancofiore" status="unmarried" sex="f" age="adult" role="outlaw"
+            estate="mercantile" origin="Palermo"><rel whom="salabaetto" type="lover"/>madonna
+            Iancofiore</person>
+        <person id="ippocrate" religion="pagan" sex="m" condition="deceased" age="adult"
+            role="doctor" origin="ancientGreece">Ipocrate (I.in) Ipocrasso / Porcograsso
+            (VIII.9)</person>
+        <person id="isabella" status="married" sex="f" role="housewife" estate="noble"
+            origin="Firenze"><rel whom="marito-0706" type="wife"/><rel whom="leonetto" type="lover"
+                /><rel whom="lambertuccio" type="lover"/>Isabella</person>
+        <person id="isabetta" religion="christian" status="unmarried" sex="f" age="youth" role="nun"
+            estate="religious">Isabetta</person>
+        <person id="monnaisabetta" religion="christian" sex="f" age="adult" role="housewife"
+            origin="Firenze"><rel whom="frapuccio" type="wife"/><rel whom="donfelice" type="lover"
+            />Monna Isabetta</person>
+        <person id="isnardo" condition="ill-deceased" role="count" estate="noble"
+            origin="Roussillon"><rel whom="beltramo" type="father"/>Isnardo di Rossiglione</person>
+        <person id="isottauberti" religion="christian" status="unmarried-to-married" sex="f"
+            age="youth" estate="noble" origin="Firenze"><rel whom="neriuberti" type="daughter"/><rel
+                whom="ginevrauberti" type="sister"/><rel whom="guiglielmomagna" type="wife"/>Isotta
+            Uberti / Isotta la bionda</person>
+        <!--********L*******-->
+        <person id="lagina" status="unmarried" sex="f" estate="poor" origin="Firenze"><rel
+                whom="stramba" type="lover"/>Lagina</person>
+        <person id="landolfoprocida" sex="m" age="adult" origin="Procida"><rel whom="gianprocida"
+                type="brother"/><rel whom="gianniprocida" type="father"/>Landolfo di
+            Procida</person>
+        <person id="landolfo" religion="christian" sex="m" role="merchant" estate="mercantile"
+            origin="Ravello">Landolfo Rufolo</person>
+        <person id="lamberti" type="historical" role="family" origin="Firenze">Lamberti</person>
+        <person id="lamberto" status="married" sex="m" condition="temporarily-imprisoned"
+            role="merchant" estate="noble" origin="Firenze"><rel whom="tebaldo" type="son"/><rel
+                whom="agolanti" type="relative"/><rel whom="agolante tedaldo" type="brother"
+            />Lamberto Agolanti</person>
+        <person id="lambertuccio" status="unmarried" sex="m" role="knight" estate="noble"
+            origin="Firenze"><rel whom="isabella" type="lover"/>Lambertuccio</person>
+        <person id="lapuccio" sex="m" age="adult" role="artisan" estate="mercantile"
+            origin="Varlungo">Lapuccio</person>
+        <person id="lazzarinodeguazzagliotri" sex="m" age="adult" origin="Prato"><rel
+                whom="madonnafilippa" type="lover"/>Lazzarino de Guazzagliotri</person>
+        <person id="leonardosighieri" status="married" sex="m" condition="alive-deceased"
+            age="adult" role="merchant" estate="mercantile" origin="Firenze"><rel whom="madre-0408"
+                type="husband"/><rel whom="girolamo" type="father"/>Leonardo Sighieri</person>
+        <person id="leonetto" status="unmarried" sex="m" age="youth" estate="mercantile"
+            origin="Firenze"><rel whom="isabella" type="lover"/>Leonetto / Lionetto</person>
+        <person id="lidia" status="married" sex="f" age="youth" role="housewife" estate="noble"
+            origin="Argo"><rel whom="nicostrato" type="wife"/><rel whom="pirro" type="lover"
+            />Lidia</person>
+        <person id="liello" status="married" sex="m" role="lord" estate="noble" origin="Roma"><rel
+                whom="donna-0503" type="husband"/>Liello di Campo di Fiore degli Orsini</person>
+        <person id="lisa" religion="christian" status="unmarried-to-married" sex="f"
+            condition="temporarily-ill" age="youth" estate="noble" origin="Firenze"><rel
+                whom="bernardo madre-1007" type="daughter"/><rel whom="perdicone" type="wife"/>Lisa
+            Puccini</person>
+        <person id="lisettaquirino" status="married" sex="f" age="adult" role="housewife"
+            estate="mercantile" origin="Venezia"><rel whom="berto" type="lover"/>Lisetta Quirino
+            (IV.2)</person>
+        <person id="lisimaco" status="unmarried-to-married" sex="m" age="adult" role="cityauthority"
+            estate="noble" origin="Rodi"><rel whom="cassandrea" type="husband"/>Lisimaco</person>
+        <person id="lizio" sex="m" age="adult" role="knight" estate="noble" origin="Romagna"><rel
+                whom="giacomina" type="husband"/><rel whom="caterina" type="father"/>Lizio da
+            Valbona</person>
+        <person id="lodovico" status="unmarried" sex="m" role="knight" estate="noble"
+            origin="Parigi"><rel whom="beatricegalluzzi" type="lover"/><rel whom="eganogalluzzi"
+                type="servant"/><disguise disguisename="Anichino" status="unmarried" sex="m"
+                role="servant" estate="poor"/>Lodovico / Anichino</person>
+        <person id="lorenzo" status="unmarried" condition="alive-deceased" age="youth"
+            role="merchant" estate="mercantile" origin="Pisa"><rel whom="ellisabetta" type="lover"
+            />Lorenzo</person>
+        <person id="lotto" sex="m" age="adult" role="merchant" estate="mercantile">Lotto</person>
+        <person id="lottogualandi" sex="m" age="adult" estate="noble" origin="Pisa"><rel
+                whom="bartolomea" type="father"/>Lotto Gualandi</person>
+        <person id="lusca" sex="f" age="adult" role="intermediary" estate="poor" origin="Argo"><rel
+                whom="lidia" type="servant"/>Lusca</person>
+        <!--********M*******-->
+        <person id="maddalena" type="saint" sex="f" condition="deceased" age="adult"
+            estate="religious">Maddalena</person>
+        <person id="maffeopallizzi" type="historical" religion="christian"
+            status="unmarried-to-married" sex="m" age="adult" role="knight" estate="noble"
+            origin="Messina"><rel whom="ginevrauberti" type="husband"/>Maffeo da Palizzi</person>
+        <person id="malagevole" sex="m" estate="poor" origin="Firenze">Malagevole</person>
+        <person id="malgheridaghisolieri" status="unmarried" sex="f" age="adult" role="widow"
+            origin="Bologna">Malgherida dei Ghisolieri</person>
+        <person id="manardi" role="family"><rel whom="ricciardomanardi" type="family"/>Manardi da
+            Brettinoro</person>
+        <!--gr 03/10 maybe also his wife? it seems to make more sense to list her family of origin-->
+        <person id="remanfredi" type="historical" sex="m" age="adult" role="emperor"
+            estate="royalty"><rel whom="federicoii" type="son"/><rel whom="gostanza-0404"
+                type="grandson"/><rel whom="fediiar" type="grandfather"/><rel whom="reina-1007"
+                type="father"/>re Manfredi (di Sicilia)</person>
+        <!--gr 03/09<rel type="relative" whom="Hohenstaufen">-->
+        <person id="mangione" sex="m" role="pander" estate="mercantile" origin="Firenze">Mangione
+            (IX.5)</person>
+        <person id="manicodiscopa" type="fictional" sex="m">Manico di Scopa</person>
+        <person id="manuello" sex="m" age="youth" estate="royalty" origin="Costantinopoli"><rel
+                whom="imperatorecostantinopoli" type="nephew"/>Manovello</person>
+        <person id="mannucciocuculia" religion="christian" sex="m" estate="noble"
+            origin="SanFrediano"><rel whom="monnatessa" type="father"/>Mannuccio dalla
+            Cuculia</person>
+        <person id="marato" religion="christian" sex="m" condition="alive-deceased" age="youth"
+            estate="noble"><rel whom="pericone" type="brother"/><rel whom="alatiel" type="lover"
+            />Marato</person>
+        <person id="marchese" religion="christian" sex="m" age="adult" role="jester"
+            origin="Firenze">Marchese</person>
+        <person id="marcovarrone" religion="pagan" sex="m" age="adult" role="cityauthority"
+            estate="military" origin="Roma">Marco Varrone</person>
+        <person id="margheritaimolese" status="married" sex="f" age="adult" estate="noble"
+            origin="Firenze"><rel whom="talano" type="wife"/>Margherita d'Imolese</person>
+        <!--I am not sure about the estate. See Talano as
+    well. Thanks, Monica-->
+        <person id="marino" status="married" age="adult" estate="noble" origin="Ischia"><rel
+                whom="restituta" type="father"/>Marino Bolgaro</person>
+        <person id="martellino" religion="christian" sex="m" age="adult" role="jester"
+            origin="Firenze"><disguise sex="m" condition="temporarily-ill" estate="unknown"
+            />Martellino</person>
+        <person id="martuccio" religion="christian" status="unmarried-to-married" sex="m"
+            condition="temporarily-imprisoned" age="youth" role="pirate" estate="military"
+            origin="Lipari"><rel whom="gostanza" type="husband"/>Martuccio Gomito</person>
+        <person id="masettolamporecchio" religion="christian" status="unmarried" sex="m" age="youth"
+            role="servant" estate="poor" origin="Tuscany"><rel whom="monache-0301" type="servant"
+                /><rel whom="monache-0301" type="lover"/>Masetto da Lamporecchio</person>
+        <person id="masosaggio" religion="christian" sex="m" age="adult" role="merchant"
+            estate="mercantile">Maso del Saggio</person>
+        <person id="mechtildemagdeburg" type="historical" religion="christian" status="unmarried"
+            sex="f" age="adult" role="nun" estate="religious" origin="Magdeburgo">donna Matelda /
+            Mechtilde di Magdeburg</person>
+        <person id="matteuzzo" sex="m" age="adult" estate="mercantile" origin="Firenze"
+            >Matteuzzo</person>
+        <person id="mazza" type="fictional" sex="m">messer Mazza</person>
+        <person id="matteomontagna" type="historical" status="married" sex="m" age="elder"
+            role="doctor" estate="noble" origin="Salerno"><rel whom="moglie-0410" type="husband"
+            />Mazzeo della Montagna</person>
+        <person id="melchisedech" religion="jew" sex="m" age="adult" role="moneylender"
+            estate="mercantile" origin="AlessandriaEg">Melchisedech</person>
+        <person id="melisso" sex="m" age="youth" role="unspecified" estate="noble" origin="Laiazzo"
+            >Melisso</person>
+        <person id="meriabdela" religion="muslim" sex="m" age="adult" role="sultan" estate="royalty"
+            origin="Tunisi">Meriabdela</person>
+        <person id="meta" type="fictional" sex="m">don Meta</person>
+        <person id="meucciotura" religion="christian" status="unmarried" sex="m" age="youth"
+            role="unspecified" estate="poor" origin="Siena"><rel whom="tingocciomini" type="friend"
+                /><rel whom="mitaanselmini" type="lover"/>Meuccio di Tura</person>
+        <person id="sanmichele" type="saint" religion="christian" sex="m" condition="deceased"
+            estate="religious">san Michele</person>
+        <person id="michelescalza" sex="m" age="adult" origin="Firenze">Michele Scalza</person>
+        <person id="michelescotto" type="historical" sex="m" age="adult" role="magician"
+            estate="noble" origin="Scotland">Michele Scotto</person>
+        <person id="mico" sex="m" age="adult" role="writer" estate="unknown" origin="Siena">Mico da
+            Siena</person>
+        <person id="minghino" status="unmarried-to-married" sex="m" age="youth"><rel
+                whom="agnesabernabuccio" type="husband"/>Minghino di Mingole</person>
+        <person id="minuccio" sex="m" age="adult" role="artist" origin="Arezzo">Minuccio
+            d'Arezzo</person>
+        <person id="mitaanselmini" status="married" sex="f" role="unspecified" estate="poor"
+            origin="Siena"><rel whom="ambruogioanselmini" type="wife"/><rel
+                whom="tingocciomini meucciotura" type="lover"/>monna Mita Anselmini</person>
+        <person id="mitridanes" sex="m" age="youth" role="unspecified" estate="noble"
+            origin="MidEast-FarEast">Mitridanes</person>
+        <person id="musciattofranzesi" type="historical" sex="m" age="adult" role="merchant"
+            estate="mercantile" origin="Firenze">Musciatto Franzesi</person>
+        <!--********N*******-->
+        <person id="naldino" sex="m" age="adult" role="artisan" estate="mercantile"
+            origin="Varlungo">Naldino</person>
+        <person id="nastagio" status="unmarried-to-married" sex="m" age="youth" estate="noble"
+            origin="Ravenna"><rel whom="figliatraversari-0508" type="husband"/>Nastagio degli
+            Onesti</person>
+        <person id="natan" sex="m" age="elder" role="lord" estate="noble" origin="Cattaio"><disguise
+                disguisename="servidorNatan" sex="m" age="elder" role="servant" estate="poor"/>Natan
+            / servidor di Natan</person>
+        <person id="neerbale" status="unmarried-to-married" sex="m" age="youth" role="unspecified"
+            origin="Capsa"><rel whom="alibech" type="husband"/>Neerbale</person>
+        <person id="negropontecarraro" brigata="no" sex="m" age="adult" estate="noble"
+            origin="Brescia"><rel whom="andreuola" type="father"/>Negro da Ponte Carraro</person>
+        <person id="nellodidino" type="historical" sex="m" age="adult" role="artist"
+            estate="mercantile" origin="Firenze">Nello (di Dino)</person>
+        <person id="neriuberti" type="historical" religion="christian" sex="m" age="adult"
+            role="knight" estate="noble" origin="Firenze"><rel whom="ginevrauberti isottauberti"
+                type="father"/>messer Neri degli Uberti</person>
+        <person id="nerivannini" sex="m" age="adult" estate="noble" origin="Firenze">Neri
+            Vannini</person>
+        <person id="niccola" sex="m" age="adult" role="cityauthority" estate="noble"
+            origin="SantElpidio-a-Mare">Niccola da San Lepidio</person>
+        <!--maybe interesting having San Lepidio in placesdb-->
+        <person id="niccolocornacchini" sex="m" age="adult" role="merchant" estate="mercantile"
+            origin="Firenze"><rel whom="filippocornacchini" type="father"/>Niccol&#242;
+            Cornacchini</person>
+        <person id="salabaetto" status="unmarried" sex="m" age="youth" role="merchant"
+            estate="mercantile" origin="Firenze"><rel whom="iancofiore" type="lover"/>Niccol&#242;
+            da Cignano / Salabaetto</person>
+        <person id="niccologragnano" status="married" sex="m" condition="deceased" age="adult"
+            origin="ValGragnano(Carrara)"><rel whom="spina" type="husband"/>Niccol&#242; da
+            Grignano</person>
+        <person id="niccolosa" status="unmarried" sex="f" role="prostitute" estate="mercantile"
+            origin="Firenze"><rel whom="filippocornacchini" type="lover"/>Niccolosa</person>
+        <person id="niccolosa-0906" status="unmarried" sex="f" age="youth" role="maiden"
+            estate="poor"><rel whom="oste-0906" type="daughter"/><rel whom="pinuccio" type="lover"
+            />Niccolosa</person>
+        <person id="niccoluccio" religion="christian" status="married" sex="m" age="adult"
+            role="unspecified" estate="noble" origin="Bologna"><rel whom="catalina" type="husband"
+                /><rel whom="gentile" type="friend"/><rel whom="figlio-1004" type="father"
+            />Niccoluccio Caccianimico / Caccianemico</person>
+        <person id="nicostrato" status="married" sex="m" age="elder" role="lord" estate="noble"
+            origin="Argo"><rel whom="lidia" type="husband"/>Nicostrato</person>
+        <person id="nonnapulci" status="married" sex="f" age="youth" role="housewife"
+            origin="Firenze"><rel whom="alessorinucci" type="cousin"/>monna Nonna de' Pulci
+            (VI.3)</person>
+        <person id="nuta" status="unmarried" sex="f" age="youth" role="servant" estate="poor"
+            origin="Certaldo">Nuta (VI.10)</person>
+        <person id="nuto" sex="m" age="adult" role="peasant" estate="poor" origin="Lamporecchio"
+            >Nuto (III.1)</person>
+        <person id="nutobuglietti" sex="m" age="adult" origin="Varlungo"><rel whom="buglietto"
+                type="son"/>Nuto Buglietti (VIII.2)</person>
+        <!--********O*******-->
+        <person id="oretta" status="married" sex="f" age="adult" role="housewife" estate="noble"
+            origin="Firenze"><rel whom="gerispina" type="wife"/>madonna Oretta (VI.1)</person>
+        <person id="ormisda" status="unmarried" sex="m" condition="alive-deceased" age="youth"
+            estate="noble" origin="Rodi"><rel whom="pasimunda" type="brother"/>Ormisda
+            (V.1)</person>
+        <person id="orsini" religion="christian" estate="noble" origin="Roma"><rel whom="liello"
+                type="family"/>Orsini (V.3)</person>
+        <person id="ozbek" type="historical" status="unmarried-to-married" sex="m"
+            condition="alive-deceased" age="youth" role="king" estate="royalty"><rel whom="alatiel"
+                type="husband"/>Osbech (II.7)</person>
+        <person id="ottaviano" type="historical" religion="pagan" sex="m" age="adult" role="emperor"
+            origin="Roma">Ottaviano Cesare Augusto (X.8)</person>
+        <!--********P*******-->
+        <person id="paganinomonaco" status="unmarried-to-married" sex="m" age="adult" role="pirate"
+            origin="Monaco"><rel whom="bartolomea" type="husband"/>Paganino da Monaco/da Mare
+            (II.10)</person>
+        <person id="palemone" type="fictional" sex="m">Palemone (VII.con)</person>
+        <!--**character of Teseida with Arcita**-->
+        <person id="paolotraversari" status="married" sex="m" age="adult" estate="noble"
+            origin="Ravenna"><rel whom="figliatraversari-0508" type="father"
+            /><!--rel
+    type="father" whom="Aica", according to Branca-->Paolo Traversari
+            (V.8)</person>
+        <person id="pasimunda" sex="m" condition="alive-deceased" age="youth" estate="noble"
+            origin="Rodi"><rel whom="ormisda" type="brother"/>Pasimunda (V.1)</person>
+        <person id="pasquino" status="unmarried" age="youth" role="merchant" estate="plebeian"
+            origin="Firenze"><rel whom="simona" type="lover"/><rel
+                whom="stramba atticiato malagevole" type="friend"/>Pasquino (IV.7)</person>
+        <person id="perdicone" religion="christian" status="unmarried-to-married" sex="m"
+            age="youth" estate="poor"><rel whom="lisa" type="husband"/>Perdicone (X.7)</person>
+        <person id="pericone" religion="christian" sex="m" condition="alive-deceased" age="adult"
+            estate="noble" origin="Visalgo"><rel whom="marato" type="brother"/><rel whom="alatiel"
+                type="lover"/>Pericone da Visalgo (II.7)</person>
+        <!--Visalgo is a
+    castle in Maiorca-->
+        <person id="peronella" religion="christian" status="married" sex="f" age="youth"
+            role="housewife" estate="poor" origin="Napoli"><rel whom="marito-0702" type="wife"/><rel
+                whom="giannello" type="lover"/>Peronella (VII.2)</person>
+        <person id="luigi" status="unmarried-to-married" sex="m" age="youth-adult" estate="noble"
+                ><disguise disguisename="Perotto" sex="m" estate="poor" origin="Piccardia"/><rel
+                whom="gualtierianversa" type="son"/><rel whom="violante" type="brother"/>Luigi /
+            Perotto (II.8)</person>
+        <person id="piccarda" religion="christian" status="unmarried" sex="f" age="adult"
+            role="widow" estate="noble" origin="Fiesole">Piccarda (VIII.4)</person>
+        <!--<person sex="m" estate="religious" religion="christian" type="saint"
+    condition="deceased" id="santoPiero">san Piero</person>***NOT IN BRANCA, not sure
+    why it was encoded - vz,mh-->
+        <person id="pietro" sex="m" role="unspecified" estate="mercantile" origin="Perugia"><rel
+                whom="andreuccio" type="father"/>Pietro / padre di Andreuccio da Perugia</person>
+        <person id="pietrodatresanti" status="married" sex="m" age="adult" role="merchant"
+            estate="poor" origin="Tresanti"><rel whom="gemmata" type="husband"/>Pietro da Tre Santi
+            (IX.10)</person>
+        <person id="pierodifiorentino" sex="m" age="youth" origin="Firenze">Piero di Fiorentino
+            (VI.6)</person>
+        <person id="pietroiiiaragona" type="historical" sex="m" age="adult" role="king"
+            estate="royalty" origin="Aragona(Spain)"><rel whom="fediiar" type="father"/>Piero di
+            Raona (II.6, X.7)</person>
+        <person id="pietroboccamazza" status="unmarried-to-married" sex="m" age="youth"
+            estate="noble" origin="Roma"><rel whom="agnolella" type="husband"/>Pietro Boccamazza
+            (V.3)</person>
+        <person id="pietrocanigiano" type="historical" sex="m" age="adult" role="treasurer"
+            estate="noble" origin="Firenze"><rel whom="salabaetto" type="friend"/>Pietro dello
+            Canigiano (VIII.10)</person>
+        <person id="pietrovinciolo" sexorientation="bisexual" status="married" sex="m" age="adult"
+            estate="mercantile" origin="Perugia"><rel whom="moglie-0510" type="husband"/><rel
+                whom="ercolano" type="friend"/>Pietro di Vinciolo (V.10)</person>
+        <person id="pinuccio" status="unmarried" sex="m" age="youth" role="unspecified"
+            estate="noble" origin="Firenze"><rel whom="adriano" type="friend"/><rel
+                whom="niccolosa-0906" type="lover"/>Pinuccio (IX.6)</person>
+        <person id="pirro" status="unmarried" sex="m" age="youth" role="servant" estate="poor"
+            origin="Argo"><rel whom="nicostrato" type="servant"/><rel whom="lidia" type="lover"
+            />Pirro (VII.9)</person>
+        <person id="prestogiovanni" type="mythological" sex="m" age="adult" role="emperor"
+            estate="religious" origin="Ethiopia">Presto Giovanni (VIII.9)</person>
+        <person id="primasso" type="historical" sex="m" age="adult" role="writer" origin="Parigi"
+            >Primasso (I.7)</person>
+        <person id="publioambusto" religion="pagan" sex="m" age="youth" role="murderer"
+            estate="poor" origin="Roma"><rel whom="quinzi" type="family"/>Publio Ambusto
+            (X.8)</person>
+        <person id="publioqf" religion="pagan" sex="m" condition="alive-deceased" age="adult"
+            estate="noble" origin="Roma"><rel whom="tito fulvia" type="father"/><rel whom="cremete"
+                type="friend"/><rel whom="quinzi" type="family"/>Publio Quinzio Fulvo (X.8)</person>
+        <person id="frapuccio" religion="christian" status="married" sex="m" age="adult"
+            estate="religious" origin="Firenze"><rel whom="monnaisabetta" type="husband"/>Puccio di
+            Rinieri/frate Puccio (III.4)</person>
+        <!--********Q*******-->
+        <person id="quinzi" type="historical" estate="noble" origin="Roma"><rel
+                whom="publioqf publioambusto tito" type="family"/>Quinzii</person>
+        <!--********R*******-->
+        <person id="agnologabriello" religion="christian" role="angel"><orig reg="angelo-Gabriele"
+            />Agnolo Gabriello (IV.2)</person>
+        <person id="restagnone" sex="m" condition="alive-deceased" age="youth-adult"
+            role="unspecified" estate="noble" origin="Marsiglia"><rel whom="ninettacivada"
+                type="lover"/>Restagnone (IV.3)</person>
+        <person id="restituta" status="unmarried-to-married" sex="f" age="youth" estate="noble"
+            origin="Ischia"><rel whom="marino" type="daughter"/><rel whom="gianniprocida"
+                type="wife"/>Restituta (V.6)</person>
+        <person id="ribi" sex="m" role="jester" origin="Firenze"><rel whom="masosaggio matteuzzo"
+                type="friend"/>Ribi (VIII.5)</person>
+        <person id="riccardochinzica" status="unmarried-to-married" sex="m" age="elder"
+            role="legalauthority" origin="Pisa"><rel whom="bartolomea" type="husband"/>messer
+            Riccardo di Chinzica (II.10)</person>
+        <person id="ricciardomanardi" status="unmarried-to-married" sex="m" age="youth"
+            estate="noble" origin="Bertinoro"><rel whom="caterina" type="husband"/>Ricciardo de'
+            Manardi da Brettinoro (V.4)</person>
+        <person id="ricciardominutolo" status="married" sex="m" age="youth" estate="noble"
+            origin="Napoli"><rel whom="catella" type="lover"/>Ricciardo Minutolo (III.6)</person>
+        <person id="rinaldoasti" sex="m" age="adult" role="merchant" estate="mercantile"
+            origin="Ferrara"><rel whom="vedova-0202" type="lover"/>Rinaldo d'Asti (II.2)</person>
+        <person id="fraterinaldo" religion="christian" status="unmarried" sex="m" age="adult"
+            role="preacher" estate="religious" origin="Siena"><rel whom="agnesa" type="lover"/>frate
+            Rinaldo / Rinaldo (VII.3)</person>
+        <person id="rinaldodepugliesi" sex="m" age="adult" origin="Prato"><rel whom="madonnafilippa"
+                type="husband"/>Rinaldo de' Pugliesi (VI.7)</person>
+        <person id="rinieri" status="unmarried" sex="m" age="adult" role="scholar" estate="noble"
+            origin="Firenze">Rinieri (VII.7)</person>
+        <person id="rinuccio" status="unmarried" sex="m" age="adult" role="unspecified"
+            estate="noble" origin="Firenze">Rinuccio Palermini (IX.1)</person>
+        <person id="robertoangio" sex="m" role="king" estate="royalty"><rel whom="recarloi"
+                type="grandson"/><rel whom="recarloii" type="son"/>Roberto d'Angi&#242;
+            (VI.3)</person>
+        <!--<rel type="relative" whom="Angio">-->
+        <person id="ruberto" status="unmarried" sex="m" age="youth" origin="Firenze"><rel
+                whom="sismonda" type="lover"/>Ruberto (VII.8)</person>
+        <person id="ruggieri-0404" religion="christian" sex="m" age="adult" estate="royalty"><rel
+                whom="gerbino" type="father"/><rel whom="gostanza-0404" type="brother"/><rel
+                whom="reguglielmo" type="son"/><rel whom="federicoii" type="uncle"/><rel
+                whom="guiscardo" type="family"/>Ruggieri (IV.4)</person>
+        <person id="ruggieriaieroli" status="unmarried" sex="m" age="youth" role="outlaw"
+            estate="noble" origin="Salerno"><rel whom="moglie-0410" type="lover"/>Ruggieri d'Aieroli
+            (IV.10)</person>
+        <person id="ruggierifigiovanni" religion="christian" sex="m" role="knight" estate="noble"
+            origin="Firenze"><rel whom="figiovanni" type="family"/>Ruggieri de' Figiovanni
+            (X.1)</person>
+        <person id="ruggieriloria" type="historical" sex="m" role="admiral" estate="military"
+            origin="Lauria">Ruggieri de Loria (V.6)</person>
+        <person id="rustico" religion="christian" sex="m" age="youth" role="hermit"><rel
+                whom="alibech" type="lover"/>Rustico (III.10)</person>
+        <!--********S*******-->
+        <person id="saladino" religion="muslim" sex="m" age="adult" role="sultan" estate="royalty"
+            origin="AlessandriaEg"><disguise disguisename="mercatante-1009" religion="muslim"
+                sex="m" age="adult" role="merchant" estate="mercantile" origin="Cipro"/>Saladino /
+            Saladin (I.3 X.9) (Yusuf ibn-Ayyub)</person>
+        <person id="salomone" type="biblical" sex="m" age="adult" role="king" origin="Israel"
+            >Salamone (IX.9)</person>
+        <person id="salvestra" status="unmarried-to-married" sex="f" condition="alive-deceased"
+            age="youth" role="maiden" estate="poor" origin="Firenze"><rel whom="marito-0408"
+                type="wife"/><rel whom="girolamo" type="lover"/>Salvestra (IV.8)</person>
+        <person id="sandroagolanti" status="married" sex="m" age="adult" role="merchant"
+            estate="noble" origin="Treviso"><rel whom="agolanti" type="relative"/>Sandro
+            Agolanti</person>
+        <person id="loscacciato" status="unmarried-to-married" sex="m" age="child-youth"
+            estate="noble" origin="Lipari"><rel whom="arrighettocapece beritolacaracciola"
+                type="son"/><rel whom="giuffredi" type="brother"/><rel whom="gasparredoria"
+                type="servant"/>lo Scacciato (II.6)</person>
+        <person id="scannadio" sex="m" condition="deceased" role="outlaw" origin="Pistoia">Scannadio
+            (IX.1)</person>
+        <person id="scolaio" type="fictional" sex="m">Scolaio
+            <!--(X.con)**is that how you encode
+    the conclusioni dell'autore? -vz,mh--></person>
+        <person id="sicofante" type="fictional" sex="m">Sicofante (VI.in)</person>
+        <person id="simona" status="unmarried" sex="f" age="youth" role="artisan" estate="poor"
+            origin="Firenze"><rel whom="pasquino" type="lover"/>Simona (IV.7)</person>
+        <person id="simone" status="married" sex="m" age="adult" role="doctor" estate="mercantile"
+            origin="Firenze">Simone da Villa / maestro Simone (VIII.9, IX.3)</person>
+        <person id="sismonda" religion="christian" status="married" sex="f" role="housewife"
+            estate="noble" origin="Firenze"><rel whom="arriguccio" type="wife"/><rel whom="ruberto"
+                type="lover"/><rel whom="fratello1-0708 fratello2-0708 fratello3-0708" type="sister"
+                /><rel whom="madre-0708" type="daughter"/>monna Sismonda Berlinghieri
+            (VII.8)</person>
+        <person id="sofronia" religion="pagan" status="unmarried-to-married" sex="f" age="youth"
+            estate="noble" origin="Atene"><rel whom="tito" type="wife"/><rel
+                whom="parentisofronia-1008" type="relative"/>Sofronia (X.8)</person>
+        <person id="spina" status="unmarried-to-married" sex="f" age="youth" role="widow"
+            estate="noble"><rel whom="corradomalaspina mogliecmalaspina-0206" type="daughter"/><rel
+                whom="niccologragnano giuffredi" type="wife"/>Spina (II.6)</person>
+        <person id="spinelloccio" status="married" sex="m" age="youth" role="unspecified"
+            estate="plebeian" origin="Siena"><rel whom="mogliezeppa-0808" type="lover"/><rel
+                whom="mogliespinelloccio-0808" type="husband"/>Spinelloccio Tavena (VIII.8)</person>
+        <person id="squacchera" type="fictional">Squacchera (VIII.9)</person>
+        <person id="stecchi" religion="christian" sex="m" role="jester" origin="Firenze">Stecchi
+            (II.1)</person>
+        <person id="stramba" status="unmarried" sex="m" estate="poor" origin="Firenze"><rel
+                whom="lagina" type="lover"/>Stramba (Puccino) (IV.7)</person>
+        <!--********T*******-->
+        <person id="talano" status="married" sex="m" age="adult" role="unspecified" estate="noble"
+            origin="Firenze"><rel whom="margheritaimolese" type="husband"/>Talano d'Imolese
+            (IX.7)</person>
+        <person id="tamagnin" type="fictional">Tamagnin della Porta (VIII.9)</person>
+        <person id="tancredi" sex="m" age="elder" role="prince" estate="royalty" origin="Salerno"
+                ><rel whom="ghismonda" type="father"/>Tancredi (IV.1)</person>
+        <person id="tebaldo" religion="christian" sex="m" role="knight" estate="noble"
+            origin="Firenze"><rel whom="agolante lamberto tedaldo" type="father"/><rel
+                whom="agolanti" type="relative"/>messer Tebaldo Agolanti (II.3)</person>
+        <person id="tedaldo" status="married" sex="m" condition="temporarily-imprisoned"
+            role="merchant" estate="noble" origin="Firenze"><rel whom="tebaldo" type="son"/><rel
+                whom="agolante lamberto" type="brother"/><rel whom="agolanti" type="relative"
+            />Tedaldo Agolanti (II.3)</person>
+        <person id="tedaldoelisei" status="unmarried" sex="m" age="youth" estate="noble"
+            origin="Firenze"><disguise disguisename="FilippoSanlodecchio" sex="m" role="merchant"
+                estate="mercantile"/><rel whom="ermellina" type="lover"/>Tedaldo degli Elisei
+            (III.7)</person>
+        <person id="teodoro" status="unmarried-to-married" sex="m" age="youth" role="unspecified"
+            estate="noble" origin="Armenia"><rel whom="fineo" type="son"/><rel whom="violante-abate"
+                type="husband"/><rel whom="amerigo" type="servant"/>Teodoro / Pietro (V.7)</person>
+        <!--His real name is Teodoro; his "nome di battesimo" is
+    Pietro.  No disguise. -vz/mh-->
+        <person id="tessa" religion="christian" status="married" sex="f" age="adult"
+            role="housewife" estate="mercantile" origin="Firenze"><rel whom="calandrino" type="wife"
+            />monna Tessa (VIII.3, IX.3)</person>
+        <person id="monnatessa" religion="christian" status="married" sex="f" role="housewife"
+            estate="mercantile" origin="SanFrediano"><rel whom="giannilotteringhi" type="wife"/><rel
+                whom="federigoneripegolotti" type="lover"/><rel whom="mannucciocuculia"
+                type="daughter"/>monna Tessa dalla Cuculia (VII.1)</person>
+        <person id="teodolinda" status="married" sex="f" role="queen" estate="royalty"
+            origin="longobarda"><rel whom="autari agilulfo" type="wife"/>Teudelinga (III.2)</person>
+        <person id="tingocciomini" religion="christian" status="unmarried" sex="m"
+            condition="alive-deceased" age="youth" role="unspecified" estate="unknown"
+            origin="Siena"><rel whom="meucciotura" type="friend"/>Tingoccio Mini (VII.10)</person>
+        <person id="tito" religion="pagan" status="unmarried-to-married" sex="m" role="lord"
+            estate="noble" origin="Roma"><rel whom="cremete" type="ward"/><rel whom="publioqf"
+                type="son"/><rel whom="gisippo" type="friend"/><rel whom="sofronia" type="husband"
+                /><rel whom="quinzi" type="family"/>Tito Quinzio Fulvo (X.8)</person>
+        <person id="tofano" religion="christian" status="married" sex="m" age="adult" estate="noble"
+            origin="Arezzo"><rel whom="ghita" type="husband"/>Tofano (VII.4)</person>
+        <person id="torello" religion="christian" status="married" sex="m"
+            condition="temporarily-imprisoned" age="adult" role="knight" estate="noble"
+            origin="Pavia"><rel whom="adalieta" type="husband"/><rel whom="saladino" type="friend"
+                /><rel whom="abatesp-1009" type="nephew"/><disguise religion="muslim" sex="m"
+                age="adult" role="ambassador" estate="noble" origin="AlessandriaEg"/>Torello di Stra
+            da Pavia (X.9)</person>
+        <person id="torellodignes" religion="christian" sex="m" condition="alive-deceased"
+            role="knight" estate="noble" origin="Dignes">Torello di Dignes (X.9)</person>
+        <person id="traversari" estate="noble" origin="Ravenna"><rel whom="paolotraversari"
+                type="family"/>Traversari (V.8)</person>
+        <person id="troilo" type="mythological" sex="m" age="adult"><rel whom="criseida"
+                type="lover"/>Troilo (VI.in)</person>
+        <!--**character of "Filostrato" with
+    Criseida**-->
+        <!--********U*******-->
+        <person id="ughetto" sex="m" condition="alive-deceased" age="youth-adult" role="unspecified"
+            origin="Marsiglia"><rel whom="bertellacivada" type="lover"/><rel whom="folco"
+                type="friend"/>Ughetto (IV.3)</person>
+        <person id="usimbalda" religion="christian" status="unmarried" sex="f" age="adult"
+            role="nun" estate="religious">madonna Usimbalda (IX.2)</person>
+        <!--********V*******-->
+        <person id="avicenna" religion="pagan" sex="m" role="doctor" origin="ancientGreece"
+            >Vannaccena / Avicena (VIII.9)</person>
+        <person id="vegliomontagna" type="literary-historical" religion="another" sex="m"
+            role="religiousauthority" estate="religious">Veglio della Montagna (III.8)</person>
+        <person id="venere" type="mythological" religion="pagan" sex="f">Venere (II.7)</person>
+        <person id="verdiana" type="saint" sex="f" origin="Castelfiorentino"><rel
+                whom="vecchia-0510"/>Verdiana (V.10)</person>
+        <!--check vecchia-0510-->
+        <person id="vieridecerchi" type="historical" sex="m" age="adult" role="cityauthority"
+            estate="noble" origin="Firenze">Vieri de' Cerchi (IX.8)</person>
+        <person id="violante-abate" status="unmarried-to-married" sex="f" age="youth"
+            role="unspecified" estate="noble" origin="Trapani"><rel whom="amerigo" type="daughter"
+                /><rel whom="teodoro" type="wife"/>Violante (V.7)</person>
+        <!--********Z*******-->
+        <person id="zima" sex="m" estate="mercantile" origin="Pistoia"><rel whom="donna-0305"
+                type="lover"/>Ricciardo / il Zima (III.5)</person>
+        <person id="zeppa" type="historical" status="married" sex="m" age="youth" role="unspecified"
+            estate="noble" origin="Siena"><rel whom="spinelloccio" type="friend"/><rel
+                whom="mogliespinelloccio-0808" type="lover"/>Zeppa di Mino (VIII.8)</person>
+        <person id="ginevra" status="married" sex="f" role="housewife" estate="mercantile"
+            origin="Genova"><disguise disguisename="Sicurano" sex="m" role="servant" estate="poor"
+                /><rel whom="bernabo" type="wife"/><rel whom="encararh" type="servant"/>madonna
+            Zinevra Lomellini / Sicurano (II.9)</person>
+        <person id="zitacarapresa" sex="f" role="unspecified" estate="unknown" origin="Tresanti"
+            >Zita Carapresa di Giudice Leo (IX.10)</person>
+        <!-- it has no role in the novella, it's just named!!!-->
+        <!--************-->
+        <!--******************************UNNAMED******************************************-->
+        <!--**************-->
+        <person id="abate-0104" religion="christian" status="unmarried" sex="m" age="adult"
+            role="abbot" estate="religious" origin="Lunigiana"><rel whom="giovinetta-0104"
+                type="lover"/>abate (I.4)</person>
+        <person id="donna-0203" religion="christian" status="unmarried-to-married" sex="f"
+            role="princess" estate="royalty" origin="England"><disguise disguisename="abate-0203"
+                sex="m" age="adult" role="abbot" estate="religious" origin="England"/><rel
+                whom="alessandro" type="wife"/>donna / abate (II.3)</person>
+        <person id="abate-0308" religion="christian" sex="m" age="adult" role="abbot"
+            estate="religious" origin="Tuscany"><rel whom="donna-0308" type="lover"/>abate
+            (III.8)</person>
+        <person id="abatesp-1009" religion="christian" sex="m" age="adult" role="abbot"
+            estate="religious" origin="Pavia"><rel whom="torello" type="uncle"/>abate della chiesa
+            di San Piero (X.9)</person>
+        <person id="albegatrice-0309" sex="f" age="adult" role="innkeeper" estate="mercantile"
+            origin="Firenze">albegatrice (III.9)</person>
+        <person id="amante-0807" status="unmarried" sex="m" age="youth" role="unspecified"
+            estate="unknown" origin="Firenze"><rel whom="elena" type="lover"
+            />amante(VIII.7)</person>
+        <person id="ambasciatore-1009" religion="christian" sex="m" age="adult"
+            role="legalauthority" estate="noble" origin="Genova">ambasciadore (X.9)</person>
+        <!--**should the role be ambassador? -vz**-->
+        <person id="badessa-0301" religion="christian" status="unmarried" sex="f" age="adult"
+            role="churchauthority" estate="religious">badessa (III.1)</person>
+        <person id="barattiere-0908" sex="m" role="legalauthority" estate="poor" origin="Firenze"
+            >barattiere (IX.8)</person>
+        <person id="brigata-0606" sex="m" age="adult" origin="Firenze"><rel
+                whom="nerivannini pierodifiorentino" type="friend"/>brigata (VI.6)</person>
+        <person id="brigata-0609" sex="m" age="adult" estate="mercantile" origin="Firenze"><rel
+                whom="bettobrunelleschi" type="friend"/>brigata (VI.9)</person>
+        <person id="calzolaio-0307" sex="m" role="artisan" origin="Firenze">calzolaio
+            (III.7)</person>
+        <person id="cameriera-1005" sex="f" role="servant" estate="poor" origin="Udine"><rel
+                whom="dianora" type="servant"/>cameriera (X.5)</person>
+        <person id="castaldo-0301" sex="m" age="elder" role="steward" estate="poor">castaldo
+            (III.1)</person>
+        <person id="cavaliere-0203" sex="m" age="elder" role="knight" estate="military"
+            origin="England">l'uno de' cavalieri (II.3)</person>
+        <person id="cavaliere-0601" sex="m" age="adult" role="knight" estate="military"
+            origin="Firenze">cavaliere (VI.1)</person>
+        <person id="chierico-0802" religion="christian" status="unmarried" sex="m" age="youth"
+            role="churchauthority" estate="religious" origin="Varlungo">chierico(VIII.2)</person>
+        <person id="cognati-0402" sex="m" age="adult" estate="noble" origin="Venezia"><rel
+                whom="lisettaquirino" type="relative"/>cognati (IV.2)</person>
+        <person id="comare-0402" sex="f" age="adult" origin="Venezia">comare (IV.2)</person>
+        <person id="compagni-1003" role="unspecified" estate="unknown" origin="unknown"><rel
+                whom="mitridanes" type="friend"/>compagni (X.3)</person>
+        <person id="compagni-1006" estate="noble"><rel whom="recarloi" type="friend"/>compagni
+            (X.6)</person>
+        <person id="compagni-1009" religion="muslim" sex="m" role="unspecified" estate="noble"
+            origin="AlessandriaEg"><disguise disguisename="mercatanti-1009" religion="muslim"
+                sex="m" age="adult" role="merchant" estate="mercantile" origin="Cipro"/><rel
+                whom="torello" type="friend"/>compagni (X.9)</person>
+        <person id="compagno-0703" religion="christian" sex="m" origin="Siena"><rel
+                whom="fraterinaldo" type="friend"/>compagno (VII.3)</person>
+        <person id="contipanago" role="count" estate="noble" origin="Bologna"><rel
+                whom="gualtierisanluzzo figliuolo-1010 figliuola-1010" type="family"/>conti da
+            Panago (X.10)</person>
+        <!--**chosen to encode the whole family because both the
+    family and one particular member are mentioned and important, but none of them
+    actually ever speak -vz**-->
+        <person id="dama-0208" status="married" sex="f" age="adult" estate="noble" origin="Londra"
+                ><rel whom="giachetto" type="mother"/><rel whom="padregiachetto-0208" type="wife"
+                /><rel whom="violante" type="guardian"/>gran dama Lamiens / la donna (II.8)</person>
+        <person id="donna-0109" religion="christian" sex="f" estate="noble" origin="Guascogna"
+            >gentil donna di Guascogna (I.9)</person>
+        <person id="donna-0204" sex="f" age="adult" role="unspecified" estate="poor" origin="Corfu"
+            >donna (II.4)</person>
+        <person id="mogliecmalaspina-0206" status="married" sex="f" age="youth" estate="noble"
+            origin="Villafranca"><rel whom="corradomalaspina" type="wife"/><rel whom="spina"
+                type="mother"/>una/la donna (II.6)</person>
+        <person id="donna-0303" status="married" sex="f" age="adult" role="housewife" estate="noble"
+            origin="Firenze">donna (III.3)</person>
+        <person id="donna-0305" status="married" sex="f" age="adult" role="housewife" estate="noble"
+            origin="Pistoia"><rel whom="francesco" type="wife"/>donna (III.5)</person>
+        <person id="donna-0308" religion="christian" status="married" sex="f" age="adult"
+            role="housewife" estate="mercantile" origin="Tuscany"><rel whom="ferondo" type="wife"
+                /><rel whom="abate-0308" type="lover"/>,donna (III.8)</person>
+        <person id="donna-0309" sex="f" condition="indigent" age="adult" estate="noble"
+            origin="Firenze">gentil donna (III.9)</person>
+        <person id="moglierossiglione-0409" status="married" sex="f" age="adult" role="housewife"
+            estate="noble"><rel whom="guiglielmorossiglione" type="wife"/><rel
+                whom="guiglielmoguardastagno" type="lover"/>la donna (IV.9)</person>
+        <person id="donna-0503" status="married" sex="f" role="housewife" estate="noble"
+            origin="Roma"><rel whom="liello" type="wife"/>donna (V.3)</person>
+        <person id="donna-0705" religion="christian" status="married" sex="f" role="housewife"
+            estate="mercantile" origin="Rimini"><rel whom="geloso-0705" type="wife"/><rel
+                whom="filippo" type="lover"/>donna (VII.5)</person>
+        <person id="mogliezeppa-0808" status="married" sex="f" role="housewife" estate="mercantile"
+            origin="Siena"><rel whom="zeppa" type="wife"/><rel whom="spinelloccio" type="lover"
+            />donna / moglie di Zeppa (VIII.8)</person>
+        <person id="mogliespinelloccio-0808" status="married" sex="f" role="housewife"
+            estate="mercantile" origin="Siena"><rel whom="spinelloccio" type="wife"/>donna / moglie
+            di Spinelloccio (VIII.8)</person>
+        <person id="donna-0809" status="married" sex="f" age="adult" role="housewife"
+            estate="mercantile" origin="Firenze"><rel whom="simone" type="wife"/>donna
+            (VIII.9)</person>
+        <person id="donna-0906" status="married" sex="f" age="adult" role="housewife" estate="poor"
+                ><rel whom="oste-0906" type="wife"/><rel whom="niccolosa-0906" type="mother"/><rel
+                whom="adriano" type="lover"/>donna (IX.6)</person>
+        <person id="donna-0909" status="married" sex="f" role="housewife" estate="unknown"
+            origin="Antiochia"><rel whom="giosefo" type="wife"/>donna (IX.9)</person>
+        <person id="donne-0301" religion="christian" sex="f" age="youth" role="nun"
+            estate="religious" origin="Tuscany">donne (III.1)</person>
+        <person id="donne-0310" sex="f" origin="Capsa">donne (III.10)</person>
+        <person id="ducaatene" status="unmarried" sex="m" age="youth" role="duke" estate="noble"
+            origin="Atene"><rel whom="principemorea nuovoprincipemorea" type="relative"/><rel
+                whom="principemorea" type="murderer"/><rel whom="alatiel" type="lover"/>duca
+            d'Atene</person>
+        <person id="ducacreti" age="adult" role="cityauthority" origin="Creti"><rel
+                whom="magdalenacivada" type="lover"/>duca di Creti (IV.3)</person>
+        <person id="famiglia-0901" role="cityauthority">famiglia della signoria (IX.1)</person>
+        <person id="famigliare-0209" sex="m" role="servant" origin="Pistoia"><rel whom="bernabo"
+                type="servant"/>famigliare (II.9)</person>
+        <person id="famigliare-0401" sex="m"><rel whom="guiscardo" type="servant"/>famigliare
+            (IV.1)</person>
+        <person id="famigliare-0602" sex="m"><rel whom="gerispina" type="servant"/>famigliare
+            (VI.2)</person>
+        <person id="famigliare-1001" sex="m" role="servant"><rel whom="realfonso" type="servant"
+            />famigliare di re Alfonso / lo scudiere (X.1)</person>
+        <person id="famigliare-1010" sex="m" role="servant" estate="poor" origin="Sanluzzo"><rel
+                whom="gualtierisanluzzo" type="servant"/>famigliare di Gualtieri da Sanluzzo
+            (X.10)</person>
+        <person id="famigliari-1004" role="servant" estate="poor" origin="Bologna"><rel
+                whom="gentile" type="servant"/>famigliari (X.4)</person>
+        <person id="famigliari-1005" role="servant" origin="Friuli"><rel whom="dianora"
+                type="servant"/>famigliari (X.5)</person>
+        <person id="famigliari-1006" role="servant" estate="poor" origin="Firenze"><rel
+                whom="neriuberti" type="servant"/>famigliari (X.6)</person>
+        <person id="famigliari-1009" religion="muslim" sex="m" role="servant" origin="AlessandriaEg"
+                ><rel whom="saladino" type="servant"/>famigliari (X.9)</person>
+        <person id="fanciulli-0709" sex="m" age="child" origin="Argo"><rel whom="nicostrato"
+                type="servant"/>fanciulli (VII.9)</person>
+        <person id="fanciulli-0804" age="child" origin="Fiesole">fanciulli (VIII.4)</person>
+        <person id="fanciullo-0205" sex="m" role="servant" estate="poor" origin="Napoli"><rel
+                whom="fiordaliso" type="servant"/>fanciullo (II.5)</person>
+        <person id="fante-0202" sex="f" role="servant" estate="poor"><rel whom="rinaldoasti"
+                type="servant"/>fante (II.2)</person>
+        <person id="fante-0205" sex="f" age="youth" role="servant" estate="poor" origin="Napoli"
+                ><rel whom="fiordaliso" type="servant"/>fante (II.5)</person>
+        <person id="fante-0410" sex="f" age="youth" role="servant" estate="poor"><rel
+                whom="moglie-0410" type="servant"/>fante (IV.10)</person>
+        <person id="fante-0406" sex="f" role="servant" estate="poor" origin="Brescia"><rel
+                whom="andreuola" type="servant"/>fante (IV.6)</person>
+        <person id="fante-0505" sex="f" role="intermediary" estate="poor"><rel
+                whom="giacomino agnesabernabuccio" type="servant"/>fante (V.5)</person>
+        <person id="fante-0703" sex="f" role="servant" estate="poor" origin="Siena"><rel
+                whom="agnesa" type="servant"/>fante / fanticella (VII.3)</person>
+        <person id="fante-0706" sex="f" role="servant" estate="poor" origin="Firenze"><rel
+                whom="isabella" type="servant"/>fante (VII.6)</person>
+        <person id="fante-0708" sex="f" role="servant" estate="poor" origin="Firenze"><disguise
+                disguisename="Sismonda" religion="christian" status="married" sex="f"
+                role="housewife" estate="mercantile" origin="Firenze"/><rel whom="sismonda"
+                type="servant"/>fante (VII.8)</person>
+        <person id="fantedonna-0807" sex="f" role="servant" estate="poor" origin="Firenze"><rel
+                whom="elena" type="servant"/>fante (VIII.7)</person>
+        <person id="fanteuomo-0807" sex="m" role="servant" estate="poor" origin="Firenze"><rel
+                whom="rinieri" type="servant"/>fante (VIII.7)</person>
+        <person id="fanti-0307" sex="m" role="soldier">fanti (III.7)</person>
+        <person id="fanti1-0503" sex="m" role="soldier" estate="military">da dodici fanti
+            (V.3)</person>
+        <person id="fanti2-0503" sex="m" role="soldier" estate="military">venticinque fanti
+            (V.3)</person>
+        <person id="buonafemina-0306" sex="f" role="bath-matron">buona femina (III.6)</person>
+        <person id="femina-1005" sex="f" origin="Friuli"><rel whom="ansaldo" type="servant"/>una
+            femina / buona femina (X.5)</person>
+        <person id="femine-0410" sex="f" age="youth" role="unspecified" estate="unknown"><rel
+                whom="prestatori-0410" type="lover"/>femine (IV.10)</person>
+        <person id="donna-1003" sex="f" age="elder" role="unspecified" estate="poor"
+            origin="unknown">feminella / vecchierella (X.3)</person>
+        <person id="figliatraversari-0508" status="unmarried-to-married" sex="f" age="youth"
+            estate="noble" origin="Ravenna"><rel whom="nastagio" type="wife"/><rel
+                whom="paolotraversari" type="daughter"/>figlia di Paolo Traversari (V.8)</person>
+        <person id="figlio-1004" religion="christian" sex="m" age="child" estate="noble"
+            origin="Bologna"><rel whom="catalina niccoluccio" type="son"/>figlioletto / Gentile
+            (X.4)</person>
+        <!--chosen to encode as nameless because the child is
+    never directly referred to as Gentile-->
+        <person id="figliuola-1010" religion="christian" status="unmarried-to-married" sex="f"
+            age="child" estate="noble" origin="Sanluzzo"><rel whom="gualtierisanluzzo griselda"
+                type="daughter"/><rel whom="contipanago" type="relative"/><rel whom="giannucole"
+                type="granddaughter"/><disguise disguisename="sposaGualtieri" religion="christian"
+                status="unmarried" sex="f" estate="noble" origin="Bologna"/>figliuola
+            (X.10)</person>
+        <person id="figliuolo-1010" religion="christian" status="unmarried" sex="m" age="child"
+            estate="noble" origin="Sanluzzo"><rel whom="gualtierisanluzzo griselda" type="son"/><rel
+                whom="giannucole" type="grandson"/><rel whom="contipanago" type="relative"
+            />figliuolo (X.10)</person>
+        <person id="fiorentino-0201" religion="christian" sex="m" origin="Firenze">fiorentino
+            (II.1)</person>
+        <person id="folla-0402" origin="Venezia">folla (IV.2)</person>
+        <person id="frate-0101" religion="christian" age="adult" role="preacher" estate="religious"
+            origin="Borgogna">frate (I.1)</person>
+        <person id="frate-0303" estate="religious" origin="Firenze">frate (III.3)</person>
+        <person id="fratelli-0101" sex="m" age="adult" role="merchant" estate="mercantile"
+            origin="Firenze">fratelli (I.1)</person>
+        <person id="fratelli-0405" status="unmarried" sex="m" age="adult" role="merchant"
+            estate="mercantile" origin="SanGimignano"><rel whom="ellisabetta" type="brother"/><rel
+                whom="lorenzo" type="murderer"/>fratelli (IV.5)</person>
+        <person id="fratelligiovanna-0509" sex="m" estate="noble" origin="Firenze"><rel
+                whom="giovanna" type="brother"/>fratelli (V.9)</person>
+        <person id="fratello1-0708" sex="m" estate="noble" origin="Firenze"><rel whom="sismonda"
+                type="brother"/><rel whom="madre-0708" type="son"/>fratello 1 (VII.8)</person>
+        <person id="fratello2-0708" sex="m" estate="noble" origin="Firenze"><rel whom="sismonda"
+                type="brother"/><rel whom="madre-0708" type="son"/>fratello 2 (VII.8)</person>
+        <person id="fratello3-0708" sex="m" estate="noble" origin="Firenze"><rel whom="sismonda"
+                type="brother"/><rel whom="madre-0708" type="son"/>fratello 3 (VII.8)</person>
+        <person id="fratelli-0804" status="unmarried" sex="m" age="youth" estate="mercantile"
+            origin="Fiesole"><rel whom="piccarda" type="brother"/>fratelli (VIII.4)</person>
+        <person id="geloso-0705" religion="christian" status="married" sex="m" role="merchant"
+            estate="mercantile" origin="Rimini"><rel whom="donna-0705" type="husband"/><disguise
+                disguisename="prete-0705" sex="m" role="preacher" estate="religious"/>il geloso
+            (VII.5)</person>
+        <person id="genovesi-0204" age="adult" role="merchant" estate="mercantile" origin="Genova"
+            >genovesi (II.4)</person>
+        <person id="figliobalducci-04intro" religion="christian" status="unmarried" sex="m"
+            origin="Firenze"><rel whom="filippobalducci" type="son"/>giovane (IV.in)</person>
+        <person id="giovane-0704" status="unmarried" sex="m" age="youth" role="unspecified"
+            estate="unknown" origin="Arezzo"><rel whom="ghita" type="lover"/>giovane
+            (VII.4)</person>
+        <person id="figliogiovanna-0509" sex="m" condition="ill-deceased" age="child-youth"
+            estate="noble" origin="Firenze"><rel whom="giovanna" type="son"/>giovanetto / figliolo
+            (V.9)</person>
+        <person id="giovinetta-0104" sex="f" age="youth" role="maiden" origin="Lunigiana"><rel
+                whom="abate-0104 monaco-0104" type="lover"/>giovinetta (I.4)</person>
+        <person id="giudice-0201" sex="m" age="adult" role="legalauthority" origin="Treviso">giudice
+            (II.1)</person>
+        <person id="giudice-0407" sex="m" age="adult" role="legalauthority">giudice (IV.7)</person>
+        <person id="imperatorecostantinopoli" status="married" sex="m" age="adult" role="emperor"
+            estate="royalty">imperadore di Costantinopoli (II.7)</person>
+        <person id="inquisitore-0106" religion="christian" sex="m" age="adult"
+            role="churchauthority" estate="religious" origin="Firenze">inquisitore (I.6)</person>
+        <person id="ladro-0202" religion="christian" sex="m" role="outlaw">ladro (II.2)</person>
+        <person id="ladri-0205" sex="m" role="outlaw" origin="Napoli">ladri (II.5)</person>
+        <person id="lavoratore-0807" sex="m" role="peasant" estate="poor" origin="Firenze"><rel
+                whom="elena" type="servant"/>lavoratore (VIII.7)</person>
+        <person id="legnaiuolo-0410" sex="m" role="artisan" estate="mercantile">legnaiuolo
+            (IV.10)</person>
+        <person id="madre-1004" religion="christian" sex="f" age="elder" estate="noble"
+            origin="Bologna"><rel whom="gentile" type="mother"/>madre di Gentile (X.4)</person>
+        <person id="madre-0408" sex="f" age="adult" role="widow" estate="mercantile"
+            origin="Firenze"><rel whom="girolamo" type="mother"/><rel whom="leonardosighieri"
+                type="wife"/>madre di Girolamo (IV.8)</person>
+        <person id="madre-0708" religion="christian" sex="f" age="elder" estate="noble"
+            origin="Firenze"><rel whom="sismonda fratello1-0708 fratello2-0708 fratello3-0708"
+                type="mother"/>madre di Sismonda (VII.8)</person>
+        <person id="madre-1007" religion="christian" status="married" sex="f" age="adult"
+            estate="noble" origin="Palermo"><rel whom="bernardo" type="wife"/><rel whom="lisa"
+                type="mother"/>madre di Lisa (X.7)</person>
+        <person id="capobrigata-0503" sex="m">maggior della brigata (V.3)</person>
+        <person id="marchesanamonferrato" religion="christian" status="married" sex="f" age="adult"
+            role="housewife" estate="noble" origin="Piedmont"><rel whom="marchesemonferrato"
+                type="wife"/>marchesana di Monferrato</person>
+        <person id="marchesemonferrato" religion="christian" status="married" sex="m" age="adult"
+            estate="noble" origin="Piedmont"><rel whom="marchesanamonferrato" type="husband"
+            />marchese di Monferrato</person>
+        <person id="marito-0408" status="married" sex="m" age="adult" role="artisan"><rel
+                whom="salvestra" type="husband"/>marito (IV.8)</person>
+        <person id="marito-0702" religion="christian" sex="m" role="peasant" estate="poor"
+            origin="Napoli"><rel whom="peronella" type="husband"/>marito (VII.2)</person>
+        <person id="marito-0703" religion="christian" status="married" sex="m" age="adult"
+            role="unspecified" estate="noble" origin="Siena"><rel whom="agnesa" type="husband"
+            />marito (VII.3)</person>
+        <person id="marito-0706" status="married" sex="m" role="knight" estate="noble"
+            origin="Firenze"><rel whom="isabella" type="husband"/>marito (VII.6)</person>
+        <person id="masnadieri-1002" sex="m" role="outlaw" origin="Siena"><rel whom="ghino"
+                type="friend"/>masnadieri (X.2)</person>
+        <person id="medico-0208" sex="m" age="youth" role="doctor" origin="Londra">medico assai
+            giovane (II.8)</person>
+        <person id="moglie-0410" status="married" sex="f" age="youth" role="housewife"
+            estate="unknown" origin="Salerno"><rel whom="matteomontagna" type="wife"/>moglie
+            (IV.10)</person>
+        <person id="moglie-0510" status="married" sex="f" age="youth" origin="Perugia"><rel
+                whom="pietrovinciolo" type="wife"/>moglie di Pietro di Vinciolo (V.10)</person>
+        <person id="moglieercolano-0510" status="married" sex="f" origin="Perugia"><rel
+                whom="ercolano" type="wife"/>moglie / donna (di Ercolano V.10)</person>
+        <person id="monache-0301" religion="christian" sex="f" age="youth" role="nun"
+            estate="religious"><rel whom="masettolamporecchio" type="lover"/>monache
+            (III.1)</person>
+        <person id="monache-0902" religion="christian" sex="f" role="nun" estate="religious">monache
+            (IX.2)</person>
+        <person id="monaci-1009" religion="christian" sex="m" role="monk" estate="religious"
+            origin="Pavia">monaci della chiesa di San Piero (X.9)</person>
+        <person id="monaco-0104" religion="christian" status="unmarried" sex="m" age="youth"
+            role="monk" origin="Lunigiana"><rel whom="giovinetta-0104" type="lover"/>monaco
+            (I.4)</person>
+        <person id="monaco-0308" religion="christian" sex="m" role="monk" estate="religious"
+            origin="Bologna">monaco bolognese (III.8)</person>
+        <person id="mulattiere-0909" sex="m" role="peasant" estate="poor">mulattiere (IX.9)</person>
+        <person id="negromante-1005" sex="m" role="magician">nigromante (X.5)</person>
+        <person id="negromante-1009" religion="muslim" sex="m" role="magician"
+            origin="AlessandriaEg"><rel whom="saladino" type="servant"/>nigromante (X.9)</person>
+        <person id="nuora-0208" status="married" sex="f" age="youth" role="princess"
+            estate="royalty">nuora / reina di Francia (II.8)</person>
+        <person id="oste-0203" status="married" sex="m" role="innkeeper">oste (II.3)</person>
+        <person id="oste-0707" sex="m" role="innkeeper">oste (VII.7)</person>
+        <person id="oste-0906" status="married" sex="m" age="adult" role="innkeeper" estate="poor"
+                ><rel whom="niccolosa-0906" type="father"/><rel whom="donna-0906" type="husband"
+            />oste (IX.9)</person>
+        <person id="padregiachetto-0208" status="married" sex="m" age="adult" estate="noble"
+            origin="Londra"><rel whom="giachetto" type="father"/><rel whom="dama-0208"
+                type="husband"/><rel whom="violante" type="guardian"/>padre di Giachetto Lamiens
+            (II.8)</person>
+        <person id="papa-1010" religion="christian" status="unmarried" sex="m" role="pope"
+            estate="religious">Papa (X.10)</person>
+        <person id="parenti-0704" age="adult"><rel whom="ghita" type="relative"/>parenti di Ghita
+            (VII.4)</person>
+        <person id="parentisofronia-1008" religion="pagan" age="adult" estate="noble" origin="Atene"
+                ><rel whom="sofronia" type="relative"/>parenti di Sofronia (X.8)</person>
+        <person id="parentigisippo-1008" religion="pagan" age="adult" estate="noble" origin="Atene"
+                ><rel whom="gisippo cremete" type="relative"/>parenti di Gisippo (X.8)</person>
+        <person id="podesta-0406" sex="m" age="adult" role="cityauthority">podest&#224;
+            (IV.6)</person>
+        <person id="podesta-0607" sex="m" role="cityauthority" origin="Prato">podest&#224;
+            (VI.7)</person>
+        <person id="principemorea" sex="m" condition="alive-deceased" age="adult" role="prince"
+            estate="royalty" origin="Morea"><rel whom="alatiel" type="lover"/><rel whom="ducaatene"
+                type="relative"/><rel whom="nuovoprincipemorea" type="brother"/>prenze della
+            Morea</person>
+        <person id="nuovoprincipemorea" sex="m" age="adult" role="prince" estate="royalty"
+            origin="Morea"><rel whom="principemorea" type="brother"/><rel whom="ducaatene"
+                type="relative"/>prenze della Morea (II)</person>
+        <person id="prestatori-0410" sex="m" age="youth" role="pander" estate="mercantile"
+            >prestatori (IV.10)<rel whom="femine-0410" type="lover"/></person>
+        <person id="prete-0205" religion="christian" status="unmarried" sex="m" age="adult"
+            role="preacher" estate="religious" origin="Napoli">prete (II.5)</person>
+        <person id="prete-0802" religion="christian" status="unmarried" sex="m" age="adult"
+            role="churchauthority" estate="religious" origin="Varlungo"><rel
+                whom="belcolore biliuzza" type="lover"/>prete (VIII.2)</person>
+        <person id="prigioniere-0206" sex="m" age="adult">prigioniere (II.6)</person>
+        <person id="principessatunisi-0404" religion="muslim" sex="f" age="youth" role="princess"
+            estate="royalty" origin="Tunisi"><rel whom="retunisi-0404" type="daughter"/>principessa
+            di Tunisi (IV.4)</person>
+        <person id="proposto-0804" religion="christian" status="unmarried" sex="m" age="elder"
+            role="churchauthority" estate="religious" origin="Fiesole"><rel whom="ciutazza"
+                type="lover"/>proposto (VIII.4)</person>
+        <person id="recipri-0109" sex="m" role="king" estate="royalty">re di Cipri (I.9)</person>
+        <person id="recipro-0207" sex="m" role="king" estate="royalty">re di Cipro (II.7)</person>
+        <person id="refrancia-0309" sex="m" condition="temporarily-ill" age="adult" role="king"
+            estate="royalty"><rel whom="beltramo" type="guardian"/>re di Francia (III.9)</person>
+        <person id="refrancia-1009" sex="m" role="king" estate="royalty">re di Francia
+            (X.9)</person>
+        <person id="refrancia-1010" sex="m" role="king" estate="royalty">re di Francia
+            (X.10)</person>
+        <person id="regarbo" type="fictional" status="unmarried-to-married" role="king"
+            estate="royalty"><rel whom="alatiel" type="husband"/>re del Garbo (II.7)</person>
+        <person id="regranada-0404" religion="pagan" age="adult" role="king" estate="royalty"
+            origin="Granada">re di Granata (IV.4)</person>
+        <person id="retunisi-0404" religion="muslim" sex="m" age="adult" role="king"
+            estate="royalty" origin="Tunisi"><rel whom="principessatunisi-0404" type="father"/>re di
+            Tunisi (IV.4)</person>
+        <person id="reina-1007" religion="christian" sex="f" age="adult" role="queen"
+            estate="royalty"><rel whom="pietroiiiaragona" type="wife"/>reina Costanza (X.7)</person>
+        <!--vz: Branca (p. 1176, note 3) identifies her as "la regina
+    Costanza"-->
+        <person id="sagrestano-1009" religion="christian" sex="m" role="monk" estate="religious"
+            origin="Pavia">sagrestano della chiesa di San Piero (X.9)</person>
+        <person id="saraceni-0404" religion="pagan" estate="military" origin="Tunisi">Saracini
+            (IV.4)</person>
+        <person id="savio-0909" sex="m">savio (IX.9)</person>
+        <person id="servidore-1004" type="fictional" role="servant" estate="poor">servidore
+            (X.4)</person>
+        <person id="servigiale-0205" sex="f" role="servant" estate="poor" origin="Napoli"><rel
+                whom="fiordaliso" type="servant"/>servigiale (II.5)</person>
+        <person id="padronearca-0410" sex="m">signor dell'arca (IV.10)</person>
+        <person id="sposo-1009" sex="m" estate="noble" origin="Pavia">sposo di Adalieta
+            (X.9)</person>
+        <person id="trivigiani-0201" religion="christian" origin="Treviso">trivigiani
+            (II.1)</person>
+        <person id="tutori-0408" sex="m" age="adult"><rel whom="girolamo" type="guardian"/>tutori di
+            Girolamo (IV.8)</person>
+        <person id="uomini-0709" sex="m" age="adult" estate="noble" origin="Argo"><rel
+                whom="nicostrato" type="friend"/>uomini (VII.9)</person>
+        <person id="uomini-1004" sex="m" age="adult" estate="noble" origin="Bologna"><rel
+                whom="gentile" type="friend"/>uomini (X.4)</person>
+        <person id="uomini-1009" sex="m" estate="noble" origin="Pavia">gentili uomini di Pavia
+            (X.9)</person>
+        <person id="uomini-1010" sex="m" role="yeoman" estate="plebeian" origin="Sanluzzo"><rel
+                whom="gualtierisanluzzo" type="friend"/>uomini di Gualtieri Sanluzzo (X.10)</person>
+        <person id="uomo-0106" sex="m" age="adult">uomo (I.6)</person>
+        <person id="valente-uomo-0303" sex="m" age="adult" estate="noble">valente uomo
+            (III.3)</person>
+        <person id="uomo-0307" age="adult" role="murderer"><rel whom="faziuolo" type="murderer"
+            />uomo (III.7)</person>
+        <person id="uomo-0310" religion="christian" sex="m" age="adult" role="hermit">valente uomo
+            (III.10)</person>
+        <person id="buono-uomo-0402" sex="m" age="adult" origin="Venezia">buono uomo (IV.2)</person>
+        <person id="uomo-buono-0402" sex="m" age="adult" origin="Venezia">uomo buono (IV.2)</person>
+        <person id="uomo-0702" sex="m">uomo (VII.2)</person>
+        <person id="uomo-0710" religion="christian" sex="m" condition="deceased">uomo
+            (VII.10)</person>
+        <person id="uomo-0909" sex="m">uomo (IX.9)</person>
+        <person id="grecamaestra" sex="f" age="adult" role="outlaw" origin="Greece">vecchia
+            greca</person>
+        <person id="vecchia-0205" sex="f" age="elder" role="servant" estate="poor" origin="Sicilia"
+                ><rel whom="fiordaliso" type="servant"/>vecchia (II.5)</person>
+        <person id="vecchia-0503" sex="f" age="elder"><rel whom="vecchio-0503" type="wife"/>vecchia
+            / buona femina (V.3)</person>
+        <person id="vecchia-0510" religion="christian" sex="f" age="elder" origin="Perugia"><rel
+                whom="verdiana" type="friend"/><rel whom="moglie-0510" type="friend"/>vecchia
+            (V.10)</person>
+        <person id="vecchio-0503" sex="m" age="elder"><rel whom="vecchia-0503" type="husband"/>buon
+            uomo attempato molto / vecchio (V.3)</person>
+        <person id="vedova-0202" status="unmarried" sex="f" age="adult" role="widow" estate="noble"
+                ><rel whom="marcheseazzo" type="lover"/>vedova (II.2)</person>
+        <person id="vicini-0205" sex="f" origin="Napoli">vicini (II.5)</person>
+        <person id="vicini-0405">vicini (IV.5)</person>
+        <person id="vicina-0701" sex="f" age="elder">vicina (VII.1)</person>
+        <person id="vicini-0704">vicini (VII.4)</person></listPerson>
+       <listPlace> <!-- List of Places -->
+        <!--********A*******-->
+        <place id="Abruzzi" geograficarea="Italy" itreg="Abruzzi" type="region">Abruzzi</place>
+        <place id="acaia" geograficarea="Greece-Balkans" type="region">Acaia</place>
+        <place id="sangiovannidacri" geograficarea="Cyprus-Levant" type="city">Acri</place>
+        <place id="aiguesmortes" geograficarea="France" type="city"><orig reg="Aigues Mortes"
+            />Aguamorta</place>
+        <place id="alagna" geograficarea="Italy" type="city">Alagna</place>
+        <!-- 05/27: where is this Alagna? It should be close to Rome ...-->
+        <place id="albisola" geograficarea="Italy" itreg="Liguria" type="city"><orig reg="Albisola"
+            />Alba</place>
+        <place id="alessandriaeg" geograficarea="NorthAfrica" type="city">Alessandria /
+            Alessandra</place>
+        <place id="altarisi" imaginary="yes" type="city">Altarisi</place>
+        <place id="amalfi" geograficarea="Italy" itreg="Campania" type="city">Amalfi</place>
+        <place id="ancona" geograficarea="Italy" itreg="Marches" type="city">Ancona / Marca
+            d'Ancona</place>
+        <place id="antiochia" geograficarea="Cyprus-Levant" type="region">Antiochia</place>
+        <place id="maregeo" type="sea">Arcipelago</place>
+        <place id="arezzo" geograficarea="Italy" itreg="Tuscany" type="city">Arezzo</place>
+        <place id="argo" geograficarea="Greece-Balkans" type="city">Argo</place>
+        <!--Argo is a city in Acaia, ref'd above, but there's no way to note that right now. vz 5/26/99-->
+        <place id="arno" geograficarea="Italy" itreg="Tuscany" type="river">Arno</place>
+        <place id="avignone" geograficarea="France" type="city">Avignone</place>
+        <place id="monteasinaio" geograficarea="Italy" itreg="Tuscany" type="hill">Monte
+            Asinaio</place>
+        <place id="atene" geograficarea="Greece-Balkans" type="city">Atene</place>
+        <!--********B*******-->
+        <place id="cairo" geograficarea="NorthAfrica" type="city">Babillonia / Babilonia</place>
+        <place id="baffa" geograficarea="Cyprus-Levant" type="city">Baffa (Pafo)</place>
+        <place id="baldacca">Baldacca</place>
+        <place id="barberia" geograficarea="NorthAfrica" type="region">Barberia / Barbaria</place>
+        <!--**Barberia-Barbaria appears in: III 10,4; IV 4,5; V 2,6 18; X 9,66; in all cases it stands
+    either for modern Tunisia or for northafrica in general. To avoid duplication of data,
+    it is better to keep the broader definition: northafrica**-->
+        <place id="barletta" geograficarea="Italy" itreg="Apulia" type="city">Barletta</place>
+        <place id="terrabaschi" geograficarea="Iberia">terra de' Baschi</place>
+        <place id="bengodi" imaginary="yes" type="contrada">Bengodi</place>
+        <place id="berlinzone" imaginary="yes">Berlinzone</place>
+        <place id="benevento" geograficarea="Italy" itreg="Campania" type="city">Benevento</place>
+        <place id="bitonto" geograficarea="Italy" itreg="Apulia" type="city">Bitonto</place>
+        <place id="bologna" geograficarea="Italy" itreg="Emilia-Romagna" type="city">Bologna</place>
+        <place id="bonconvento" geograficarea="Italy" itreg="Tuscany" type="city"
+            >Bonconvento</place>
+        <place id="borgogreci" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="contrada">Borgo de' Greci</place>
+        <place id="borgogna" geograficarea="France" type="city">Borgogna</place>
+        <place id="sanpancrazio" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="convent">San Brancazio</place>
+        <place id="contradabrancazio" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="contrada">contrada San Brancazio</place>
+        <place id="brindisi" geograficarea="Italy" itreg="Apulia" type="city">Brandizio</place>
+        <place id="brescia" geograficarea="Italy" itreg="Lombardy" type="city">Brescia</place>
+        <place id="bruges" geograficarea="NorthEurope-EastEurope" type="city">Bruggia</place>
+        <place id="buffia" imaginary="yes">Buffia</place>
+        <!--********C*******-->
+        <place id="cacavincigli" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="street-lane">Cacavincigli</place>
+        <place id="calatabellotta" geograficarea="Italy" itreg="Sicily" type="city"><orig
+                reg="Caltabellotta"/>Calatabellotta</place>
+        <!--vz: couldn't find the place in encyclopedia, but Branca confirms its existence-->
+        <place id="Calabria" geograficarea="Italy" itreg="Calabria" type="region">Calavria</place>
+        <place id="calais" geograficarea="France" type="city">Calese</place>
+        <place id="camaldoli" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="contrada"
+            >Camaldoli</place>
+        <place id="camerata" geograficarea="Italy" itcity="Fiesole" itreg="Tuscany" type="hamlet"
+            >Camerata</place>
+        <place id="camollia" geograficarea="Italy" itcity="Siena" itreg="Tuscany" type="contrada"
+                ><orig reg="Porta Camollia"/>Camollia</place>
+        <place id="campi" geograficarea="Italy" itreg="Tuscany" type="hamlet"><rel which="prato"
+                type="closeto"/><orig reg="CampiBisenzio"/>Campi</place>
+        <place id="camporeggi" geograficarea="Italy" itcity="Siena" itreg="Tuscany" type="contrada"
+                ><orig reg="Camporegio"/>Camporeggi</place>
+        <place id="candia" geograficarea="Greece-Balkans" type="city">Candia</place>
+        <place id="cantomacina" geograficarea="Italy" itreg="Tuscany" type="area">Canto alla
+            Macina</place>
+        <place id="cappadocia" geograficarea="Turkey-AsiaMinor" type="region">Capadocia</place>
+        <place id="capitolio" geograficarea="Italy" itcity="Roma" itreg="Latium" type="hill"><orig
+                reg="Campidoglio"/>Capitolio</place>
+        <place id="caprezio" imaginary="yes">Caprezio</place>
+        <place id="capova" geograficarea="Italy" itreg="Campania" type="city"><orig reg="Capua"
+            />Capova</place>
+        <place id="gafsa" geograficarea="NorthAfrica" type="city"><orig reg="Gafsa"/>Capsa</place>
+        <place id="cartagine" geograficarea="NorthAfrica" type="city">Cartagine</place>
+        <place id="castellammarestabia" geograficarea="Italy" itreg="Campania" type="city"><orig
+                reg="Castellamare di Stabia"/><rel which="napoli" type="closeto"/>Castello da mare
+            di Stabia</place>
+        <place id="castellorossiglione" geograficarea="France" type="castle">Castello dei
+            Rossiglione</place>
+        <place id="castelloguardastagno" geograficarea="France" type="castle">Castello dei
+            Guardastagno</place>
+        <place id="catania" geograficarea="Italy" itreg="Sicily" type="city">Catania</place>
+        <place id="cattaio" geograficarea="MidEast-FarEast" type="region">Cattaio</place>
+        <!--Branca says it is Cina settentrionale-->
+        <place id="loggiacavicciuli" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="loggia">Loggia de' Cavicciuli</place>
+        <place id="cefalonia" geograficarea="Aegean-islands" type="island">Cifalonia</place>
+        <place id="certaldo" geograficarea="Italy" itreg="Tuscany" type="hamlet">Certaldo</place>
+        <place id="cefalu" geograficarea="Italy" itreg="Sicily" type="city">Cefal&#250;</place>
+        <place id="chiarenza" geograficarea="Greece-Balkans" type="city">Chiarenza</place>
+        <!--in Peloponnesus (Corinth) -->
+        <place id="chiassi" geograficarea="Italy" itcity="Ravenna" itreg="Emilia-Romagna"
+            type="area"><rel which="ravenna" type="closeto"/>Chiassi</place>
+        <place id="chiesarossiglione-0409" geograficarea="France" type="church">Chiesa del castello
+            dei Rossiglione</place>
+        <place id="chios" geograficarea="Turkey-AsiaMinor" type="island">Chios</place>
+        <place id="sicilia" geograficarea="Italy" itreg="Sicily" type="country"><orig reg="Sicilia"
+            />Cicilia</place>
+        <place id="cipro" geograficarea="Cyprus-Levant" type="island">Cipri</place>
+        <place id="civillari" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="contrada"
+            >Civillari</place>
+        <place id="viacocomero" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="street-lane"><orig reg="Via Ricasoli"/>Via del Cocomero / Mercato Vecchio</place>
+        <place id="corniglia" geograficarea="Italy" itreg="Liguria" type="hamlet">Corniglia</place>
+        <place id="cornovaglia" geograficarea="England-Ireland-Scotland" type="county">contea di
+            Cornovaglia</place>
+        <place id="costantinopoli" geograficarea="Turkey-AsiaMinor" type="city"
+            >Costantinopoli</place>
+        <place id="corsignano" geograficarea="Italy" itreg="Tuscany" type="city"><orig reg="Pienza"
+            />Corsignano</place>
+        <place id="cremona" geograficarea="Italy" itreg="Lombardy" type="city">Cremona</place>
+        <place id="sancrescivalcava" geograficarea="Italy" itcity="Valcava(Mugello)" itreg="Tuscany"
+            type="monastery">san Cresci in Valcava</place>
+        <place id="creta" geograficarea="Greece-Balkans" type="island">Creti</place>
+        <place id="cuba" geograficarea="Italy" itcity="Palermo" itreg="Sicily" type="castle">la
+            Cuba</place>
+        <!--********D*******-->
+        <!--********E*******-->
+        <place id="egina" geograficarea="Greece-Balkans" type="island">Egina</place>
+        <place id="egitto" geograficarea="NorthAfrica" type="country">Egitto</place>
+        <place id="armenia" geograficarea="Turkey-AsiaMinor" type="country">Erminia</place>
+        <!--********F*******-->
+        <place id="faenza" geograficarea="Italy" itreg="Emilia-Romagna" type="city">Faenza</place>
+        <place id="famagosta" geograficarea="Cyprus-Levant" type="city">Famagosta</place>
+        <!--on the island of Cipro-->
+        <place id="fano" geograficarea="Italy" itreg="Marches" type="city">Fano</place>
+        <place id="ferrara" geograficarea="Italy" itreg="Emilia-Romagna" type="city">Ferrara</place>
+        <place id="lefiandre" geograficarea="NorthEurope-EastEurope" type="region">Fiandra</place>
+        <place id="fiesole" geograficarea="Italy" itreg="Tuscany" type="city">Fiesole</place>
+        <place id="firenze" geograficarea="Italy" itreg="Tuscany" type="city">Firenze</place>
+        <place id="forlimpopoli" geograficarea="Italy" itreg="Emilia-Romagna" type="city"
+            >Forlimpopoli</place>
+        <place id="francia" geograficarea="France" type="country">Francia</place>
+        <place id="friuli" geograficarea="Italy" type="region"><orig reg="Friuli"/>Frioli</place>
+        <!--********G*******-->
+        <place id="gaeta" geograficarea="Italy" itreg="Campania" type="city">Gaeta</place>
+        <place id="galles" geograficarea="England-Ireland-Scotland">Gales</place>
+        <place id="reamegarbo" geograficarea="Italy" type="countryside">reame del Garbo</place>
+        <place id="genova" geograficarea="Italy" itreg="Liguria" type="city">Genova</place>
+        <place id="agrigento" geograficarea="Italy" itreg="Sicily" type="city"><orig reg="Agrigento"
+            />Gergenti</place>
+        <place id="granada" geograficarea="Iberia" type="city"><orig reg="Granada"/>Granata</place>
+        <place id="guascogna" geograficarea="France" type="region">Guascogna</place>
+        <place id="castelguiglielmo" geograficarea="Italy" itreg="Emilia-Romagna" type="castle"
+            >Castel Guiglielmo</place>
+        <place id="corfu" geograficarea="Greece-Balkans" type="island">Gurfo</place>
+        <!--********I*******-->
+        <place id="gerusalemme" geograficarea="Cyprus-Levant" type="city">Ierusalem</place>
+        <place id="imola" geograficarea="Italy" itreg="Emilia-Romagna" type="city">Imola</place>
+        <place id="indiapastinacca" imaginary="yes">India Pastinaca</place>
+        <place id="inferno">Inferno / Ninferno</place>
+        <place id="inghilterra" geograficarea="England-Ireland-Scotland" type="country"
+            >Inghilterra</place>
+        <place id="irlanda" geograficarea="England-Ireland-Scotland" type="country">Irlanda</place>
+        <place id="ischia" geograficarea="Italy" itreg="Campania" type="island">Ischia</place>
+        <place id="italia" geograficarea="Italy" type="country">Italia</place>
+        <!--********L*******-->
+        <place id="laiazzo" geograficarea="Cyprus-Levant" type="city">Laiazzo</place>
+        <place id="lamporecchio" geograficarea="Italy" itreg="Tuscany" type="hamlet"
+            >Lamporecchio</place>
+        <place id="laterino" geograficarea="Italy" itreg="Tuscany" type="city">Laternino</place>
+        <place id="lerici" geograficarea="Italy" itreg="Liguria" type="castle">Lerici</place>
+        <place id="legnaia" geograficarea="Italy" itreg="Tuscany" type="hamlet">Legnaia</place>
+        <place id="lipari" geograficarea="Italy" itreg="Sicily" type="island">Lipari</place>
+        <place id="lombardia" geograficarea="Italy" itreg="Lombardy" type="region">Lombardia</place>
+        <place id="londra" geograficarea="England-Ireland-Scotland" type="city">Londra</place>
+        <place id="lucifero" type="planet">Lucifero</place>
+        <!--according to Elli, Lucifero would fit much better in a glossary-->
+        <place id="lunigiana" geograficarea="Italy" itreg="Tuscany" type="region">Lunigiana</place>
+        <!--********M*******-->
+        <place id="magra" geograficarea="Italy" itreg="Liguria" type="river">Magra</place>
+        <place id="maiorca" geograficarea="Iberia" type="island">Maiolica</place>
+        <place id="macello" geograficarea="Italy" itcity="Venezia" itreg="Veneto" type="area"
+            >Macello</place>
+        <place id="malpertugio" geograficarea="Italy" itcity="Napoli" itreg="Campania"
+            type="contrada">Malpertugio</place>
+        <place id="maremma" geograficarea="Italy" itreg="Tuscany" type="region">Maremma</place>
+        <place id="marsiglia" geograficarea="France" type="city">Marsilia</place>
+        <place id="menzogna" imaginary="yes">Menzogna</place>
+        <place id="messina" geograficarea="Italy" itreg="Sicily" type="city">Messina</place>
+        <place id="milano" geograficarea="Italy" itreg="Lombardy" type="city"><orig reg="Milano"
+            />Melano</place>
+        <place id="minerva" geograficarea="Italy" itreg="Campania" type="cape"><orig
+                reg="PuntaCampanella"/>Minerva</place>
+        <place id="modena" geograficarea="Italy" itreg="Emilia-Romagna" type="city"><orig
+                reg="Modena"/>Modona</place>
+        <place id="monaco" geograficarea="France" type="country">Monaco</place>
+        <place id="montenero" geograficarea="Italy" itcity="Livorno" itreg="Tuscany">Monte
+            Nero</place>
+        <place id="montesone" geograficarea="Italy" itreg="Tuscany" type="hill"><orig
+                reg="Monitisoni"/>Montesone</place>
+        <place id="montisci" geograficarea="Italy" itreg="Tuscany" type="hill">Montisci</place>
+        <place id="mmorello" geograficarea="Italy" itreg="Tuscany" type="mountain">Monte
+            Morello</place>
+        <place id="montughi" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="hill"
+            >Montughi</place>
+        <place id="morea" geograficarea="Greece-Balkans" type="region">Morea (Peloponneso)</place>
+        <place id="mugello" geograficarea="Italy" itreg="Tuscany" type="countryside">Mugello</place>
+        <place id="mugnone" geograficarea="Italy" itreg="Tuscany" type="river">Mugnone /
+            Mugnon</place>
+        <place id="montpellier" geograficarea="France" type="city"><orig reg="Montpellier"
+            />Monpulier</place>
+        <!--********N*******-->
+        <place id="napoli" geograficarea="Italy" itreg="Campania" type="city">Napoli</place>
+        <place id="narsia" imaginary="yes">Narsia</place>
+        <place id="nazarette" geograficarea="Cyprus-Levant" type="city">Nazarette</place>
+        <place id="norrueca" imaginary="yes">Norrueca</place>
+        <place id="nostradama" othcity="Parigi" geograficarea="France" type="church">Nostra
+            Dama</place>
+        <!--********O*******-->
+        <place id="ortosanmichele" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="church">Orto San Michele</place>
+        <!--********P*******-->
+        <place id="palermo" geograficarea="Italy" itreg="Sicily" type="city">Palermo</place>
+        <place id="parigi" geograficarea="France" type="city">Parigi</place>
+        <place id="parione" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="street-lane">Parione</place>
+        <place id="pasignano" geograficarea="Italy" itreg="Umbria" type="city">Passignano sul
+            Trasimeno</place>
+        <place id="pavia" geograficarea="Italy" itreg="Lombardy" type="city">Pavia</place>
+        <place id="peretola" geograficarea="Italy" itreg="Tuscany" type="countryside"
+            >Peretola</place>
+        <place id="iran" geograficarea="MidEast-FarEast" type="country"><orig reg="Iran"
+            />Persia</place>
+        <place id="perugia" geograficarea="Italy" itreg="Umbria" type="city">Perugia</place>
+        <place id="piccardia" geograficarea="France" type="region">Piccardia</place>
+        <place id="pisa" geograficarea="Italy" itreg="Tuscany" type="city">Pisa</place>
+        <place id="pistoia" geograficarea="Italy" itreg="Tuscany" type="city">Pistoia</place>
+        <place id="ponteoca" imaginary="yes" type="bridge">Ponte dell'Oca</place>
+        <place id="porcellana" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="street-lane">Porcellana</place>
+        <place id="ponza" geograficarea="Italy" itreg="Campania" type="island"><orig reg="Ponza"
+            />Ponzo</place>
+        <place id="portasgallo" geograficarea="Italy" itreg="Tuscany" type="gate">porta a San
+            Gallo</place>
+        <place id="portasalaia" geograficarea="Italy" itcity="Siena" itreg="Tuscany"
+            type="neighborhood">Porta Salaia</place>
+        <place id="portapiero" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="gate"
+            >Porta San Piero</place>
+        <place id="prato" geograficarea="Italy" itreg="Tuscany" type="city">Prato</place>
+        <place id="pratoognisanti" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="area">prato d'Ognissanti</place>
+        <place id="procida" geograficarea="Italy" itreg="Campania" type="island">Procida</place>
+        <place id="provenza" geograficarea="France" type="region">Provenza</place>
+        <place id="puglia" geograficarea="Italy" itreg="Apulia" type="region">Puglia</place>
+        <!--********R*******-->
+        <place id="radicofani" geograficarea="Italy" itreg="Tuscany" type="castle"
+            >Radicofani</place>
+        <place id="ravello" geograficarea="Italy" itreg="Campania" type="city">Ravello</place>
+        <place id="ravenna" geograficarea="Italy" itreg="Emilia-Romagna" type="city">Ravenna</place>
+        <place id="reggio" geograficarea="Italy" itreg="Calabria" type="city">Reggio</place>
+        <place id="rialto" geograficarea="Italy" itcity="Venezia" itreg="Veneto" type="neighborhood"
+            >Rialto</place>
+        <place id="rimini" geograficarea="Italy" itreg="Emilia-Romagna" type="city">Rimini /
+            Ariminio</place>
+        <place geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="convent"><orig
+                reg="San     Giacomo di Ripoli"/>Ripole</place>
+        <place id="rodi" geograficarea="Greece-Balkans" type="island">Rodi</place>
+        <place id="roma" geograficarea="Italy" itreg="Latium" type="city">Roma</place>
+        <place id="romagna" geograficarea="Italy" itreg="Emilia-Romagna" type="region"
+            >Romagna</place>
+        <place id="romania" geograficarea="Greece-Balkans" type="country">Romania</place>
+        <place id="roussillon" geograficarea="France" type="county"><orig reg="Roussillon"
+            />Rossiglione</place>
+        <place id="rouen" geograficarea="France" type="city"><orig reg="Rouen"/>Ruem</place>
+        <place id="rugacatalana" geograficarea="Italy" itcity="Napoli" itreg="Campania"
+            type="street-lane">Ruga Catalana</place>
+        <!--********S*******-->
+        <place id="salerno" geograficarea="Italy" itreg="Campania" type="city">Salerno</place>
+        <place id="salerno-0410" geograficarea="Italy" itreg="Campania" type="city">Salerno
+            (IV.10)</place>
+        <place id="sanluzzo" geograficarea="Italy" itreg="Piedmont" type="city"><orig reg="Saluzzo"
+            />Sanluzzo</place>
+        <place id="sangallo" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="church"
+            >San Gallo</place>
+        <place id="sangallo-ospedale" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="hospital">San Gallo (ospedale)</place>
+        <place id="sangimignano" geograficarea="Italy" itreg="Tuscany" type="city">San
+            Gimignano</place>
+        <place id="sangiovanni" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="church"
+            >San Giovanni</place>
+        <place id="ripole" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="convent">San
+            Jacopo di Ripoli</place>
+        <place id="sanmarco" geograficarea="Italy" itcity="Venezia" itreg="Veneto" type="square">San
+            Marco</place>
+        <place id="sanpaolo" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="church"
+            >San Paolo</place>
+        <place id="sanpieroco" geograficarea="Italy" itcity="Pavia" itreg="Lombardy" type="church"
+            >San Piero in Ciel d'Oro</place>
+        <place id="santacroce" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="church"
+            >Santa Croce</place>
+        <place id="santafiore" geograficarea="Italy" itreg="Tuscany" type="castle"><rel
+                which="siena" type="closeto"/>Santafiore</place>
+        <!--vika: Santafiore is a castle in Maremma senese, an
+    area of Tuscany-->
+        <place id="santalucia" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="church"
+                ><orig reg="Santa Lucia a Porta al Prato"/>Santa Lucia dal Prato</place>
+        <place id="santamariascala" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="church">Santa Maria della Scala</place>
+        <place id="santamariamaggiore" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="church">Santa Maria Maggiore</place>
+        <place id="smnovella" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="church"
+            >Santa Maria Novella</place>
+        <place id="santamariaughi" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="church">Santa Maria Ughi</place>
+        <place id="santamariaverzaia" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="church"><orig reg="Chiesa a Porta San Ferdinando"/>Santa Maria a Verzaia</place>
+        <place id="santareparata" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="church">Santa Reparata</place>
+        <place id="santelpidio-a-mare" geograficarea="Italy" itreg="Marches" type="hamlet"
+            >Sant'Elpidio a Mare / San Lepidio</place>
+        <place id="sardegna" geograficarea="Italy" itreg="Sardinia" type="island"><orig
+                reg="Sardegna"/>Sardigna</place>
+        <place id="scalea" geograficarea="Italy" itreg="Calabria" type="hamlet">Scalea in
+            Calavria</place>
+        <place id="scozia" geograficarea="England-Ireland-Scotland" type="country">Scozia</place>
+        <place id="ssepolcro" othcity="Gerusalemme" geograficarea="Cyprus-Levant" type="area"
+            >Sepolcro</place>
+        <place id="settignano" geograficarea="Italy" itreg="Tuscany" type="hill">Settignano</place>
+        <place id="siena" geograficarea="Italy" itreg="Tuscany" type="city">Siena</place>
+        <place id="sinigaglia" geograficarea="Italy" itreg="Marches" type="city"><orig
+                reg="Senigallia"/>Sinagaglia</place>
+        <place id="smirne" geograficarea="Turkey-AsiaMinor" type="city">le Smirre</place>
+        <place id="spagna" geograficarea="Iberia" type="country">Spagna / Ispagna</place>
+        <place id="strangford" geograficarea="England-Ireland-Scotland" type="city"
+            >Stanforda</place>
+        <place id="susa" geograficarea="NorthAfrica" type="city">Susa</place>
+        <!--********T*******-->
+        <place id="tebaide" geograficarea="NorthAfrica" type="region">Tebaida</place>
+        <place id="terrasanta" geograficarea="Cyprus-Levant">Terra Santa</place>
+        <place id="ticino" geograficarea="Italy" itreg="Lombardy" type="river">Tesino</place>
+        <place id="torrenieri" geograficarea="Italy" itreg="Tuscany" type="hamlet"
+            >Torrenieri</place>
+        <place id="toscana" geograficarea="Italy" itreg="Tuscany">Toscana</place>
+        <place id="trapani" geograficarea="Italy" itreg="Sicily" type="city">Trapani</place>
+        <place id="trani" geograficarea="Italy" itreg="Apulia" type="city">Trani</place>
+        <place id="tresanti" geograficarea="Italy" itreg="Apulia" type="hamlet">Tresanti</place>
+        <place id="treviso" geograficarea="Italy" itreg="Veneto" type="city"><orig reg="Treviso"
+            />Trivigi</place>
+        <place id="truffia" imaginary="yes">Truffia</place>
+        <place id="tunisi" geograficarea="NorthAfrica" type="city">Tunisi</place>
+        <!--********U*******-->
+        <place id="udine" geograficarea="Italy" itreg="Friuli-VenetiaJulia" type="city"
+            >Udine</place>
+        <place id="ustica" geograficarea="Italy" itreg="Sicily" type="island">Ustica</place>
+        <!--********V*******-->
+        <place id="valdelsa" geograficarea="Italy" itreg="Tuscany" type="county">Valdelsa</place>
+        <place id="vallecchio" geograficarea="Italy" itreg="Tuscany" type="hamlet"
+            >Vallecchio</place>
+        <place id="varlungo" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="county"
+            >Varlungo</place>
+        <place id="verona" geograficarea="Italy" itreg="Veneto" type="city">Verona</place>
+        <place id="venezia" geograficarea="Italy" itreg="Veneto" type="city"><orig reg="Venezia"
+            />Vinegia</place>
+        <!--********************-->
+        <!--*************************************UNNAMED PLACES************************************************-->
+        <!--***********************-->
+        <!--**GR 09/07 This section is still rather problematic. Jacque Russom suggested to stick to 
+    places which correspond to an existent building in modern times, or which were at least 
+    well known and located at Boccaccio's times. Therefore: fiume and giardini should go**-->
+        <place id="casamento-1006" geograficarea="Italy" itcity="CastellammareStabia"
+            itreg="Campania" type="villa">casamento di Neri Uberti (X.6)</place>
+        <place id="contado-0601" geograficarea="Italy" type="countryside">contado (VI.1)</place>
+        <place id="duomotreviso-0201" geograficarea="Italy" itreg="Veneto" type="church"><orig
+                reg="duomo-di-Treviso"/>(maggior) chiesa (II.1)</place>
+        <place id="duomofiesole-0804" geograficarea="Italy" itcity="Fiesole" itreg="Tuscany"
+            type="church"><orig reg="duomo"/>maggior chiesa (VIII.4)</place>
+        <place id="sanfrancesco-0901" geograficarea="Italy" itcity="Pistoia" itreg="Tuscany"
+            type="church"><orig reg="San-Francesco"/>chiesa de' frati minori (IX.1)</place>
+        <place id="chiesa-1004" geograficarea="Italy" itreg="Emilia-Romagna" type="church"><rel
+                which="bologna" type="closeto"/>chiesa (X.4)</place>
+        <place id="fiume-0202" geograficarea="Italy" type="river">fiume (II.2)</place>
+        <place id="giardino-0406" geograficarea="Italy" itcity="Brescia" itreg="Lombardy"
+            type="garden">giardino (IV.6)</place>
+        <place id="giardino-0407" geograficarea="Italy" itcity="Firenze" itreg="Tuscany"
+            type="garden">giardino (IV.7)</place>
+        <place id="giardino-0709" othcity="Argo" geograficarea="Greece-Balkans" type="garden"
+            >giardino (VII.9)</place>
+        <place id="giardino-1005" geograficarea="Italy" itcity="Udine" itreg="Friuli-VenetiaJulia"
+            type="garden"><rel which="prato-1005" type="inside"/>giardino (X.5)</place>
+        <place id="giardino-1006" geograficarea="Italy" itcity="CastellammareStabia"
+            itreg="Campania" type="garden"><rel which="casamento-1006" type="inside"/>giardino di
+            Neri Uberti (X.6)</place>
+        <place id="luogo-1009" geograficarea="Italy" itreg="Lombardy" type="villa"><rel
+                which="ticino" type="closeto"/>un luogo di Torello (X.9)</place>
+        <place id="monistero-0104" geograficarea="Italy" itreg="Tuscany" type="monastery">monistero
+            (I.4)</place>
+        <place id="monistero-0301" geograficarea="Italy" itreg="Tuscany" type="convent">monistero
+            (III.1)</place>
+        <place id="ostiere-1006" type="villa">ostiere di re Carlo I (X.6)</place>
+        <place id="palagiofolco-0403" geograficarea="Greece-Balkans" type="villa">il palagio di
+            Folco (IV.3)</place>
+        <place id="palagionicostrato-0709" othcity="Argo" geograficarea="Greece-Balkans"
+            type="villa">palagio di Nicostrato (VII.9)</place>
+        <place id="palagiomitridanes-1003" geograficarea="MidEast-FarEast" type="villa">palagio di
+            Mitridanes (X.3)</place>
+        <place id="palagionatan-1003" geograficarea="MidEast-FarEast" type="villa">palagio di Natan
+            (X.3)</place>
+        <place id="pero-0709" othcity="Argo" geograficarea="Greece-Balkans" type="tree"><rel
+                which="giardino-0709" type="inside"/>pero (VII.9)</place>
+        <place id="piazza-0510" geograficarea="Italy" itcity="Perugia" itreg="Tuscany" type="square"
+            >Piazza (V.10)</place>
+        <place id="prato-1005" geograficarea="Italy" itcity="Udine" itreg="Friuli-VenetiaJulia"
+            type="lawn">prato (X.5)</place>
+        <place id="pretorio-1008" geograficarea="Italy" itcity="Roma" itreg="Latium" type="villa"
+            >pretorio (X.8)</place>
+        <!--vz: type is WRONG. will inquire as to what
+    type should be-->
+        <place id="tempio-1008" othcity="Atene" othreg="Acaia" geograficarea="Greece-Balkans"
+            type="church">tempio (X.8)</place>
+        <!--*************************************************************************************************-->
+        <!--*********-->
+        <!--unnamed places in the frame-->
+        <place id="alberifrutt-c06" imaginary="yes" geograficarea="Italy" itreg="Tuscany"
+            type="tree">
+            <rel which="valledonnebrigata-01" type="inside"/>albori fruttiferi (VI.con)</place>
+        <place id="boschetto-i09" imaginary="yes" geograficarea="Italy" itreg="Tuscany" type="wood">
+            <rel which="palagiobrigata-02" type="closeto"/>boschetto (IX.in)</place>
+        <place id="canaletti-i03" geograficarea="Italy" itreg="Tuscany">canaletti (III.in)</place>
+        <place id="cortile-i01" geograficarea="Italy" itreg="Tuscany">cortile (I.in)</place>
+        <place id="chiesetta-i08" geograficarea="Italy" itreg="Tuscany">chiesetta (VIII.con)</place>
+        <place id="giardinetto-c02" geograficarea="Italy" itreg="Tuscany">giardinetto
+            (II.con)</place>
+        <place id="giardini-i02" geograficarea="Italy" itreg="Tuscany">giardini (II.in)</place>
+        <place id="giardino-i01" geograficarea="Italy" itreg="Tuscany" type="garden">giardino
+            (I.in)</place>
+        <place id="fiumicello1-c06" imaginary="yes" geograficarea="Italy" itreg="Tuscany"
+            type="stream">
+            <rel which="valledonnebrigata-01" type="inside"/>chiarissimo fiumicello (VI.con)</place>
+        <place id="fiumicello2-c06" imaginary="yes" geograficarea="Italy" itreg="Tuscany"
+            type="stream">
+            <rel which="valledonnebrigata-01" type="inside"/>fiumicello (VI.con)</place>
+        <place id="montagnetta-i01" geograficarea="Italy" itreg="Tuscany" type="mountain"
+            >montagnetta (I.in)</place>
+        <place id="montagnetta-c01" geograficarea="Italy" itreg="Tuscany" type="mountain"
+            >montagnetta (I.con)</place>
+        <place id="montagnette-c06" imaginary="yes" geograficarea="Italy" itreg="Tuscany"
+            type="hill">
+            <rel which="valledonnebrigata-01" type="around"/>sei montagnette (VI.con)</place>
+        <place id="pratello-i02" geograficarea="Italy" itreg="Tuscany" type="lawn">pratello
+            (II.in)</place>
+        <place id="prato-i03" geograficarea="Italy" itreg="Tuscany" type="lawn">prato
+            (III.in)</place>
+        <place id="prato-c06" imaginary="yes" geograficarea="Italy" itreg="Tuscany" type="lawn">
+            <rel which="valledonnebrigata-01" type="inside"/>prato d'erba minutissima
+            (VI.con)</place>
+        <place id="rivo-c01" geograficarea="Italy" itreg="Tuscany" type="river">rivo (I.con)</place>
+        <place id="valle-c01" geograficarea="Italy" itreg="Tuscany" type="countryside">valle ombrosa
+            (I.con)</place>
+        <!--**same unnamed repeated | maybe more instances of the same word (in intro and conclu)**-->
+        <place id="fontebrigata-01" geograficarea="Italy" itreg="Tuscany" type="fountain"> fonte di
+            marmo bianchissimo (III.in) messe le tavole intorno alla bella fonte (III.con) nella
+            maniera usata vicini alla bella fonte (IV.in) tutti raccolti, come usati erano, appresso
+            della bella fonte (IV.con) intorno della bella fontana di presente furono in sul danzare
+            (VII.con) appresso la bella fontana a seder posti (VIII.in) dintorno alla chiara fonte
+            (X.in) </place>
+        <place id="giardinobrigata-01" geograficarea="Italy" itreg="Tuscany" type="garden">giardino
+            (III.in) (III.con) (IV.in) (IV.con) lo dittevole giardino (V.in) e poi fra le piacevoli
+            ombre del giardino (X.in) </place>
+        <place id="laghettobrigata-01" imaginary="yes" geograficarea="Italy" itreg="Tuscany"
+            type="lake">
+            <rel which="valledonnebrigata-01" type="inside"/>laghetto / pelaghetto</place>
+        <place id="mulinibrigata-01" geograficarea="Italy" itreg="Tuscany" type="mill">mulina
+            (III.in) (IV.con)</place>
+        <place id="palagiobrigata-01" geograficarea="Italy" itreg="Tuscany" type="villa">palagio
+            (I.in) (I.con)</place>
+        <place id="palagiobrigata-02" geograficarea="Italy" itreg="Tuscany" type="villa">bellissimo
+            e ricco palagio (III.in) bel palagio (IV.in) al palagio tornare (VII.con)</place>
+        <place id="valledonnebrigata-01" imaginary="yes" geograficarea="Italy" itreg="Tuscany"
+            type="valley">Valle delle Donne</place>
+</listPlace>
+    
+</xml>

@@ -3,19 +3,47 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Title</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-  </teiHeader>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Decameron</title>
+    <author>Giovanni Boccaccio</author>
+    <sponsor>
+     <orgName>Pitt-Greensburg Center for the Digital Text</orgName>
+    </sponsor>
+   </titleStmt>
+   <publicationStmt>
+    <p>This is a digital edition repurposed by Jessica Milewski, Matthew Burch, Lauren
+     McGuigan, and Megan Mills of Pitt-Greensburg Digital Humanities class of Spring 2015
+     from <ref target="http://decameron.obdurodon.org">Women of Boccaccio’s
+      Decameron</ref> project, 2014, a project by Mia Bencivenga and Karla Lopez. The
+     Pitt-Greensburg team was assisted by Rebecca J. Parker, project mentor.
+     <!--ebb: Add others as they render assistance. -->The conversion and repurposing is
+     licensed under a <ref
+      target="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US">Creative Commons
+      Attribution-ShareAlike 4.0 International License</ref>.</p>
+    <p>Elisa Beshero-Bondar transformed an XML of the English text produced by Bencivenga
+     and Lopez into TEI P5, 15 March 2015.</p>
+    <p>More information about the Pitt-Greensburg Decameron Project </p>
+    <!--2015-03-15 ebb: Keep working on the TEI Header, and look at the Pacific and Mitford projects for models. -->
+   </publicationStmt>
+   <sourceDesc>
+    <p>This is one of two files, an Italian text and an English text. This XML represents
+     the English translation of J. M. Rigg, London, 1921 (first printed 1903).</p>
+    <p>Milestone elements in the English and Italian texts indicate points where the
+     translated version aligns with the original. The Italian text in our project (in <ref
+      target="itDecameron.xml">itDecameron.xml</ref> of the Decameron is based on V.
+     Branca’s Einaudi edition (1992).</p>
+    <p><!--ebb: 2016-03-15: We may need to alter this, since we are upconverting the English Decameron text from a text that Mia and Karla did not render in TEI.-->
+     Original TEI markup of the Italian text is provided by the <ref
+      target="http://www.brown.edu/Departments/Italian_Studies/dweb/index.php">Decameron
+      Web</ref>, a project of the Italian Studies Department’s Virtual Humanities Lab at
+     Brown University. The original markup is licensed under a <ref
+      target="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US">Creative Commons
+      Attribution-ShareAlike 4.0 International License</ref>.</p>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
   <text xml:lang="EN"><front><argument><p><milestone unit="locus" corresp="p99990001"/><!--(i)-->Beginneth here the book called Decameron, otherwise
 	  Prince Galeotto, wherein are contained one hundred
 	  novels told in ten days by seven ladies and three

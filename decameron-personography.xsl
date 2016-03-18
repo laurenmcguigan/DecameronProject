@@ -4,6 +4,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:template match="person">
+        
             <persName xml:id="{@id}" >
                 <surname>
                     <xsl:apply-templates select="text()"/>
@@ -35,7 +36,7 @@
             </persName>
     </xsl:template>
 <xsl:template match="place">
-<place xml:id="@id">
+<place xml:id="{@id}">
     <placeName>
         <xsl:apply-templates select="text()"></xsl:apply-templates>
     </placeName>

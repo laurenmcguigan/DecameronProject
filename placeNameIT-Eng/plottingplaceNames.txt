@@ -1,0 +1,248 @@
+**** - A - ****
+Abruzzi - found
+Acaia - found as Achaia
+Acri - not found
+Aguamorta - found
+Alagna - not found
+Alba - found
+Alessandria / Alessandra - found as Alexandria
+Altarisi - not found
+Amalfi - found
+Ancona / Marca d'Ancona - found as Ancona
+Antiochia - not found
+Arcipelago - not found
+Arezzo - found
+Argo - found
+Arno - found
+Avignone - found as Avignon
+Monte Asinaio - found
+Atene - not found
+**** - B - ****
+Babillonia / Babilonia - found as Babylon
+Baffa (Pafo) - found as Baffa
+Baldacca - not found
+Barberia / Barbaria - not found
+Barletta - not found
+terra de' Baschi - found as land of the Basques
+Bengodi - found
+Berlinzone - found
+Benevento - found
+Bitonto - found
+Bologna - found
+Bonconvento - found as Buonconvento
+Borgo de' Greci - not found
+Borgogna - found as Burgundy
+San Brancazio - found as San Pancrazio
+contrada San Brancazio - not found
+Brandizio - found as Brindisi
+Brescia - found
+Bruggia - not found
+Buffia - found
+**** - C - ****
+Cacavincigli - found
+Calatabellotta - found
+Calavria - found as Calabria
+Calese - found as Calais
+Camaldoli - found
+Camerata - found
+Camollia - found
+Campi - found
+Camporeggi - not found
+Candia - found
+Canto alla Macina - not found
+Capadocia - found as Cappadocia 
+Capitolio - found as Capitol
+Caprezio - found
+Capova - found as Capua
+Capsa - found
+Cartagine - found as Carthage
+Castello da mare di Stabia - found as Castello\n da Mare di Stabia
+Castello dei Rossiglione - not found, but for Rossiglione mentioned later, it is found as Roussillon
+Castello dei Guardastagno - found as Guardastagno in a note element
+Catania - not found
+Cattaio - not found
+Loggia de' Cavicciuli - found
+Cifalonia - found as Cephalonia
+Certaldo - found
+Cefal - not found
+Chiarenza - not found
+Chiassi - found
+Chiesa del castello dei Rossiglione - not found
+Chios - found
+Cicilia - found as Sicily
+Cipri - found as Cyprus
+Civillari - found
+Via del Cocomero / Mercato Vecchio - found both
+Corniglia - found
+contea di Cornovaglia - found as Cornwall
+Costantinopoli - found as Constantinople
+Corsignano - found
+Cremona - found
+san Cresci in Valcava - not found
+Creti - found as Crete
+la Cuba - found
+**** - E - ****
+Egina - found
+Egitto - found as Egypt
+Erminia - found as Armenia
+**** - F - ****
+Faenza - found
+Famagosta - found
+Fano - found
+Ferrara - found
+Fiandra - found as Flanders
+Fiesole - found
+Firenze - found as Florence 
+Forlimpopoli - not found
+Francia - found as France
+Frioli - found as Friuli
+**** - G - ****
+Gaeta - found
+Gales - found as Wales
+reame del Garbo - found as Garbo
+Genova - found as Genoa
+Gergenti - found as Girgenti
+Granata - found as Granada
+Guascogna - found as Gascony
+Castel Guiglielmo - found as Castel Guglielmo
+Gurfo - found as Corfu
+**** - I - ****
+Ierusalem - found as Jerusalem
+Imola - found
+India Pastinaca - not found, but found India by itself
+Inferno / ninferno - found ninferno in the untransl. section
+Inghilterra - found as England
+Irlanda - found as Ireland
+Ischia - found
+Italia - found as Italy
+**** - L - ****
+Laiazzo - not found
+Lamporecchio - found
+Laternino - not found
+Lerici - found
+Legnaia - found
+Lipari - found
+Lombardia - found as Lombardy
+Londra - found as London
+Lucifero - found as Lucifer
+Lunigiana - found
+**** - M - ****
+Magra - found
+Maiolica - found as Majorca
+Macello - not found
+Malpertugio - not found
+Maremma - found
+Marsilia - found as Marseilles
+Menzogna - found
+Messina - found
+Melano - found as Milan
+Minerva - found
+Modona - found as Modena
+Monaco - found
+Monte Nero - found
+Montesone - found
+Montisci - found
+Monte Morello - found
+Montughi - found as Mont' Ughi
+Morea - found
+Mugello - found
+Mugnone / Mugnon - found as Mugnone
+Monpulier - found as Montpellier
+**** - N - ****
+Napoli - found as Naples
+Narsia - found
+Nazarette - found as Nazareth
+Norrueca - not found
+Nostra Dama - found as Notre Dame
+**** - O - ****
+Orto San Michele - found as Or San Michele
+**** - P - ****
+Palermo - found
+Parigi - found as Paris
+Parione - found
+Passignano sul Trasimeno - not found
+Pavia - found
+Peretola - found
+Persia - found
+Perugia - found
+Piccardia - found as Picardy
+Pisa - found
+Pistoia - found
+Ponte dell'Oca - found as Bridge of Geese
+Porcellana - found
+Ponzo - found as Ponza
+porta a San Gallo - found 1 instance of Porta a San Gallo, others found as just San Gallo
+Porta Salaia - not found
+Porta San Piero - found
+Prato - found
+prato d'Ognissanti - not found
+Procida - found
+Provenza - found as Provence
+Puglia - found as Apulia
+**** - R - ****
+Radicofani - found
+Ravello - found
+Ravenna - found
+Reggio - found
+Rialto - found
+Rimini / Arminio - found as Rimini
+Ripole - found as Ripoli
+Rodi - found as Rhodes
+Roma - found as Rome
+Romagna - found
+Rossiglione - found as Roussillon
+Ruem - found as Rouen
+Ruga Catalana - found
+**** - S - ****
+Salerno - found
+Sanluzzo - found as Saluzzo
+San Gallo - found
+San Gallo (ospedale) - not found
+San Gimignano - found
+San Giovanni - found
+San Jacopo di Ripoli - not found
+San Marco - found
+San Paolo - found
+San Piero in Ciel d'Oro - found
+Santa Croce - found
+Santafiore - not found
+Santa Lucia dal Prato - found as Santa Lucia of Prato
+Santa Maria della Scala - found
+Santa Maria Maggiore - found
+Santa Maria Novella - found
+Santa Maria Ughi - found
+Santa Maria a Verzaia - found
+Santa Reparata - found
+Sant'Elpidio a Mare / San Lepidio - found as San Lepidio
+Sardigna - found as Sardinia
+Scalea in Calavria - found 1 as Scalea in Calabria, and found Scalea alone
+Scozia - found as Scotland
+Sepolcro - found as Holy Sepulchre
+Settignano - found
+Siena - found
+Sinagaglia - not found
+le Smirre - found as Smyrna
+Spagna / Ispagna - found as Spain
+Stanforda - found as Stamford
+Susa - found
+**** - T - ****
+Tebaida - found as Thebaid
+Terra Santa - found as Holy Land
+Tesino - found as Ticino
+Torrenieri - found
+Toscana - found in Tuscany
+Trapani - found
+Trani - found
+Tresanti - found
+Trivigi - found as Treviso
+Truffia - found
+Tunisi - found as Tunis
+**** - U - ****
+Udine - found
+Ustica - found
+**** - V - ****
+Valdelsa - not found
+Vallecchio - found
+Varlungo - found
+Verona - found
+Vinegia - found as Venice

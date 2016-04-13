@@ -1073,7 +1073,7 @@
         <person id="vegliomontagna" type="literary-historical" religion="another" sex="m"
             role="religiousauthority" estate="religious">Veglio della Montagna (III.8)</person>
         <person id="venere" type="mythological" religion="pagan" sex="f">Venere (II.7)</person>
-        <person id="verdiana" type="saint" sex="f" origin="Castelfiorentino"><rel
+        <person id="verdiana" type="saint" sex="f" origin="Castelfiorentino"><rel type="friend"
                 whom="vecchia-0510"/>Verdiana (V.10)</person>
         <!--check vecchia-0510-->
         <person id="vieridecerchi" type="historical" sex="m" age="adult" role="cityauthority"
@@ -1770,8 +1770,8 @@
             >Rialto</place>
         <place id="rimini" geograficarea="Italy" itreg="Emilia-Romagna" type="city">Rimini /
             Ariminio</place>
-        <place geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="convent"><orig
-                reg="San     Giacomo di Ripoli"/>Ripole</place>
+        <!--<place geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="convent"><orig
+                reg="San Giacomo di Ripoli"/>Ripole</place>-->
         <place id="rodi" geograficarea="Greece-Balkans" type="island">Rodi</place>
         <place id="roma" geograficarea="Italy" itreg="Latium" type="city">Roma</place>
         <place id="romagna" geograficarea="Italy" itreg="Emilia-Romagna" type="region"
@@ -1796,7 +1796,8 @@
             Gimignano</place>
         <place id="sangiovanni" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="church"
             >San Giovanni</place>
-        <place id="ripole" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="convent">San
+           <place id="ripole" geograficarea="Italy" itcity="Firenze" itreg="Tuscany" type="convent"><orig
+               reg="San Giacomo di Ripoli"/>San
             Jacopo di Ripoli</place>
         <place id="sanmarco" geograficarea="Italy" itcity="Venezia" itreg="Veneto" type="square">San
             Marco</place>

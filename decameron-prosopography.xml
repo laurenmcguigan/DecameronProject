@@ -1,0 +1,2156 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Site Index of Named Entities in Bocaccio's Decameron</title><author>Obdurodon (Pittsburgh) Decameron Project Team</author><author>Newtfire (Greeensburg) Decameron Project Team</author></titleStmt><publicationStmt><p>Born digital.</p><p>This is part of a digital edition repurposed by Jessica Milewski, Matthew Burch, Lauren
+                            McGuigan, and Megan Mills of Pitt-Greensburg Digital Humanities class of Spring 2015
+                            from <ref target="http://decameron.obdurodon.org">Women of Boccaccio’s
+                                Decameron</ref> project, 2014, a project by Mia Bencivenga and Karla Lopez. 
+                  </p><p>The conversion and repurposing is
+                            licensed under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US">Creative Commons
+                                Attribution-ShareAlike 4.0 International License</ref>.</p><p>Elisa Beshero-Bondar transformed an XML of the English text produced by Bencivenga
+                            and Lopez into TEI P5, 15 March 2016.</p></publicationStmt><sourceDesc><p>data compiled by Oakland project team in 2014.</p></sourceDesc></fileDesc></teiHeader><text><body><listPerson> <person xml:id="author"><persName>Boccaccio</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus/></person>
+        
+        <person xml:id="dioneo"><persName>Dioneo</persName><state type="frameCharacter"/><sex>m</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="elissa"><persName>Elissa</persName><state type="frameCharacter"/><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="emilia"><persName>Emilia</persName><state type="frameCharacter"/><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="fiammetta"><persName>Fiammetta</persName><state type="frameCharacter"/><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="filomena"><persName>Filomena</persName><state type="frameCharacter"/><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="filostrato"><persName>Filostrato</persName><state type="frameCharacter"/><sex>m</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="lauretta"><persName>Lauretta</persName><state type="frameCharacter"/><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="neifile"><persName>Neifile</persName><state type="frameCharacter"/><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="pampinea"><persName>Pampinea</persName><state type="frameCharacter"/><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="panfilo"><persName>Panfilo</persName><state type="frameCharacter"/><sex>m</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        
+        
+        <person xml:id="chimera"><persName>Chimera</persName><sex>f</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="licisca"><persName>Licisca</persName><sex>f</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="misia"><persName>Misia</persName><sex>f</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="parmeno"><persName>Parmeno</persName><sex>m</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="sirisco"><persName>Sirisco</persName><sex>m</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="stratilia"><persName>Stratilia</persName><sex>f</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="tindaro"><persName>Tindaro</persName><sex>m</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus/></person>
+        
+        
+        
+        
+        <person xml:id="abraam"><persName>Abraam / Giovanni</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Parigi</birth><faith>jew</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="adalieta"><persName>Adalieta</persName><sex>f</sex><age>youth</age><occupation>housewife</occupation><birth>Pavia</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="adriano"><persName>Adriano</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Firenze</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="agnesa"><persName>Agnesa</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Siena</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        
+        <person xml:id="agnesabernabuccio"><persName>Angesa di
+            Bernabuccio</persName><sex>f</sex><age>youth</age><occupation>housewife</occupation><birth>Faenza</birth><faith>christian</faith><socecStatus>unknown</socecStatus></person>
+        <person xml:id="agilulfo"><persName>Agilulfo</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>Pavia</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="agnolella"><persName>Agnolella</persName><sex>f</sex><age>youth</age><occupation/><birth>Roma</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="agolante"><persName>Agolante Agolanti</persName><sex>m</sex><age/><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="agolanti"><persName>
+            Agolanti</persName><sex/><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="berto"><persName>frate Alberto (Berto della Massa)</persName><sex/><age>adult</age><occupation>outlaw</occupation><birth>Imola</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="maestroalberto"><persName>maestro Alberto da Bologna</persName><sex>m</sex><age>elder</age><occupation>doctor</occupation><birth>Bologna</birth><faith/><socecStatus/></person>
+        <person xml:id="alatiel"><persName>Alatiel</persName><sex>f</sex><age>youth</age><occupation>princess</occupation><birth>AlessandriaEg</birth><faith>muslim</faith><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="aldobrandino"><persName>Aldobrandino Palermini</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="alessandro"><persName>Alessandro Agolanti</persName><sex>m</sex><age/><occupation>moneylender</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="alessandrochiarmontesi"><persName>Alessandro Chiarmontesi</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="santoalesso"><persName>santo Alesso</persName><sex>m</sex><age/><occupation/><birth>Roma</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="alessorinucci"><persName>Alesso Rinucci</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="alibech"><persName>Alibech</persName><sex>f</sex><age>youth</age><occupation/><birth>Gafsa</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="ambrogiolo"><persName>Ambrogiuolo da Piagenza</persName><sex>m</sex><age>youth</age><occupation>merchant</occupation><birth>Piacenza</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="ambruogia"><persName>Ambruogia</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Milano</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="santoambruogio"><persName>santo Ambruogio (san Sedoni da Siena)</persName><sex>m</sex><age/><occupation/><birth>Siena</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="ambruogioanselmini"><persName>Ambruogio Anselmini</persName><sex>m</sex><age/><occupation>unspecified</occupation><birth>Siena</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="amerigo"><persName>Amerigo Abate da
+            Trapani</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Trapani</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="amore"><persName>Amore</persName><sex>m</sex><age/><occupation/><birth/><faith>pagan</faith><socecStatus/></person>
+        <person xml:id="andreuccio"><persName>Andreuccio di Pietro (da Perugia)</persName><sex>m</sex><age>youth</age><occupation>merchant</occupation><birth>Perugia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="andreuola"><persName>Andreuola (da Ponte Carraro)</persName><sex>f</sex><age>youth</age><occupation/><birth>Brescia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="realfonso"><persName>Anfonso X re
+            di Spagna</persName><sex>m</sex><age/><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="ansaldo"><persName>Ansaldo Gradense</persName><sex>m</sex><age/><occupation>knight</occupation><birth>Friuli</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="antigono"><persName>Antigono di
+            Famagosta</persName><sex>m</sex><age>elder</age><occupation>servant</occupation><birth>Famagosta</birth><faith>muslim</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="antioco"><persName>Antioco</persName><sex>m</sex><age>elder</age><occupation/><birth/><faith/><socecStatus>military</socecStatus></person>
+        <person xml:id="antonioorso"><persName>Antonio d'Orso</persName><sex>m</sex><age>adult</age><occupation>churchauthority</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="arcita"><persName>Arcita</persName><sex>f</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        
+        <person xml:id="aristippo"><persName>Aristippo (V.1)</persName><sex>m</sex><age/><occupation/><birth>Cipro</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="aristippo1008"><persName>Aristippo (X.8)</persName><sex>m</sex><age/><occupation>philosopher</occupation><birth>Atene</birth><faith>pagan</faith><socecStatus/></person>
+        <person xml:id="arrighettocapece"><persName>Arrighetto
+            Capece</persName><sex>m</sex><age>adult</age><occupation>lord</occupation><birth>Napoli</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="santoarrigo"><persName>santo Arrigo /
+            Arrigo</persName><sex>m</sex><age/><occupation/><birth>Bolzano</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="arriguccio"><persName>Arriguccio
+            Berlinghieri</persName><sex>m</sex><age/><occupation>merchant</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="atticiato"><persName>Atticciato
+            (Atticiato)</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="autari"><persName>Auttari</persName><sex/><age/><occupation>king</occupation><birth>longobarda</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="marcheseazzo"><persName>marchese Azzo da Ferrara</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Ferrara</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="baronci"><persName>Baronci</persName><sex/><age/><occupation>family</occupation><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="bartolomea"><persName>Bartolomea Gualandi</persName><sex>f</sex><age>youth</age><occupation/><birth>Pisa</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="rebasano"><persName>Basano</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>Turkey-AsiaMinor</birth><faith>muslim</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="beatricegalluzzi"><persName>Beatrice Galluzzi</persName><sex>f</sex><age/><occupation/><birth>Bologna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="belcolore"><persName>Belcolore</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Varlungo</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="beltramo"><persName>
+            Beltramo di
+            Rossiglione</persName><sex>m</sex><age>youth-adult</age><occupation>count</occupation><birth>Roussillon</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="benedetto"><persName>Benedetto Ferondi</persName><sex>m</sex><age>child</age><occupation/><birth>Tuscany</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="bentivegnamazzo"><persName>Bentivegna
+            del Mazzo</persName><sex>m</sex><age>adult</age><occupation>peasant</occupation><birth>Varlungo</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="beminedab"><persName>
+            Beminedab / soldano</persName><sex>m</sex><age>adult</age><occupation>sultan</occupation><birth>AlessandriaEg</birth><faith>muslim</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="bergamina"><persName>Bergamina</persName><sex>f</sex><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="bergamino"><persName>Bergamino</persName><sex>m</sex><age>adult</age><occupation>courtier</occupation><birth/><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="beritolacaracciola"><persName>madama Beritola Caracciola /
+            Cavriuola</persName><sex>f</sex><age>adult</age><occupation/><birth>Napoli</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="bernabo"><persName>Bernabò
+            Lomellin da Genova</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Genova</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="bernabuccio"><persName>Bernabuccio</persName><sex>m</sex><age>adult</age><occupation/><birth>Faenza</birth><faith/><socecStatus/></person>
+        <person xml:id="bernardo"><persName>Bernardo Puccini</persName><sex>m</sex><age>adult</age><occupation>artisan</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="santobernardo"><persName>san Bernardo</persName><sex>m</sex><age/><occupation/><birth>Clairvaux</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="bettobrunelleschi"><persName>Betto Brunelleschi</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="biagiopizzini"><persName>Biagio Pizzini</persName><sex>m</sex><age>youth</age><occupation/><birth>Certaldo</birth><faith/><socecStatus/></person>
+        <person xml:id="biliuzza"><persName>Biliuzza</persName><sex>f</sex><age>adult</age><occupation/><birth>Varlungo</birth><faith/><socecStatus/></person>
+        <person xml:id="binguccio"><persName>Binguccio dal Poggio</persName><sex>m</sex><age>adult</age><occupation/><birth>Varlungo</birth><faith/><socecStatus/></person>
+        <person xml:id="biondello"><persName>Biondello</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="bonaccorri"><persName>Bonaccorri da Ginestreto</persName><sex>m</sex><age>adult</age><occupation>legalauthority</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="bonifazio"><persName>Bonifazio VIII</persName><sex>m</sex><age>adult</age><occupation>pope</occupation><birth>Anagni</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="brunetta"><persName>Brunetta</persName><sex>f</sex><age/><occupation>peasant</occupation><birth>Tuscany</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="bruno"><persName>Bruno (di Giovanni d'Olivieri)</persName><sex>m</sex><age>adult</age><occupation>artist</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="buffalmacco"><persName>Buffalmacco (Bonamico)</persName><sex>m</sex><age>adult</age><occupation>artist</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="buglietto"><persName>Buglietto</persName><sex>m</sex><age>adult</age><occupation/><birth>Varlungo</birth><faith/><socecStatus/></person>
+        <person xml:id="buttafuoco"><persName>Buttafuoco</persName><sex>m</sex><age>adult</age><occupation>pander</occupation><birth>Napoli</birth><faith/><socecStatus>poor</socecStatus></person>
+        
+        <person xml:id="calandrino"><persName>Calandrino</persName><sex>m</sex><age>adult</age><occupation>artist</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="canescala"><persName>messer Cane / Cangrande della Scala</persName><sex>m</sex><age>adult</age><occupation>lord</occupation><birth>Verona</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="carapresa"><persName>Carapresa</persName><sex>f</sex><age>adult</age><occupation>servant</occupation><birth>Trapani</birth><faith>christian</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="cmagno"><persName>Carlo Magno</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>unknown</birth><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="recarloi"><persName>re Carlo primo
+            d'Angiò</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>France</birth><faith/><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="recarloii"><persName>re
+            Carlo secondo (nostro re Carlo)</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>France</birth><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="carlosenzaterra"><persName>Carlo Senzaterra di
+            Valois</persName><sex>m</sex><age>adult</age><occupation>prince</occupation><birth>Valois(France)</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="cassandrea"><persName>Cassandrea</persName><sex>f</sex><age>adult</age><occupation/><birth>Rodi</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="catalina"><persName>Catalina (Carisendi) Caccianemico</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Bologna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="catella"><persName>Catella Sighinolfi</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Napoli</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="caterina"><persName>Caterina da Valbona</persName><sex>f</sex><age>youth</age><occupation/><birth>Romagna</birth><faith/><socecStatus/></person>
+        <person xml:id="cavalcantecavalcanti"><persName>Cavalcante
+            Cavalcanti</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="encararh"><persName>segner En Cararh</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Catalonia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="ceccoangiulieri"><persName>Cecco Angiulieri</persName><sex>m</sex><age>adult</age><occupation>writer</occupation><birth>Siena</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ceccofortarrigo"><persName>Cecco Fortarrigo</persName><sex>m</sex><age>adult</age><occupation>unspecified</occupation><birth>Siena</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="cesca"><persName>Cesca
+            da Celafico</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="chichibio"><persName>Chichibio</persName><sex>m</sex><age>adult</age><occupation>servant</occupation><birth>Venezia</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="ciacco"><persName>Ciacco</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="ciappelletto"><persName>Ciappelletto/Cepparello</persName><sex>m</sex><age>adult</age><occupation>outlaw</occupation><birth>Prato</birth><faith/><socecStatus/></person>
+        <person xml:id="cinciglione"><persName>Cinciglione</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        
+        <person xml:id="cinopistoia"><persName>Cino da Pistoia (Guittoncino de' Sinibaldi)</persName><sex>m</sex><age>adult</age><occupation>writer</occupation><birth>Pistoia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="fratecipolla"><persName>frate Cipolla</persName><sex>m</sex><age>adult</age><occupation>preacher</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="cipseo"><persName>Cipseo</persName><sex>m</sex><age/><occupation/><birth>Cipro</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="cisti"><persName>Cisti</persName><sex>m</sex><age>adult</age><occupation>artisan</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="ciuriaci"><persName>Ciuriaci</persName><sex>m</sex><age>adult</age><occupation>servant</occupation><birth>Morea</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="ciutazza"><persName>Ciutazza</persName><sex>f</sex><age>adult</age><occupation>servant</occupation><birth>Fiesole</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="narnaldcivada"><persName>N'Arnald Civada</persName><sex/><age>adult</age><occupation>merchant</occupation><birth>Marsiglia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="bertellacivada"><persName>Bertella Civada</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth>Marsiglia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="magdalenacivada"><persName>Magdalena Civada</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth>Marsiglia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="ninettacivada"><persName>Ninetta Civada</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth>Marsiglia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="abatecligni"><persName>abate di Cligní</persName><sex>m</sex><age>adult</age><occupation>churchauthority</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        
+        
+        <person xml:id="coppo"><persName>Coppo di Borghese Domenichi</persName><sex>m</sex><age>elder</age><occupation>cityauthority</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        
+        <person xml:id="corsodonati"><persName>Corso Donati</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="costanzio"><persName>Costantino /
+            Constanzio</persName><sex>m</sex><age>adult</age><occupation/><birth>Costantinopoli</birth><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="cremete"><persName>Cremete</persName><sex>m</sex><age>elder</age><occupation/><birth>Atene</birth><faith>pagan</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="criseida"><persName>Criseida</persName><sex>f</sex><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        
+        <person xml:id="crivello"><persName>Crivello</persName><sex>m</sex><age/><occupation>intermediary</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="currado-trapani"><persName>Currado</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Trapani</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="curradogianfigliazzi"><persName>Currado Gianfigliazzi</persName><sex>m</sex><age>adult</age><occupation>lord</occupation><birth>Tuscany</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="corradomalaspina"><persName>Currado de' marchesi Malespini</persName><sex>m</sex><age>adult</age><occupation/><birth>Villafranca</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="dantealighieri"><persName>Dante Alighieri</persName><sex>m</sex><age/><occupation>writer</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="degoratta"><persName>Dego della Ratta</persName><sex>m</sex><age>adult</age><occupation>courtier</occupation><birth>Barcellona Catalonia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="dianora"><persName>madonna Dianora</persName><sex>f</sex><age/><occupation/><birth>Friuli</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="santodomenico"><persName>san Domenico</persName><sex>m</sex><age/><occupation/><birth>Calaruega (Spain)</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        
+        <person xml:id="efigenia"><persName>Efigenia</persName><sex>f</sex><age>youth</age><occupation/><birth>Cipro</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="eganogalluzzi"><persName>Egano Galluzzi</persName><sex>m</sex><age/><occupation/><birth>Bologna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="elena"><persName>Elena</persName><sex>f</sex><age>adult</age><occupation>widow</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ellisabetta"><persName>Ellisabetta</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth>SanGimignano</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="ercolano"><persName>Ercolano</persName><sex/><age>adult</age><occupation/><birth>Perugia</birth><faith/><socecStatus/></person>
+        <person xml:id="ermellina"><persName>Ermellina Palermini</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="erminogrimaldi"><persName>Ermino (Avarizia) de' Grimaldi</persName><sex>m</sex><age>adult</age><occupation>lord</occupation><birth>Genova</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="esculapio"><persName>Esculapio</persName><sex/><age>adult</age><occupation/><birth>ancientGreece</birth><faith>pagan</faith><socecStatus/></person>
+        <person xml:id="eva"><persName>Eva</persName><sex>f</sex><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        
+        <person xml:id="faziuolo"><persName>Faziuolo da Pontriemoli</persName><sex>m</sex><age/><occupation>soldier</occupation><birth>Pontremoli</birth><faith/><socecStatus/></person>
+        <person xml:id="federigoalberighi"><persName>Federigo degli Alberighi</persName><sex>m</sex><age>youth-elder</age><occupation>widow</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="federigoneripegolotti"><persName>Federigo di Neri
+            Pegolotti</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Firenze</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="federicoi"><persName>imperador
+            Federigo primo (Barbarossa)</persName><sex>m</sex><age/><occupation>emperor</occupation><birth>Germany</birth><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="federicoii"><persName>
+            Federigo secondo</persName><sex>m</sex><age/><occupation>emperor</occupation><birth>Germany</birth><faith/><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="fediiar"><persName>re Federigo II
+            d'Aragona</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>Aragona</birth><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="donfelice"><persName>don Felice</persName><sex>m</sex><age>adult</age><occupation>monk</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="ferondo"><persName>Ferondo</persName><sex>m</sex><age/><occupation>peasant</occupation><birth>Tuscany</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="figiovanni"><persName>Figiovanni</persName><sex/><age/><occupation>family</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="fiordaliso"><persName>giovane ciciliana / madama Fiordaliso</persName><sex>f</sex><age>youth</age><occupation>prostitute</occupation><birth>Palermo</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        
+        <person xml:id="madonnafilippa"><persName>Madonna Filippa</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Prato</birth><faith/><socecStatus/></person>
+        <person xml:id="filippello"><persName>
+            Filippello Sighinolfo</persName><sex/><age>adult</age><occupation/><birth>Napoli</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="filippo"><persName>Filippo</persName><sex>m</sex><age>youth</age><occupation/><birth>Rimini</birth><faith/><socecStatus/></person>
+        <person xml:id="filippoalberighi"><persName>Filippo Alberighi</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="filippoargenti"><persName>Filippo Argenti</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="filippobalducci"><persName>Filippo Balducci</persName><sex>m</sex><age/><occupation>widow</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="filippocornacchini"><persName>Filippo Cornacchini</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="filippobornio"><persName>re Filippo il bornio</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>France</birth><faith/><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="filippominutolo"><persName>Filippo Minutolo</persName><sex>m</sex><age>adult</age><occupation>churchauthority</occupation><birth>Napoli</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="fineo"><persName>Fineo</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>Armenia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="folco"><persName>Folco</persName><sex>m</sex><age>youth-adult</age><occupation>unspecified</occupation><birth>Marsiglia</birth><faith/><socecStatus/></person>
+        <person xml:id="forese"><persName>messer Forese da Rabatta</persName><sex>m</sex><age>adult</age><occupation>legalauthority</occupation><birth>Tuscany</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="francesca"><persName>madonna Francesca de' Lazzari</persName><sex>f</sex><age>adult</age><occupation>widow</occupation><birth>Pistoia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="francesco"><persName>messer Francesco
+            Vergellesi</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Pistoia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="santofrancesco"><persName>san Francesco</persName><sex>m</sex><age/><occupation/><birth>Assisi</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="fresco"><persName>Fresco da
+            Celatico</persName><sex>m</sex><age/><occupation/><birth>Celatico</birth><faith/><socecStatus/></person>
+        <person xml:id="fulvia"><persName>Fulvia</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth>Roma</birth><faith>pagan</faith><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="gabriotto"><persName>Gabriotto</persName><sex>m</sex><age>adult</age><occupation/><birth>Brescia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="santogaleone"><persName>santo Galeone</persName><sex>m</sex><age/><occupation/><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="galeso"><persName>Galeso / Cimone</persName><sex>m</sex><age>youth</age><occupation/><birth>Cipro</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="galeno"><persName>Galieno</persName><sex>m</sex><age>adult</age><occupation>doctor</occupation><birth>ancientGreece</birth><faith>pagan</faith><socecStatus/></person>
+        <person xml:id="gemmata"><persName>Gemmata</persName><sex>f</sex><age>youth</age><occupation>housewife</occupation><birth>Tresanti</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="gentile"><persName>Gentile Carisendi</persName><sex>m</sex><age>youth</age><occupation>knight</occupation><birth>Bologna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="gerardo"><persName>Gerardo di Nerbona</persName><sex>m</sex><age/><occupation>doctor</occupation><birth>Narbonne</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="gerbino"><persName>Gerbino</persName><sex/><age/><occupation/><birth/><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="geremia"><persName>Geremia</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith/><socecStatus>religious</socecStatus></person>
+        <person xml:id="gerispina"><persName>Geri Spina</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ghino"><persName>Ghino di Tacco</persName><sex>m</sex><age>adult</age><occupation>outlaw</occupation><birth>Siena</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="ghismonda"><persName>Ghismunda</persName><sex>f</sex><age>adult</age><occupation>princess</occupation><birth>Salerno</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="ghita"><persName>monna Ghita</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Arezzo</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="giachetto"><persName>Giachetto Lamiens</persName><sex>m</sex><age>youth-adult</age><occupation/><birth>Londra</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="giacomina"><persName>Giacomina da
+            Valbona</persName><sex>f</sex><age>adult</age><occupation/><birth>Romagna</birth><faith/><socecStatus/></person>
+        <person xml:id="giacomino"><persName>Giacomino da Pavia</persName><sex>m</sex><age>elder</age><occupation>soldier</occupation><birth>Pavia</birth><faith/><socecStatus>military</socecStatus></person>
+        <person xml:id="gianprocida"><persName>messer Gian di Procida</persName><sex>m</sex><age/><occupation/><birth>Procida</birth><faith/><socecStatus/></person>
+        
+        <person xml:id="giannello"><persName>Giannello Scrignario</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Napoli</birth><faith>christian</faith><socecStatus>unknown</socecStatus></person>
+        <person xml:id="gianniprocida"><persName>Gianni da Procida</persName><sex>m</sex><age>youth</age><occupation/><birth>Procida</birth><faith/><socecStatus/></person>
+        <person xml:id="violante"><persName>Violante / Giannetta</persName><sex>f</sex><age>youth-adult</age><occupation/><birth>Anversa</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="giannilotteringhi"><persName>Gianni Lotteringhi</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="gianninello"><persName>Gianni
+            di Nello</persName><sex>m</sex><age/><occupation>cityauthority</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="giannole"><persName>Giannole di Severino</persName><sex>m</sex><age>youth</age><occupation/><birth>Faenza</birth><faith/><socecStatus/></person>
+        <person xml:id="giannottocivigni"><persName>Giannotto di
+            Civignì</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Parigi</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="giannucole"><persName>Giannucole /
+            Giannucolo</persName><sex>m</sex><age>adult-elder</age><occupation>peasant</occupation><birth>Sanluzzo</birth><faith>christian</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="gigliozzo"><persName>Gigliuozzo Saullo</persName><sex>m</sex><age/><occupation/><birth>Roma</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="gilberto"><persName>Gilberto</persName><sex>m</sex><age>adult</age><occupation/><birth>Friuli</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="giletta"><persName>
+            Giletta di Nerbona</persName><sex>f</sex><age>youth-adult</age><occupation>housewife</occupation><birth>Narbonne</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="ginevrauberti"><persName>Ginevra
+            degli Uberti / Ginevra la bella</persName><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="sangiorgio"><persName>san Giorgio</persName><sex>m</sex><age/><occupation/><birth>Palestine</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="giosefo"><persName>Giosefo</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Antiochia</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="giotto"><persName>Giotto (Giotto di Bondone)</persName><sex>m</sex><age>adult</age><occupation>artist</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="giovanna"><persName>monna Giovanna</persName><sex>f</sex><age/><occupation>widow</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="giovannibragoniera"><persName>Giovanni del
+            Bragoniera</persName><sex>m</sex><age>youth</age><occupation/><birth>Certaldo</birth><faith/><socecStatus/></person>
+        <person xml:id="giovannidibarolo"><persName>Gianni di Barolo</persName><sex>m</sex><age>adult</age><occupation>churchauthority</occupation><birth>Barletta</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="girolamo"><persName>Girolamo Sighieri</persName><sex>m</sex><age>youth</age><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="giuffredi"><persName>Giuffredi / Giannotto
+            di Procida</persName><sex>m</sex><age>child-youth</age><occupation/><birth>Napoli</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="gisippo"><persName>Gisippo</persName><sex>m</sex><age/><occupation/><birth>Atene</birth><faith>pagan</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="santogiuliano"><persName>san Giuliano</persName><sex>m</sex><age/><occupation/><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="gostanza-0404"><persName>Gostanza Hohenstaufen
+            (IV.4)</persName><sex>f</sex><age>adult</age><occupation/><birth/><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="gostanza"><persName>Gostanza
+            (V.2)</persName><sex>f</sex><age>youth</age><occupation/><birth>Lipari</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="gottifrebuglione"><persName>Gottifré di Buglione</persName><sex>m</sex><age>adult</age><occupation>duke</occupation><birth>France</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="griselda"><persName>Griselda</persName><sex>f</sex><age>youth-adult</age><occupation>housewife</occupation><birth>Sanluzzo</birth><faith>christian</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="gualtierianversa"><persName>Gualtieri conte d'Anguersa</persName><sex>m</sex><age>adult-elder</age><occupation>count</occupation><birth>Anversa</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="gualtierisanluzzo"><persName>Gualtieri marchese di Sanluzzo</persName><sex>m</sex><age>adult</age><occupation>lord</occupation><birth>Sanluzzo</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="gasparredoria"><persName>messer
+            Guasparrino Doria</persName><sex>m</sex><age>adult</age><occupation/><birth>Genova</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="guasparruolo"><persName>Guasparruolo Cagastraccio
+            </persName><sex>m</sex><age/><occupation>merchant</occupation><birth>Milano</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="guasparruolosaliceto"><persName>Guasparuolo da
+            Saliceto</persName><sex>m</sex><age>adult</age><occupation>legalauthority</occupation><birth>Forlimpopoli</birth><faith/><socecStatus/></person>
+        <person xml:id="guccio"><persName>Guccio (Balena o Imbratta o Porco)</persName><sex>m</sex><age>adult</age><occupation>servant</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="reguglielmo"><persName>Guglielmo II di Sicilia</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>Sicilia</birth><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="guidocavalcanti"><persName>Guido
+            Cavalcanti</persName><sex>m</sex><age>adult</age><occupation>writer</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="guidotto"><persName>Guidotto da Cremona</persName><sex>m</sex><age>elder</age><occupation>soldier</occupation><birth>Cremona</birth><faith/><socecStatus>military</socecStatus></person>
+        <person xml:id="guidoanastagi"><persName>Guido degli Anastagi</persName><sex>m</sex><age/><occupation>knight</occupation><birth>Ravenna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="guidomonforte"><persName>Guido di Monforte</persName><sex>m</sex><age>adult</age><occupation>count</occupation><birth>France</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="guglielmino"><persName>Guiglielmino da
+            Medicina</persName><sex>m</sex><age>adult</age><occupation/><birth>Romagna</birth><faith/><socecStatus/></person>
+        <person xml:id="guiglielmoborsiere"><persName>Guiglielmo Borsiere</persName><sex>m</sex><age>adult</age><occupation>courtier</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="guiglielmoguardastagno"><persName>Guiglielmo Guardastagno</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth>France</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="guiglielmomagna"><persName>Guiglielmo della Magna</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth/><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="guiglielmorossiglione"><persName>Guiglielmo
+            Rossiglione</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth>Roussillon</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="guiscardo"><persName>Guiscardo</persName><sex>m</sex><age>adult</age><occupation/><birth>Salerno</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="gulfardo"><persName>Gulfardo</persName><sex>m</sex><age/><occupation>soldier</occupation><birth>Germany</birth><faith>christian</faith><socecStatus>military</socecStatus></person>
+        
+        
+        
+        <person xml:id="iancofiore"><persName>madonna
+            Iancofiore</persName><sex>f</sex><age>adult</age><occupation>outlaw</occupation><birth>Palermo</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="ippocrate"><persName>Ipocrate (I.in) Ipocrasso / Porcograsso
+            (VIII.9)</persName><sex>m</sex><age>adult</age><occupation>doctor</occupation><birth>ancientGreece</birth><faith>pagan</faith><socecStatus/></person>
+        <person xml:id="isabella"><persName>Isabella</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="isabetta"><persName>Isabetta</persName><sex>f</sex><age>youth</age><occupation>nun</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="monnaisabetta"><persName>Monna Isabetta</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="isnardo"><persName>Isnardo di Rossiglione</persName><sex/><age/><occupation>count</occupation><birth>Roussillon</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="isottauberti"><persName>Isotta
+            Uberti / Isotta la bionda</persName><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="lagina"><persName>Lagina</persName><sex>f</sex><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="landolfoprocida"><persName>Landolfo di
+            Procida</persName><sex>m</sex><age>adult</age><occupation/><birth>Procida</birth><faith/><socecStatus/></person>
+        <person xml:id="landolfo"><persName>Landolfo Rufolo</persName><sex>m</sex><age/><occupation>merchant</occupation><birth>Ravello</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="lamberti"><persName>Lamberti</persName><sex/><age/><occupation>family</occupation><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="lamberto"><persName>Lamberto Agolanti</persName><sex>m</sex><age/><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="lambertuccio"><persName>Lambertuccio</persName><sex>m</sex><age/><occupation>knight</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="lapuccio"><persName>Lapuccio</persName><sex>m</sex><age>adult</age><occupation>artisan</occupation><birth>Varlungo</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="lazzarinodeguazzagliotri"><persName>Lazzarino de Guazzagliotri</persName><sex>m</sex><age>adult</age><occupation/><birth>Prato</birth><faith/><socecStatus/></person>
+        <person xml:id="leonardosighieri"><persName>Leonardo Sighieri</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="leonetto"><persName>Leonetto / Lionetto</persName><sex>m</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="lidia"><persName>Lidia</persName><sex>f</sex><age>youth</age><occupation>housewife</occupation><birth>Argo</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="liello"><persName>Liello di Campo di Fiore degli Orsini</persName><sex>m</sex><age/><occupation>lord</occupation><birth>Roma</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="lisa"><persName>Lisa
+            Puccini</persName><sex>f</sex><age>youth</age><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="lisettaquirino"><persName>Lisetta Quirino
+            (IV.2)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Venezia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="lisimaco"><persName>Lisimaco</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Rodi</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="lizio"><persName>Lizio da
+            Valbona</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth>Romagna</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="lodovico"><persName>Lodovico / Anichino</persName><sex>m</sex><age/><occupation>knight</occupation><birth>Parigi</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="lorenzo"><persName>Lorenzo</persName><sex/><age>youth</age><occupation>merchant</occupation><birth>Pisa</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="lotto"><persName>Lotto</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth/><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="lottogualandi"><persName>Lotto Gualandi</persName><sex>m</sex><age>adult</age><occupation/><birth>Pisa</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="lusca"><persName>Lusca</persName><sex>f</sex><age>adult</age><occupation>intermediary</occupation><birth>Argo</birth><faith/><socecStatus>poor</socecStatus></person>
+        
+        <person xml:id="maddalena"><persName>Maddalena</persName><sex>f</sex><age>adult</age><occupation/><birth/><faith/><socecStatus>religious</socecStatus></person>
+        <person xml:id="maffeopallizzi"><persName>Maffeo da Palizzi</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth>Messina</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="malagevole"><persName>Malagevole</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="malgheridaghisolieri"><persName>Malgherida dei Ghisolieri</persName><sex>f</sex><age>adult</age><occupation>widow</occupation><birth>Bologna</birth><faith/><socecStatus/></person>
+        <person xml:id="manardi"><persName>Manardi da
+            Brettinoro</persName><sex/><age/><occupation>family</occupation><birth/><faith/><socecStatus/></person>
+        
+        <person xml:id="remanfredi"><persName>re Manfredi (di Sicilia)</persName><sex>m</sex><age>adult</age><occupation>emperor</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="mangione"><persName>Mangione
+            (IX.5)</persName><sex>m</sex><age/><occupation>pander</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="manicodiscopa"><persName>Manico di Scopa</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="manuello"><persName>Manovello</persName><sex>m</sex><age>youth</age><occupation/><birth>Costantinopoli</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="mannucciocuculia"><persName>Mannuccio dalla
+            Cuculia</persName><sex>m</sex><age/><occupation/><birth>SanFrediano</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="marato"><persName>Marato</persName><sex>m</sex><age>youth</age><occupation/><birth/><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="marchese"><persName>Marchese</persName><sex>m</sex><age>adult</age><occupation>jester</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="marcovarrone"><persName>Marco Varrone</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Roma</birth><faith>pagan</faith><socecStatus>military</socecStatus></person>
+        <person xml:id="margheritaimolese"><persName>Margherita d'Imolese</persName><sex>f</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="marino"><persName>Marino Bolgaro</persName><sex/><age>adult</age><occupation/><birth>Ischia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="martellino"><persName>Martellino</persName><sex>m</sex><age>adult</age><occupation>jester</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="martuccio"><persName>Martuccio Gomito</persName><sex>m</sex><age>youth</age><occupation>pirate</occupation><birth>Lipari</birth><faith>christian</faith><socecStatus>military</socecStatus></person>
+        <person xml:id="masettolamporecchio"><persName>Masetto da Lamporecchio</persName><sex>m</sex><age>youth</age><occupation>servant</occupation><birth>Tuscany</birth><faith>christian</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="masosaggio"><persName>Maso del Saggio</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth/><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="mechtildemagdeburg"><persName>donna Matelda /
+            Mechtilde di Magdeburg</persName><sex>f</sex><age>adult</age><occupation>nun</occupation><birth>Magdeburgo</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="matteuzzo"><persName>Matteuzzo</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="mazza"><persName>messer Mazza</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="matteomontagna"><persName>Mazzeo della Montagna</persName><sex>m</sex><age>elder</age><occupation>doctor</occupation><birth>Salerno</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="melchisedech"><persName>Melchisedech</persName><sex>m</sex><age>adult</age><occupation>moneylender</occupation><birth>AlessandriaEg</birth><faith>jew</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="melisso"><persName>Melisso</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Laiazzo</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="meriabdela"><persName>Meriabdela</persName><sex>m</sex><age>adult</age><occupation>sultan</occupation><birth>Tunisi</birth><faith>muslim</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="meta"><persName>don Meta</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="meucciotura"><persName>Meuccio di Tura</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Siena</birth><faith>christian</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="sanmichele"><persName>san Michele</persName><sex>m</sex><age/><occupation/><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="michelescalza"><persName>Michele Scalza</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="michelescotto"><persName>Michele Scotto</persName><sex>m</sex><age>adult</age><occupation>magician</occupation><birth>Scotland</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="mico"><persName>Mico da
+            Siena</persName><sex>m</sex><age>adult</age><occupation>writer</occupation><birth>Siena</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="minghino"><persName>Minghino di Mingole</persName><sex>m</sex><age>youth</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="minuccio"><persName>Minuccio
+            d'Arezzo</persName><sex>m</sex><age>adult</age><occupation>artist</occupation><birth>Arezzo</birth><faith/><socecStatus/></person>
+        <person xml:id="mitaanselmini"><persName>monna Mita Anselmini</persName><sex>f</sex><age/><occupation>unspecified</occupation><birth>Siena</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="mitridanes"><persName>Mitridanes</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>MidEast-FarEast</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="musciattofranzesi"><persName>Musciatto Franzesi</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        
+        <person xml:id="naldino"><persName>Naldino</persName><sex>m</sex><age>adult</age><occupation>artisan</occupation><birth>Varlungo</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="nastagio"><persName>Nastagio degli
+            Onesti</persName><sex>m</sex><age>youth</age><occupation/><birth>Ravenna</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="natan"><persName>Natan
+            / servidor di Natan</persName><sex>m</sex><age>elder</age><occupation>lord</occupation><birth>Cattaio</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="neerbale"><persName>Neerbale</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Capsa</birth><faith/><socecStatus/></person>
+        <person xml:id="negropontecarraro"><persName>Negro da Ponte Carraro</persName><sex>m</sex><age>adult</age><occupation/><birth>Brescia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="nellodidino"><persName>Nello (di Dino)</persName><sex>m</sex><age>adult</age><occupation>artist</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="neriuberti"><persName>messer Neri degli Uberti</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="nerivannini"><persName>Neri
+            Vannini</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="niccola"><persName>Niccola da San Lepidio</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>SantElpidio-a-Mare</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="niccolocornacchini"><persName>Niccolò
+            Cornacchini</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="salabaetto"><persName>Niccolò
+            da Cignano / Salabaetto</persName><sex>m</sex><age>youth</age><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="niccologragnano"><persName>Niccolò da
+            Grignano</persName><sex>m</sex><age>adult</age><occupation/><birth>ValGragnano(Carrara)</birth><faith/><socecStatus/></person>
+        <person xml:id="niccolosa"><persName>Niccolosa</persName><sex>f</sex><age/><occupation>prostitute</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="niccolosa-0906"><persName>Niccolosa</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="niccoluccio"><persName>Niccoluccio Caccianimico / Caccianemico</persName><sex>m</sex><age>adult</age><occupation>unspecified</occupation><birth>Bologna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="nicostrato"><persName>Nicostrato</persName><sex>m</sex><age>elder</age><occupation>lord</occupation><birth>Argo</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="nonnapulci"><persName>monna Nonna de' Pulci
+            (VI.3)</persName><sex>f</sex><age>youth</age><occupation>housewife</occupation><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="nuta"><persName>Nuta (VI.10)</persName><sex>f</sex><age>youth</age><occupation>servant</occupation><birth>Certaldo</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="nuto"><persName>Nuto (III.1)</persName><sex>m</sex><age>adult</age><occupation>peasant</occupation><birth>Lamporecchio</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="nutobuglietti"><persName>Nuto Buglietti (VIII.2)</persName><sex>m</sex><age>adult</age><occupation/><birth>Varlungo</birth><faith/><socecStatus/></person>
+        
+        <person xml:id="oretta"><persName>madonna Oretta (VI.1)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ormisda"><persName>Ormisda
+            (V.1)</persName><sex>m</sex><age>youth</age><occupation/><birth>Rodi</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="orsini"><persName>Orsini (V.3)</persName><sex/><age/><occupation/><birth>Roma</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="ozbek"><persName>Osbech (II.7)</persName><sex>m</sex><age>youth</age><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="ottaviano"><persName>Ottaviano Cesare Augusto (X.8)</persName><sex>m</sex><age>adult</age><occupation>emperor</occupation><birth>Roma</birth><faith>pagan</faith><socecStatus/></person>
+        
+        <person xml:id="paganinomonaco"><persName>Paganino da Monaco/da Mare
+            (II.10)</persName><sex>m</sex><age>adult</age><occupation>pirate</occupation><birth>Monaco</birth><faith/><socecStatus/></person>
+        <person xml:id="palemone"><persName>Palemone (VII.con)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        
+        <person xml:id="paolotraversari"><persName>Paolo Traversari
+            (V.8)</persName><sex>m</sex><age>adult</age><occupation/><birth>Ravenna</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="pasimunda"><persName>Pasimunda (V.1)</persName><sex>m</sex><age>youth</age><occupation/><birth>Rodi</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="pasquino"><persName>Pasquino (IV.7)</persName><sex/><age>youth</age><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>plebeian</socecStatus></person>
+        <person xml:id="perdicone"><persName>Perdicone (X.7)</persName><sex>m</sex><age>youth</age><occupation/><birth/><faith>christian</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="pericone"><persName>Pericone da Visalgo (II.7)</persName><sex>m</sex><age>adult</age><occupation/><birth>Visalgo</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="peronella"><persName>Peronella (VII.2)</persName><sex>f</sex><age>youth</age><occupation>housewife</occupation><birth>Napoli</birth><faith>christian</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="luigi"><persName>Luigi /
+            Perotto (II.8)</persName><sex>m</sex><age>youth-adult</age><occupation/><birth/><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="piccarda"><persName>Piccarda (VIII.4)</persName><sex>f</sex><age>adult</age><occupation>widow</occupation><birth>Fiesole</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="pietro"><persName>Pietro / padre di Andreuccio da Perugia</persName><sex>m</sex><age/><occupation>unspecified</occupation><birth>Perugia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="pietrodatresanti"><persName>Pietro da Tre Santi
+            (IX.10)</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Tresanti</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="pierodifiorentino"><persName>Piero di Fiorentino
+            (VI.6)</persName><sex>m</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="pietroiiiaragona"><persName>Piero di
+            Raona (II.6, X.7)</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>Aragona(Spain)</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="pietroboccamazza"><persName>Pietro Boccamazza
+            (V.3)</persName><sex>m</sex><age>youth</age><occupation/><birth>Roma</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="pietrocanigiano"><persName>Pietro dello
+            Canigiano (VIII.10)</persName><sex>m</sex><age>adult</age><occupation>treasurer</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="pietrovinciolo"><persName>Pietro di Vinciolo (V.10)</persName><sex>m</sex><age>adult</age><occupation/><birth>Perugia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="pinuccio"><persName>Pinuccio (IX.6)</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="pirro"><persName>Pirro (VII.9)</persName><sex>m</sex><age>youth</age><occupation>servant</occupation><birth>Argo</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="prestogiovanni"><persName>Presto Giovanni (VIII.9)</persName><sex>m</sex><age>adult</age><occupation>emperor</occupation><birth>Ethiopia</birth><faith/><socecStatus>religious</socecStatus></person>
+        <person xml:id="primasso"><persName>Primasso (I.7)</persName><sex>m</sex><age>adult</age><occupation>writer</occupation><birth>Parigi</birth><faith/><socecStatus/></person>
+        <person xml:id="publioambusto"><persName>Publio Ambusto
+            (X.8)</persName><sex>m</sex><age>youth</age><occupation>murderer</occupation><birth>Roma</birth><faith>pagan</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="publioqf"><persName>Publio Quinzio Fulvo (X.8)</persName><sex>m</sex><age>adult</age><occupation/><birth>Roma</birth><faith>pagan</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="frapuccio"><persName>Puccio di
+            Rinieri/frate Puccio (III.4)</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        
+        <person xml:id="quinzi"><persName>Quinzii</persName><sex/><age/><occupation/><birth>Roma</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="agnologabriello"><persName>Agnolo Gabriello (IV.2)</persName><sex/><age/><occupation>angel</occupation><birth/><faith>christian</faith><socecStatus/></person>
+        <person xml:id="restagnone"><persName>Restagnone (IV.3)</persName><sex>m</sex><age>youth-adult</age><occupation>unspecified</occupation><birth>Marsiglia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="restituta"><persName>Restituta (V.6)</persName><sex>f</sex><age>youth</age><occupation/><birth>Ischia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ribi"><persName>Ribi (VIII.5)</persName><sex>m</sex><age/><occupation>jester</occupation><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="riccardochinzica"><persName>messer
+            Riccardo di Chinzica (II.10)</persName><sex>m</sex><age>elder</age><occupation>legalauthority</occupation><birth>Pisa</birth><faith/><socecStatus/></person>
+        <person xml:id="ricciardomanardi"><persName>Ricciardo de'
+            Manardi da Brettinoro (V.4)</persName><sex>m</sex><age>youth</age><occupation/><birth>Bertinoro</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ricciardominutolo"><persName>Ricciardo Minutolo (III.6)</persName><sex>m</sex><age>youth</age><occupation/><birth>Napoli</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="rinaldoasti"><persName>Rinaldo d'Asti (II.2)</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Ferrara</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="fraterinaldo"><persName>frate
+            Rinaldo / Rinaldo (VII.3)</persName><sex>m</sex><age>adult</age><occupation>preacher</occupation><birth>Siena</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="rinaldodepugliesi"><persName>Rinaldo de' Pugliesi (VI.7)</persName><sex>m</sex><age>adult</age><occupation/><birth>Prato</birth><faith/><socecStatus/></person>
+        <person xml:id="rinieri"><persName>Rinieri (VII.7)</persName><sex>m</sex><age>adult</age><occupation>scholar</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="rinuccio"><persName>Rinuccio Palermini (IX.1)</persName><sex>m</sex><age>adult</age><occupation>unspecified</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="robertoangio"><persName>Roberto d'Angiò
+            (VI.3)</persName><sex>m</sex><age/><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="ruberto"><persName>Ruberto (VII.8)</persName><sex>m</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="ruggieri-0404"><persName>Ruggieri (IV.4)</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="ruggieriaieroli"><persName>Ruggieri d'Aieroli
+            (IV.10)</persName><sex>m</sex><age>youth</age><occupation>outlaw</occupation><birth>Salerno</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ruggierifigiovanni"><persName>Ruggieri de' Figiovanni
+            (X.1)</persName><sex>m</sex><age/><occupation>knight</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="ruggieriloria"><persName>Ruggieri de Loria (V.6)</persName><sex>m</sex><age/><occupation>admiral</occupation><birth>Lauria</birth><faith/><socecStatus>military</socecStatus></person>
+        <person xml:id="rustico"><persName>Rustico (III.10)</persName><sex>m</sex><age>youth</age><occupation>hermit</occupation><birth/><faith>christian</faith><socecStatus/></person>
+        
+        <person xml:id="saladino"><persName>Saladino /
+            Saladin (I.3 X.9) (Yusuf ibn-Ayyub)</persName><sex>m</sex><age>adult</age><occupation>sultan</occupation><birth>AlessandriaEg</birth><faith>muslim</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="salomone"><persName>Salamone (IX.9)</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>Israel</birth><faith/><socecStatus/></person>
+        <person xml:id="salvestra"><persName>Salvestra (IV.8)</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="sandroagolanti"><persName>Sandro
+            Agolanti</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Treviso</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="loscacciato"><persName>lo Scacciato (II.6)</persName><sex>m</sex><age>child-youth</age><occupation/><birth>Lipari</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="scannadio"><persName>Scannadio
+            (IX.1)</persName><sex>m</sex><age/><occupation>outlaw</occupation><birth>Pistoia</birth><faith/><socecStatus/></person>
+        <person xml:id="scolaio"><persName>Scolaio
+            </persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="sicofante"><persName>Sicofante (VI.in)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="simona"><persName>Simona (IV.7)</persName><sex>f</sex><age>youth</age><occupation>artisan</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="simone"><persName>Simone da Villa / maestro Simone (VIII.9, IX.3)</persName><sex>m</sex><age>adult</age><occupation>doctor</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="sismonda"><persName>monna Sismonda Berlinghieri
+            (VII.8)</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="sofronia"><persName>Sofronia (X.8)</persName><sex>f</sex><age>youth</age><occupation/><birth>Atene</birth><faith>pagan</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="spina"><persName>Spina (II.6)</persName><sex>f</sex><age>youth</age><occupation>widow</occupation><birth/><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="spinelloccio"><persName>Spinelloccio Tavena (VIII.8)</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Siena</birth><faith/><socecStatus>plebeian</socecStatus></person>
+        <person xml:id="squacchera"><persName>Squacchera (VIII.9)</persName><sex/><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="stecchi"><persName>Stecchi
+            (II.1)</persName><sex>m</sex><age/><occupation>jester</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="stramba"><persName>Stramba (Puccino) (IV.7)</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        
+        <person xml:id="talano"><persName>Talano d'Imolese
+            (IX.7)</persName><sex>m</sex><age>adult</age><occupation>unspecified</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="tamagnin"><persName>Tamagnin della Porta (VIII.9)</persName><sex/><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="tancredi"><persName>Tancredi (IV.1)</persName><sex>m</sex><age>elder</age><occupation>prince</occupation><birth>Salerno</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="tebaldo"><persName>messer Tebaldo Agolanti (II.3)</persName><sex>m</sex><age/><occupation>knight</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="tedaldo"><persName>Tedaldo Agolanti (II.3)</persName><sex>m</sex><age/><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="tedaldoelisei"><persName>Tedaldo degli Elisei
+            (III.7)</persName><sex>m</sex><age>youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="teodoro"><persName>Teodoro / Pietro (V.7)</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Armenia</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="tessa"><persName>monna Tessa (VIII.3, IX.3)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="monnatessa"><persName>monna Tessa dalla Cuculia (VII.1)</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>SanFrediano</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="teodolinda"><persName>Teudelinga (III.2)</persName><sex>f</sex><age/><occupation>queen</occupation><birth>longobarda</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="tingocciomini"><persName>Tingoccio Mini (VII.10)</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Siena</birth><faith>christian</faith><socecStatus>unknown</socecStatus></person>
+        <person xml:id="tito"><persName>Tito Quinzio Fulvo (X.8)</persName><sex>m</sex><age/><occupation>lord</occupation><birth>Roma</birth><faith>pagan</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="tofano"><persName>Tofano (VII.4)</persName><sex>m</sex><age>adult</age><occupation/><birth>Arezzo</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="torello"><persName>Torello di Stra
+            da Pavia (X.9)</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth>Pavia</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="torellodignes"><persName>Torello di Dignes (X.9)</persName><sex>m</sex><age/><occupation>knight</occupation><birth>Dignes</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="traversari"><persName>Traversari (V.8)</persName><sex/><age/><occupation/><birth>Ravenna</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="troilo"><persName>Troilo (VI.in)</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        
+        
+        <person xml:id="ughetto"><persName>Ughetto (IV.3)</persName><sex>m</sex><age>youth-adult</age><occupation>unspecified</occupation><birth>Marsiglia</birth><faith/><socecStatus/></person>
+        <person xml:id="usimbalda"><persName>madonna Usimbalda (IX.2)</persName><sex>f</sex><age>adult</age><occupation>nun</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        
+        <person xml:id="avicenna"><persName>Vannaccena / Avicena (VIII.9)</persName><sex>m</sex><age/><occupation>doctor</occupation><birth>ancientGreece</birth><faith>pagan</faith><socecStatus/></person>
+        <person xml:id="vegliomontagna"><persName>Veglio della Montagna (III.8)</persName><sex>m</sex><age/><occupation>religiousauthority</occupation><birth/><faith>another</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="venere"><persName>Venere (II.7)</persName><sex>f</sex><age/><occupation/><birth/><faith>pagan</faith><socecStatus/></person>
+        <person xml:id="verdiana"><persName>Verdiana (V.10)</persName><sex>f</sex><age/><occupation/><birth>Castelfiorentino</birth><faith/><socecStatus/></person>
+        
+        <person xml:id="vieridecerchi"><persName>Vieri de' Cerchi (IX.8)</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="violante-abate"><persName>Violante (V.7)</persName><sex>f</sex><age>youth</age><occupation>unspecified</occupation><birth>Trapani</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="zima"><persName>Ricciardo / il Zima (III.5)</persName><sex>m</sex><age/><occupation/><birth>Pistoia</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="zeppa"><persName>Zeppa di Mino (VIII.8)</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Siena</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ginevra"><persName>madonna
+            Zinevra Lomellini / Sicurano (II.9)</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Genova</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="zitacarapresa"><persName>Zita Carapresa di Giudice Leo (IX.10)</persName><sex>f</sex><age/><occupation>unspecified</occupation><birth>Tresanti</birth><faith/><socecStatus>unknown</socecStatus></person>
+        
+        
+        
+        
+        <person xml:id="abate-0104"><persName>abate (I.4)</persName><sex>m</sex><age>adult</age><occupation>abbot</occupation><birth>Lunigiana</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="donna-0203"><persName>donna / abate (II.3)</persName><sex>f</sex><age/><occupation>princess</occupation><birth>England</birth><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="abate-0308"><persName>abate
+            (III.8)</persName><sex>m</sex><age>adult</age><occupation>abbot</occupation><birth>Tuscany</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="abatesp-1009"><persName>abate della chiesa
+            di San Piero (X.9)</persName><sex>m</sex><age>adult</age><occupation>abbot</occupation><birth>Pavia</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="albegatrice-0309"><persName>albegatrice (III.9)</persName><sex>f</sex><age>adult</age><occupation>innkeeper</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="amante-0807"><persName>amante(VIII.7)</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Firenze</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="ambasciatore-1009"><persName>ambasciadore (X.9)</persName><sex>m</sex><age>adult</age><occupation>legalauthority</occupation><birth>Genova</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="badessa-0301"><persName>badessa (III.1)</persName><sex>f</sex><age>adult</age><occupation>churchauthority</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="barattiere-0908"><persName>barattiere (IX.8)</persName><sex>m</sex><age/><occupation>legalauthority</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="brigata-0606"><persName>brigata (VI.6)</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="brigata-0609"><persName>brigata (VI.9)</persName><sex>m</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="calzolaio-0307"><persName>calzolaio
+            (III.7)</persName><sex>m</sex><age/><occupation>artisan</occupation><birth>Firenze</birth><faith/><socecStatus/></person>
+        <person xml:id="cameriera-1005"><persName>cameriera (X.5)</persName><sex>f</sex><age/><occupation>servant</occupation><birth>Udine</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="castaldo-0301"><persName>castaldo
+            (III.1)</persName><sex>m</sex><age>elder</age><occupation>steward</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="cavaliere-0203"><persName>l'uno de' cavalieri (II.3)</persName><sex>m</sex><age>elder</age><occupation>knight</occupation><birth>England</birth><faith/><socecStatus>military</socecStatus></person>
+        <person xml:id="cavaliere-0601"><persName>cavaliere (VI.1)</persName><sex>m</sex><age>adult</age><occupation>knight</occupation><birth>Firenze</birth><faith/><socecStatus>military</socecStatus></person>
+        <person xml:id="chierico-0802"><persName>chierico(VIII.2)</persName><sex>m</sex><age>youth</age><occupation>churchauthority</occupation><birth>Varlungo</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="cognati-0402"><persName>cognati (IV.2)</persName><sex>m</sex><age>adult</age><occupation/><birth>Venezia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="comare-0402"><persName>comare (IV.2)</persName><sex>f</sex><age>adult</age><occupation/><birth>Venezia</birth><faith/><socecStatus/></person>
+        <person xml:id="compagni-1003"><persName>compagni (X.3)</persName><sex/><age/><occupation>unspecified</occupation><birth>unknown</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="compagni-1006"><persName>compagni
+            (X.6)</persName><sex/><age/><occupation/><birth/><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="compagni-1009"><persName>compagni (X.9)</persName><sex>m</sex><age/><occupation>unspecified</occupation><birth>AlessandriaEg</birth><faith>muslim</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="compagno-0703"><persName>compagno (VII.3)</persName><sex>m</sex><age/><occupation/><birth>Siena</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="contipanago"><persName>conti da
+            Panago (X.10)</persName><sex/><age/><occupation>count</occupation><birth>Bologna</birth><faith/><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="dama-0208"><persName>gran dama Lamiens / la donna (II.8)</persName><sex>f</sex><age>adult</age><occupation/><birth>Londra</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="donna-0109"><persName>gentil donna di Guascogna (I.9)</persName><sex>f</sex><age/><occupation/><birth>Guascogna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="donna-0204"><persName>donna (II.4)</persName><sex>f</sex><age>adult</age><occupation>unspecified</occupation><birth>Corfu</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="mogliecmalaspina-0206"><persName>una/la donna (II.6)</persName><sex>f</sex><age>youth</age><occupation/><birth>Villafranca</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="donna-0303"><persName>donna (III.3)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="donna-0305"><persName>donna (III.5)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Pistoia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="donna-0308"><persName>,donna (III.8)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Tuscany</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="donna-0309"><persName>gentil donna (III.9)</persName><sex>f</sex><age>adult</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="moglierossiglione-0409"><persName>la donna (IV.9)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth/><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="donna-0503"><persName>donna (V.3)</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Roma</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="donna-0705"><persName>donna (VII.5)</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Rimini</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="mogliezeppa-0808"><persName>donna / moglie di Zeppa (VIII.8)</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Siena</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="mogliespinelloccio-0808"><persName>donna / moglie
+            di Spinelloccio (VIII.8)</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Siena</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="donna-0809"><persName>donna
+            (VIII.9)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="donna-0906"><persName>donna (IX.6)</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="donna-0909"><persName>donna (IX.9)</persName><sex>f</sex><age/><occupation>housewife</occupation><birth>Antiochia</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="donne-0301"><persName>donne (III.1)</persName><sex>f</sex><age>youth</age><occupation>nun</occupation><birth>Tuscany</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="donne-0310"><persName>donne (III.10)</persName><sex>f</sex><age/><occupation/><birth>Capsa</birth><faith/><socecStatus/></person>
+        <person xml:id="ducaatene"><persName>duca
+            d'Atene</persName><sex>m</sex><age>youth</age><occupation>duke</occupation><birth>Atene</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="ducacreti"><persName>duca di Creti (IV.3)</persName><sex/><age>adult</age><occupation>cityauthority</occupation><birth>Creti</birth><faith/><socecStatus/></person>
+        <person xml:id="famiglia-0901"><persName>famiglia della signoria (IX.1)</persName><sex/><age/><occupation>cityauthority</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="famigliare-0209"><persName>famigliare (II.9)</persName><sex>m</sex><age/><occupation>servant</occupation><birth>Pistoia</birth><faith/><socecStatus/></person>
+        <person xml:id="famigliare-0401"><persName>famigliare
+            (IV.1)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="famigliare-0602"><persName>famigliare
+            (VI.2)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="famigliare-1001"><persName>famigliare di re Alfonso / lo scudiere (X.1)</persName><sex>m</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="famigliare-1010"><persName>famigliare di Gualtieri da Sanluzzo
+            (X.10)</persName><sex>m</sex><age/><occupation>servant</occupation><birth>Sanluzzo</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="famigliari-1004"><persName>famigliari (X.4)</persName><sex/><age/><occupation>servant</occupation><birth>Bologna</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="famigliari-1005"><persName>famigliari (X.5)</persName><sex/><age/><occupation>servant</occupation><birth>Friuli</birth><faith/><socecStatus/></person>
+        <person xml:id="famigliari-1006"><persName>famigliari (X.6)</persName><sex/><age/><occupation>servant</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="famigliari-1009"><persName>famigliari (X.9)</persName><sex>m</sex><age/><occupation>servant</occupation><birth>AlessandriaEg</birth><faith>muslim</faith><socecStatus/></person>
+        <person xml:id="fanciulli-0709"><persName>fanciulli (VII.9)</persName><sex>m</sex><age>child</age><occupation/><birth>Argo</birth><faith/><socecStatus/></person>
+        <person xml:id="fanciulli-0804"><persName>fanciulli (VIII.4)</persName><sex/><age>child</age><occupation/><birth>Fiesole</birth><faith/><socecStatus/></person>
+        <person xml:id="fanciullo-0205"><persName>fanciullo (II.5)</persName><sex>m</sex><age/><occupation>servant</occupation><birth>Napoli</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fante-0202"><persName>fante (II.2)</persName><sex>f</sex><age/><occupation>servant</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fante-0205"><persName>fante (II.5)</persName><sex>f</sex><age>youth</age><occupation>servant</occupation><birth>Napoli</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fante-0410"><persName>fante (IV.10)</persName><sex>f</sex><age>youth</age><occupation>servant</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fante-0406"><persName>fante (IV.6)</persName><sex>f</sex><age/><occupation>servant</occupation><birth>Brescia</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fante-0505"><persName>fante (V.5)</persName><sex>f</sex><age/><occupation>intermediary</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fante-0703"><persName>fante / fanticella (VII.3)</persName><sex>f</sex><age/><occupation>servant</occupation><birth>Siena</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fante-0706"><persName>fante (VII.6)</persName><sex>f</sex><age/><occupation>servant</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fante-0708"><persName>fante (VII.8)</persName><sex>f</sex><age/><occupation>servant</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fantedonna-0807"><persName>fante (VIII.7)</persName><sex>f</sex><age/><occupation>servant</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fanteuomo-0807"><persName>fante (VIII.7)</persName><sex>m</sex><age/><occupation>servant</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="fanti-0307"><persName>fanti (III.7)</persName><sex>m</sex><age/><occupation>soldier</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="fanti1-0503"><persName>da dodici fanti
+            (V.3)</persName><sex>m</sex><age/><occupation>soldier</occupation><birth/><faith/><socecStatus>military</socecStatus></person>
+        <person xml:id="fanti2-0503"><persName>venticinque fanti
+            (V.3)</persName><sex>m</sex><age/><occupation>soldier</occupation><birth/><faith/><socecStatus>military</socecStatus></person>
+        <person xml:id="buonafemina-0306"><persName>buona femina (III.6)</persName><sex>f</sex><age/><occupation>bath-matron</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="femina-1005"><persName>una
+            femina / buona femina (X.5)</persName><sex>f</sex><age/><occupation/><birth>Friuli</birth><faith/><socecStatus/></person>
+        <person xml:id="femine-0410"><persName>femine (IV.10)</persName><sex>f</sex><age>youth</age><occupation>unspecified</occupation><birth/><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="donna-1003"><persName>feminella / vecchierella (X.3)</persName><sex>f</sex><age>elder</age><occupation>unspecified</occupation><birth>unknown</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="figliatraversari-0508"><persName>figlia di Paolo Traversari (V.8)</persName><sex>f</sex><age>youth</age><occupation/><birth>Ravenna</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="figlio-1004"><persName>figlioletto / Gentile
+            (X.4)</persName><sex>m</sex><age>child</age><occupation/><birth>Bologna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        
+        <person xml:id="figliuola-1010"><persName>figliuola
+            (X.10)</persName><sex>f</sex><age>child</age><occupation/><birth>Sanluzzo</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="figliuolo-1010"><persName>figliuolo (X.10)</persName><sex>m</sex><age>child</age><occupation/><birth>Sanluzzo</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="fiorentino-0201"><persName>fiorentino
+            (II.1)</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="folla-0402"><persName>folla (IV.2)</persName><sex/><age/><occupation/><birth>Venezia</birth><faith/><socecStatus/></person>
+        <person xml:id="frate-0101"><persName>frate (I.1)</persName><sex/><age>adult</age><occupation>preacher</occupation><birth>Borgogna</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="frate-0303"><persName>frate (III.3)</persName><sex/><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>religious</socecStatus></person>
+        <person xml:id="fratelli-0101"><persName>fratelli (I.1)</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="fratelli-0405"><persName>fratelli (IV.5)</persName><sex>m</sex><age>adult</age><occupation>merchant</occupation><birth>SanGimignano</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="fratelligiovanna-0509"><persName>fratelli (V.9)</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="fratello1-0708"><persName>fratello 1 (VII.8)</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="fratello2-0708"><persName>fratello 2 (VII.8)</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="fratello3-0708"><persName>fratello 3 (VII.8)</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="fratelli-0804"><persName>fratelli (VIII.4)</persName><sex>m</sex><age>youth</age><occupation/><birth>Fiesole</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="geloso-0705"><persName>il geloso
+            (VII.5)</persName><sex>m</sex><age/><occupation>merchant</occupation><birth>Rimini</birth><faith>christian</faith><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="genovesi-0204"><persName>genovesi (II.4)</persName><sex/><age>adult</age><occupation>merchant</occupation><birth>Genova</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="figliobalducci-04intro"><persName>giovane (IV.in)</persName><sex>m</sex><age/><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="giovane-0704"><persName>giovane
+            (VII.4)</persName><sex>m</sex><age>youth</age><occupation>unspecified</occupation><birth>Arezzo</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="figliogiovanna-0509"><persName>giovanetto / figliolo
+            (V.9)</persName><sex>m</sex><age>child-youth</age><occupation/><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="giovinetta-0104"><persName>giovinetta (I.4)</persName><sex>f</sex><age>youth</age><occupation>maiden</occupation><birth>Lunigiana</birth><faith/><socecStatus/></person>
+        <person xml:id="giudice-0201"><persName>giudice
+            (II.1)</persName><sex>m</sex><age>adult</age><occupation>legalauthority</occupation><birth>Treviso</birth><faith/><socecStatus/></person>
+        <person xml:id="giudice-0407"><persName>giudice (IV.7)</persName><sex>m</sex><age>adult</age><occupation>legalauthority</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="imperatorecostantinopoli"><persName>imperadore di Costantinopoli (II.7)</persName><sex>m</sex><age>adult</age><occupation>emperor</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="inquisitore-0106"><persName>inquisitore (I.6)</persName><sex>m</sex><age>adult</age><occupation>churchauthority</occupation><birth>Firenze</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="ladro-0202"><persName>ladro (II.2)</persName><sex>m</sex><age/><occupation>outlaw</occupation><birth/><faith>christian</faith><socecStatus/></person>
+        <person xml:id="ladri-0205"><persName>ladri (II.5)</persName><sex>m</sex><age/><occupation>outlaw</occupation><birth>Napoli</birth><faith/><socecStatus/></person>
+        <person xml:id="lavoratore-0807"><persName>lavoratore (VIII.7)</persName><sex>m</sex><age/><occupation>peasant</occupation><birth>Firenze</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="legnaiuolo-0410"><persName>legnaiuolo
+            (IV.10)</persName><sex>m</sex><age/><occupation>artisan</occupation><birth/><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="madre-1004"><persName>madre di Gentile (X.4)</persName><sex>f</sex><age>elder</age><occupation/><birth>Bologna</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="madre-0408"><persName>madre di Girolamo (IV.8)</persName><sex>f</sex><age>adult</age><occupation>widow</occupation><birth>Firenze</birth><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="madre-0708"><persName>madre di Sismonda (VII.8)</persName><sex>f</sex><age>elder</age><occupation/><birth>Firenze</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="madre-1007"><persName>madre di Lisa (X.7)</persName><sex>f</sex><age>adult</age><occupation/><birth>Palermo</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="capobrigata-0503"><persName>maggior della brigata (V.3)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="marchesanamonferrato"><persName>marchesana di Monferrato</persName><sex>f</sex><age>adult</age><occupation>housewife</occupation><birth>Piedmont</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="marchesemonferrato"><persName>marchese di Monferrato</persName><sex>m</sex><age>adult</age><occupation/><birth>Piedmont</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="marito-0408"><persName>marito (IV.8)</persName><sex>m</sex><age>adult</age><occupation>artisan</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="marito-0702"><persName>marito (VII.2)</persName><sex>m</sex><age/><occupation>peasant</occupation><birth>Napoli</birth><faith>christian</faith><socecStatus>poor</socecStatus></person>
+        <person xml:id="marito-0703"><persName>marito (VII.3)</persName><sex>m</sex><age>adult</age><occupation>unspecified</occupation><birth>Siena</birth><faith>christian</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="marito-0706"><persName>marito (VII.6)</persName><sex>m</sex><age/><occupation>knight</occupation><birth>Firenze</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="masnadieri-1002"><persName>masnadieri (X.2)</persName><sex>m</sex><age/><occupation>outlaw</occupation><birth>Siena</birth><faith/><socecStatus/></person>
+        <person xml:id="medico-0208"><persName>medico assai
+            giovane (II.8)</persName><sex>m</sex><age>youth</age><occupation>doctor</occupation><birth>Londra</birth><faith/><socecStatus/></person>
+        <person xml:id="moglie-0410"><persName>moglie
+            (IV.10)</persName><sex>f</sex><age>youth</age><occupation>housewife</occupation><birth>Salerno</birth><faith/><socecStatus>unknown</socecStatus></person>
+        <person xml:id="moglie-0510"><persName>moglie di Pietro di Vinciolo (V.10)</persName><sex>f</sex><age>youth</age><occupation/><birth>Perugia</birth><faith/><socecStatus/></person>
+        <person xml:id="moglieercolano-0510"><persName>moglie / donna (di Ercolano V.10)</persName><sex>f</sex><age/><occupation/><birth>Perugia</birth><faith/><socecStatus/></person>
+        <person xml:id="monache-0301"><persName>monache
+            (III.1)</persName><sex>f</sex><age>youth</age><occupation>nun</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="monache-0902"><persName>monache
+            (IX.2)</persName><sex>f</sex><age/><occupation>nun</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="monaci-1009"><persName>monaci della chiesa di San Piero (X.9)</persName><sex>m</sex><age/><occupation>monk</occupation><birth>Pavia</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="monaco-0104"><persName>monaco
+            (I.4)</persName><sex>m</sex><age>youth</age><occupation>monk</occupation><birth>Lunigiana</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="monaco-0308"><persName>monaco bolognese (III.8)</persName><sex>m</sex><age/><occupation>monk</occupation><birth>Bologna</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="mulattiere-0909"><persName>mulattiere (IX.9)</persName><sex>m</sex><age/><occupation>peasant</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="negromante-1005"><persName>nigromante (X.5)</persName><sex>m</sex><age/><occupation>magician</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="negromante-1009"><persName>nigromante (X.9)</persName><sex>m</sex><age/><occupation>magician</occupation><birth>AlessandriaEg</birth><faith>muslim</faith><socecStatus/></person>
+        <person xml:id="nuora-0208"><persName>nuora / reina di Francia (II.8)</persName><sex>f</sex><age>youth</age><occupation>princess</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="oste-0203"><persName>oste (II.3)</persName><sex>m</sex><age/><occupation>innkeeper</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="oste-0707"><persName>oste (VII.7)</persName><sex>m</sex><age/><occupation>innkeeper</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="oste-0906"><persName>oste (IX.9)</persName><sex>m</sex><age>adult</age><occupation>innkeeper</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="padregiachetto-0208"><persName>padre di Giachetto Lamiens
+            (II.8)</persName><sex>m</sex><age>adult</age><occupation/><birth>Londra</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="papa-1010"><persName>Papa (X.10)</persName><sex>m</sex><age/><occupation>pope</occupation><birth/><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="parenti-0704"><persName>parenti di Ghita
+            (VII.4)</persName><sex/><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="parentisofronia-1008"><persName>parenti di Sofronia (X.8)</persName><sex/><age>adult</age><occupation/><birth>Atene</birth><faith>pagan</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="parentigisippo-1008"><persName>parenti di Gisippo (X.8)</persName><sex/><age>adult</age><occupation/><birth>Atene</birth><faith>pagan</faith><socecStatus>noble</socecStatus></person>
+        <person xml:id="podesta-0406"><persName>podestà
+            (IV.6)</persName><sex>m</sex><age>adult</age><occupation>cityauthority</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="podesta-0607"><persName>podestà
+            (VI.7)</persName><sex>m</sex><age/><occupation>cityauthority</occupation><birth>Prato</birth><faith/><socecStatus/></person>
+        <person xml:id="principemorea"><persName>prenze della
+            Morea</persName><sex>m</sex><age>adult</age><occupation>prince</occupation><birth>Morea</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="nuovoprincipemorea"><persName>prenze della Morea (II)</persName><sex>m</sex><age>adult</age><occupation>prince</occupation><birth>Morea</birth><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="prestatori-0410"><persName>prestatori (IV.10)</persName><sex>m</sex><age>youth</age><occupation>pander</occupation><birth/><faith/><socecStatus>mercantile</socecStatus></person>
+        <person xml:id="prete-0205"><persName>prete (II.5)</persName><sex>m</sex><age>adult</age><occupation>preacher</occupation><birth>Napoli</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="prete-0802"><persName>prete (VIII.2)</persName><sex>m</sex><age>adult</age><occupation>churchauthority</occupation><birth>Varlungo</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="prigioniere-0206"><persName>prigioniere (II.6)</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="principessatunisi-0404"><persName>principessa
+            di Tunisi (IV.4)</persName><sex>f</sex><age>youth</age><occupation>princess</occupation><birth>Tunisi</birth><faith>muslim</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="proposto-0804"><persName>proposto (VIII.4)</persName><sex>m</sex><age>elder</age><occupation>churchauthority</occupation><birth>Fiesole</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="recipri-0109"><persName>re di Cipri (I.9)</persName><sex>m</sex><age/><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="recipro-0207"><persName>re di Cipro (II.7)</persName><sex>m</sex><age/><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="refrancia-0309"><persName>re di Francia (III.9)</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="refrancia-1009"><persName>re di Francia
+            (X.9)</persName><sex>m</sex><age/><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="refrancia-1010"><persName>re di Francia
+            (X.10)</persName><sex>m</sex><age/><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="regarbo"><persName>re del Garbo (II.7)</persName><sex/><age/><occupation>king</occupation><birth/><faith/><socecStatus>royalty</socecStatus></person>
+        <person xml:id="regranada-0404"><persName>re di Granata (IV.4)</persName><sex/><age>adult</age><occupation>king</occupation><birth>Granada</birth><faith>pagan</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="retunisi-0404"><persName>re di
+            Tunisi (IV.4)</persName><sex>m</sex><age>adult</age><occupation>king</occupation><birth>Tunisi</birth><faith>muslim</faith><socecStatus>royalty</socecStatus></person>
+        <person xml:id="reina-1007"><persName>reina Costanza (X.7)</persName><sex>f</sex><age>adult</age><occupation>queen</occupation><birth/><faith>christian</faith><socecStatus>royalty</socecStatus></person>
+        
+        <person xml:id="sagrestano-1009"><persName>sagrestano della chiesa di San Piero (X.9)</persName><sex>m</sex><age/><occupation>monk</occupation><birth>Pavia</birth><faith>christian</faith><socecStatus>religious</socecStatus></person>
+        <person xml:id="saraceni-0404"><persName>Saracini
+            (IV.4)</persName><sex/><age/><occupation/><birth>Tunisi</birth><faith>pagan</faith><socecStatus>military</socecStatus></person>
+        <person xml:id="savio-0909"><persName>savio (IX.9)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="servidore-1004"><persName>servidore
+            (X.4)</persName><sex/><age/><occupation>servant</occupation><birth/><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="servigiale-0205"><persName>servigiale (II.5)</persName><sex>f</sex><age/><occupation>servant</occupation><birth>Napoli</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="padronearca-0410"><persName>signor dell'arca (IV.10)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="sposo-1009"><persName>sposo di Adalieta
+            (X.9)</persName><sex>m</sex><age/><occupation/><birth>Pavia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="trivigiani-0201"><persName>trivigiani
+            (II.1)</persName><sex/><age/><occupation/><birth>Treviso</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="tutori-0408"><persName>tutori di
+            Girolamo (IV.8)</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="uomini-0709"><persName>uomini (VII.9)</persName><sex>m</sex><age>adult</age><occupation/><birth>Argo</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="uomini-1004"><persName>uomini (X.4)</persName><sex>m</sex><age>adult</age><occupation/><birth>Bologna</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="uomini-1009"><persName>gentili uomini di Pavia
+            (X.9)</persName><sex>m</sex><age/><occupation/><birth>Pavia</birth><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="uomini-1010"><persName>uomini di Gualtieri Sanluzzo (X.10)</persName><sex>m</sex><age/><occupation>yeoman</occupation><birth>Sanluzzo</birth><faith/><socecStatus>plebeian</socecStatus></person>
+        <person xml:id="uomo-0106"><persName>uomo (I.6)</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="valente-uomo-0303"><persName>valente uomo
+            (III.3)</persName><sex>m</sex><age>adult</age><occupation/><birth/><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="uomo-0307"><persName>uomo (III.7)</persName><sex/><age>adult</age><occupation>murderer</occupation><birth/><faith/><socecStatus/></person>
+        <person xml:id="uomo-0310"><persName>valente uomo
+            (III.10)</persName><sex>m</sex><age>adult</age><occupation>hermit</occupation><birth/><faith>christian</faith><socecStatus/></person>
+        <person xml:id="buono-uomo-0402"><persName>buono uomo (IV.2)</persName><sex>m</sex><age>adult</age><occupation/><birth>Venezia</birth><faith/><socecStatus/></person>
+        <person xml:id="uomo-buono-0402"><persName>uomo buono (IV.2)</persName><sex>m</sex><age>adult</age><occupation/><birth>Venezia</birth><faith/><socecStatus/></person>
+        <person xml:id="uomo-0702"><persName>uomo (VII.2)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="uomo-0710"><persName>uomo
+            (VII.10)</persName><sex>m</sex><age/><occupation/><birth/><faith>christian</faith><socecStatus/></person>
+        <person xml:id="uomo-0909"><persName>uomo (IX.9)</persName><sex>m</sex><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="grecamaestra"><persName>vecchia
+            greca</persName><sex>f</sex><age>adult</age><occupation>outlaw</occupation><birth>Greece</birth><faith/><socecStatus/></person>
+        <person xml:id="vecchia-0205"><persName>vecchia (II.5)</persName><sex>f</sex><age>elder</age><occupation>servant</occupation><birth>Sicilia</birth><faith/><socecStatus>poor</socecStatus></person>
+        <person xml:id="vecchia-0503"><persName>vecchia
+            / buona femina (V.3)</persName><sex>f</sex><age>elder</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="vecchia-0510"><persName>vecchia
+            (V.10)</persName><sex>f</sex><age>elder</age><occupation/><birth>Perugia</birth><faith>christian</faith><socecStatus/></person>
+        <person xml:id="vecchio-0503"><persName>buon
+            uomo attempato molto / vecchio (V.3)</persName><sex>m</sex><age>elder</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="vedova-0202"><persName>vedova (II.2)</persName><sex>f</sex><age>adult</age><occupation>widow</occupation><birth/><faith/><socecStatus>noble</socecStatus></person>
+        <person xml:id="vicini-0205"><persName>vicini (II.5)</persName><sex>f</sex><age/><occupation/><birth>Napoli</birth><faith/><socecStatus/></person>
+        <person xml:id="vicini-0405"><persName>vicini (IV.5)</persName><sex/><age/><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="vicina-0701"><persName>vicina (VII.1)</persName><sex>f</sex><age>elder</age><occupation/><birth/><faith/><socecStatus/></person>
+        <person xml:id="vicini-0704"><persName>vicini (VII.4)</persName><sex/><age/><occupation/><birth/><faith/><socecStatus/></person><listRelation> 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <relation type="friend" mutual="#abraam #giannottocivigni "/>
+        <relation type="wife" mutual="#adalieta #torello "/>
+        <relation type="friend" mutual="#adriano #pinuccio "/><relation type="lover" mutual="#adriano #donna-0906 "/>
+        <relation type="wife" mutual="#agnesa #marito-0703 "/><relation type="lover" mutual="#agnesa #fraterinaldo "/>
+        
+        <relation type="daughter" mutual="#agnesabernabuccio #bernabuccio "/><relation type="sister" mutual="#agnesabernabuccio #giannole "/><relation type="wife" mutual="#agnesabernabuccio #minghino "/><relation type="ward" mutual="#agnesabernabuccio #guidotto #giacomino "/>
+        <relation type="husband" mutual="#agilulfo #teodolinda "/>
+        <relation type="daughter" mutual="#agnolella #gigliozzo "/><relation type="wife" mutual="#agnolella #pietroboccamazza "/>
+        <relation type="son" mutual="#agolante #tebaldo "/><relation type="relative" mutual="#agolante #agolanti "/><relation type="brother" mutual="#agolante #lamberto #tedaldo "/>
+        <relation type="family" mutual="#agolanti #agolante #sandroagolanti #alessandro #lamberto #tebaldo #tedaldo "/>
+        
+        
+        <relation type="daughter" mutual="#alatiel #beminedab "/><relation type="lover" mutual="#alatiel #pericone #principemorea #ducaatene #costanzio #antioco #marato "/><relation type="wife" mutual="#alatiel #ozbek #regarbo "/>
+        
+        <relation type="husband" mutual="#aldobrandino #ermellina "/><relation type="murderer" mutual="#aldobrandino #faziuolo "/>
+        <relation type="nephew" mutual="#alessandro #agolante #lamberto #tedaldo "/><relation type="relative" mutual="#alessandro #agolanti "/><relation type="husband" mutual="#alessandro #donna-0203 "/>
+        
+        
+        <relation type="cousin" mutual="#alessorinucci #nonnapulci "/>
+        <relation type="lover" mutual="#alibech #rustico "/><relation type="wife" mutual="#alibech #neerbale "/>
+        
+        <relation type="wife" mutual="#ambruogia #guasparruolo "/><relation type="lover" mutual="#ambruogia #gulfardo "/>
+        
+        <relation type="husband" mutual="#ambruogioanselmini #mitaanselmini "/><relation type="friend" mutual="#ambruogioanselmini #tingocciomini "/>
+        <relation type="father" mutual="#amerigo #violante "/>
+        
+        
+        <relation type="daughter" mutual="#andreuola #negropontecarraro "/><relation type="lover" mutual="#andreuola #gabriotto "/>
+        
+        
+        <relation type="servant" mutual="#antigono #recipro-0207 #beminedab "/>
+        <relation type="servant" mutual="#antioco #ozbek "/><relation type="lover" mutual="#antioco #alatiel "/>
+        
+        
+        
+        <relation type="father" mutual="#aristippo #galeso "/>
+        
+        <relation type="husband" mutual="#arrighettocapece #beritolacaracciola "/><relation type="father" mutual="#arrighettocapece #giuffredi #loscacciato "/>
+        
+        <relation type="husband" mutual="#arriguccio #sismonda "/>
+        
+        <relation type="husband" mutual="#autari #teodolinda "/>
+        <relation type="lover" mutual="#marcheseazzo #vedova-0202 "/>
+        
+        
+        <relation type="wife" mutual="#bartolomea #riccardochinzica #paganinomonaco "/><relation type="daughter" mutual="#bartolomea #lottogualandi "/>
+        
+        <relation type="wife" mutual="#beatricegalluzzi #eganogalluzzi "/><relation type="lover" mutual="#beatricegalluzzi #lodovico "/>
+        <relation type="wife" mutual="#belcolore #bentivegnamazzo "/><relation type="lover" mutual="#belcolore #prete-0802 "/>
+        <relation type="ward" mutual="#beltramo #refrancia-0309 "/><relation type="husband" mutual="#beltramo #giletta "/><relation type="son" mutual="#beltramo #isnardo "/>
+        <relation type="son" mutual="#benedetto #donna-0308 #abate-0308 #ferondo "/>
+        <relation type="husband" mutual="#bentivegnamazzo #belcolore "/>
+        <relation type="father" mutual="#beminedab #alatiel "/>
+        <relation type="wife" mutual="#bergamina #guasparruolosaliceto "/>
+        
+        <relation type="wife" mutual="#beritolacaracciola #arrighettocapece "/><relation type="mother" mutual="#beritolacaracciola #giuffredi #loscacciato "/>
+        <relation type="husband" mutual="#bernabo #ginevra "/>
+        <relation type="father" mutual="#bernabuccio #giannole #agnesabernabuccio "/>
+        <relation type="father" mutual="#bernardo #lisa "/><relation type="husband" mutual="#bernardo #madre-1007 "/>
+        
+        
+        
+        
+        <relation type="lover" mutual="#biliuzza #prete-0802 "/>
+        
+        
+        
+        
+        <relation type="lover" mutual="#brunetta #chichibio "/>
+        
+        
+        <relation type="father" mutual="#buglietto #nuto "/>
+        
+        
+        <relation type="husband" mutual="#calandrino #tessa "/>
+        
+        
+        
+        <relation type="father" mutual="#recarloi #recarloii "/><relation type="grandfather" mutual="#recarloi #robertoangio "/><relation type="uncle" mutual="#recarloi #carlosenzaterra "/>
+        
+        <relation type="son" mutual="#recarloii #recarloi "/><relation type="father" mutual="#recarloii #robertoangio "/><relation type="cousin" mutual="#recarloii #carlosenzaterra "/>
+        
+        <relation type="nephew" mutual="#carlosenzaterra #recarloi "/><relation type="cousin" mutual="#carlosenzaterra #recarloii "/>
+        <relation type="wife" mutual="#cassandrea #lisimaco "/>
+        <relation type="wife" mutual="#catalina #niccoluccio "/><relation type="relative" mutual="#catalina #gentile "/><relation type="mother" mutual="#catalina #figlio-1004 "/>
+        <relation type="wife" mutual="#catella #filippello "/><relation type="lover" mutual="#catella #ricciardominutolo "/>
+        <relation type="daughter" mutual="#caterina #lizio #giacomina "/><relation type="wife" mutual="#caterina #ricciardomanardi "/>
+        <relation type="father" mutual="#cavalcantecavalcanti #guidocavalcanti "/>
+        
+        
+        
+        <relation type="niece" mutual="#cesca #fresco "/>
+        <relation type="lover" mutual="#chichibio #brunetta "/><relation type="servant" mutual="#chichibio #curradogianfigliazzi "/>
+        
+        
+        
+        
+        
+        
+        <relation type="father" mutual="#cipseo #efigenia "/>
+        
+        <relation type="servant" mutual="#ciuriaci #principemorea "/>
+        <relation type="servant" mutual="#ciutazza #piccarda "/><relation type="lover" mutual="#ciutazza #proposto-0804 "/>
+        <relation type="father" mutual="#narnaldcivada #bertellacivada #magdalenacivada #ninettacivada "/>
+        <relation type="daughter" mutual="#bertellacivada #narnaldcivada "/><relation type="sister" mutual="#bertellacivada #magdalenacivada #ninettacivada "/><relation type="lover" mutual="#bertellacivada #ughetto "/>
+        <relation type="daughter" mutual="#magdalenacivada #narnaldcivada "/><relation type="sister" mutual="#magdalenacivada #bertellacivada #ninettacivada "/><relation type="lover" mutual="#magdalenacivada #folco #ducacreti "/>
+        <relation type="daughter" mutual="#ninettacivada #narnaldcivada "/><relation type="sister" mutual="#ninettacivada #magdalenacivada #bertellacivada "/><relation type="lover" mutual="#ninettacivada #restagnone "/><relation type="murderer" mutual="#ninettacivada #restagnone "/>
+        
+        
+        
+        
+        
+        
+        
+        <relation type="son" mutual="#costanzio #imperatorecostantinopoli "/><relation type="lover" mutual="#costanzio #alatiel "/><relation type="uncle" mutual="#costanzio #manuello "/>
+        <relation type="friend" mutual="#cremete #publioqf "/><relation type="father" mutual="#cremete #gisippo "/><relation type="guardian" mutual="#cremete #tito "/><relation type="relative" mutual="#cremete #parentigisippo-1008 "/>
+        <relation type="lover" mutual="#criseida #troilo "/>
+        
+        <relation type="servant" mutual="#crivello #giacomino #agnesabernabuccio "/>
+        
+        
+        <relation type="husband" mutual="#corradomalaspina #mogliecmalaspina-0206 "/><relation type="father" mutual="#corradomalaspina #spina "/>
+        
+        
+        
+        <relation type="wife" mutual="#dianora #gilberto "/>
+        
+        
+        <relation type="daughter" mutual="#efigenia #cipseo "/><relation type="wife" mutual="#efigenia #galeso "/>
+        <relation type="husband" mutual="#eganogalluzzi #beatricegalluzzi "/>
+        <relation type="lover" mutual="#elena #amante-0807 "/>
+        <relation type="sister" mutual="#ellisabetta #fratelli-0405 "/><relation type="lover" mutual="#ellisabetta #lorenzo "/>
+        <relation type="husband" mutual="#ercolano #moglieercolano-0510 "/>
+        <relation type="wife" mutual="#ermellina #aldobrandino "/><relation type="lover" mutual="#ermellina #tedaldoelisei "/>
+        
+        
+        
+        
+        <relation type="lover" mutual="#faziuolo #ermellina "/>
+        <relation type="son" mutual="#federigoalberighi #filippoalberighi "/><relation type="husband" mutual="#federigoalberighi #giovanna "/>
+        <relation type="lover" mutual="#federigoneripegolotti #monnatessa "/>
+        <relation type="grandfather" mutual="#federicoi #federicoii "/>
+        
+        <relation type="grandson" mutual="#federicoii #federicoi "/><relation type="son" mutual="#federicoii #gostanza-0404 "/><relation type="father" mutual="#federicoii #remanfredi "/><relation type="cousin" mutual="#federicoii #reguglielmo "/><relation type="grandfather" mutual="#federicoii #reina-1007 "/>
+        
+        <relation type="grandson" mutual="#fediiar #remanfredi "/>
+        
+        <relation type="lover" mutual="#donfelice #monnaisabetta "/>
+        <relation type="husband" mutual="#ferondo #donna-0308 "/>
+        <relation type="family" mutual="#figiovanni #ruggierifigiovanni "/>
+        
+        
+        <relation type="wife" mutual="#madonnafilippa #rinaldodepugliesi "/><relation type="lover" mutual="#madonnafilippa #lazzarinodeguazzagliotri "/>
+        <relation type="husband" mutual="#filippello #catella "/>
+        <relation type="lover" mutual="#filippo #donna-0705 "/>
+        <relation type="father" mutual="#filippoalberighi #federigoalberighi "/>
+        
+        <relation type="father" mutual="#filippobalducci #figliobalducci-04intro "/>
+        <relation type="son" mutual="#filippocornacchini #niccolocornacchini "/><relation type="lover" mutual="#filippocornacchini #niccolosa "/>
+        
+        
+        
+        <relation type="father" mutual="#fineo #teodoro "/>
+        <relation type="lover" mutual="#folco #magdalenacivada "/><relation type="murderer" mutual="#folco #magdalenacivada "/>
+        
+        
+        <relation type="husband" mutual="#francesco #donna-0305 "/>
+        
+        <relation type="uncle" mutual="#fresco #cesca "/>
+        <relation type="sister" mutual="#fulvia #tito "/><relation type="wife" mutual="#fulvia #gisippo "/><relation type="daughter" mutual="#fulvia #publioqf "/>
+        
+        <relation type="lover" mutual="#gabriotto #andreuola "/>
+        
+        <relation type="son" mutual="#galeso #aristippo "/><relation type="murderer" mutual="#galeso #pasimunda #ormisda "/><relation type="husband" mutual="#galeso #efigenia "/>
+        
+        <relation type="wife" mutual="#gemmata #pietrodatresanti "/>
+        <relation type="relative" mutual="#gentile #catalina "/><relation type="son" mutual="#gentile #madre-1004 "/>
+        <relation type="father" mutual="#gerardo #giletta "/>
+        <relation type="son" mutual="#gerbino #ruggieri-0404 "/><relation type="nephew" mutual="#gerbino #gostanza-0404 "/><relation type="grandson" mutual="#gerbino #reguglielmo "/><relation type="family" mutual="#gerbino #guiscardo "/>
+        
+        
+        
+        <relation type="lover" mutual="#ghismonda #guiscardo "/><relation type="daughter" mutual="#ghismonda #tancredi "/>
+        <relation type="wife" mutual="#ghita #tofano "/><relation type="lover" mutual="#ghita #giovane-0704 "/>
+        <relation type="son" mutual="#giachetto #dama-0208 #padregiachetto-0208 "/><relation type="husband" mutual="#giachetto #violante "/>
+        <relation type="mother" mutual="#giacomina #caterina "/><relation type="wife" mutual="#giacomina #lizio "/>
+        <relation type="guardian" mutual="#giacomino #agnesabernabuccio "/>
+        <relation type="brother" mutual="#gianprocida #landolfoprocida "/><relation type="uncle" mutual="#gianprocida #gianniprocida "/>
+        
+        <relation type="lover" mutual="#giannello #peronella "/>
+        <relation type="son" mutual="#gianniprocida #landolfoprocida "/><relation type="nephew" mutual="#gianniprocida #gianprocida "/><relation type="husband" mutual="#gianniprocida #restituta "/>
+        <relation type="daughter" mutual="#violante #gualtierianversa "/><relation type="sister" mutual="#violante #luigi "/><relation type="wife" mutual="#violante #giachetto "/><relation type="ward" mutual="#violante #dama-0208 #padregiachetto-0208 "/>
+        <relation type="husband" mutual="#giannilotteringhi #monnatessa "/>
+        
+        <relation type="brother" mutual="#giannole #agnesabernabuccio "/><relation type="son" mutual="#giannole #bernabuccio "/>
+        <relation type="friend" mutual="#giannottocivigni #abraam "/>
+        <relation type="father" mutual="#giannucole #griselda "/><relation type="grandfather" mutual="#giannucole #figliuolo-1010 #figliuola-1010 "/>
+        <relation type="father" mutual="#gigliozzo #agnolella "/>
+        <relation type="husband" mutual="#gilberto #dianora "/>
+        <relation type="daughter" mutual="#giletta #gerardo "/><relation type="wife" mutual="#giletta #beltramo "/>
+        <relation type="daughter" mutual="#ginevrauberti #neriuberti "/><relation type="sister" mutual="#ginevrauberti #isottauberti "/><relation type="wife" mutual="#ginevrauberti #maffeopallizzi "/>
+        
+        <relation type="husband" mutual="#giosefo #donna-0909 "/>
+        
+        <relation type="mother" mutual="#giovanna #figliogiovanna-0509 "/><relation type="wife" mutual="#giovanna #federigoalberighi "/>
+        
+        
+        <relation type="son" mutual="#girolamo #leonardosighieri "/><relation type="son" mutual="#girolamo #madre-0408 "/><relation type="lover" mutual="#girolamo #salvestra "/>
+        <relation type="son" mutual="#giuffredi #beritolacaracciola #arrighettocapece "/><relation type="brother" mutual="#giuffredi #loscacciato "/><relation type="husband" mutual="#giuffredi #spina "/><relation type="servant" mutual="#giuffredi #corradomalaspina #gasparredoria "/>
+        <relation type="son" mutual="#gisippo #cremete "/><relation type="friend" mutual="#gisippo #tito "/><relation type="husband" mutual="#gisippo #fulvia "/><relation type="relative" mutual="#gisippo #parentigisippo-1008 "/>
+        
+        <relation type="aunt" mutual="#gostanza-0404 #reguglielmo "/><relation type="sister" mutual="#gostanza-0404 #ruggieri-0404 "/><relation type="mother" mutual="#gostanza-0404 #federicoii "/><relation type="relative" mutual="#gostanza-0404 #guiscardo "/><relation type="grandmother" mutual="#gostanza-0404 #remanfredi "/>
+        <relation type="wife" mutual="#gostanza #martuccio "/>
+        
+        <relation type="daughter" mutual="#griselda #giannucole "/><relation type="wife" mutual="#griselda #gualtierisanluzzo "/><relation type="mother" mutual="#griselda #figliuola-1010 #figliuolo-1010 "/>
+        <relation type="father" mutual="#gualtierianversa #luigi #violante "/>
+        <relation type="husband" mutual="#gualtierisanluzzo #griselda "/><relation type="father" mutual="#gualtierisanluzzo #figliuola-1010 #figliuolo-1010 "/><relation type="relative" mutual="#gualtierisanluzzo #contipanago "/><relation type="relative" mutual="#gualtierisanluzzo #famigliare-1010 "/>
+        
+        <relation type="husband" mutual="#guasparruolo #ambruogia "/>
+        <relation type="husband" mutual="#guasparruolosaliceto #bergamina "/>
+        <relation type="servant" mutual="#guccio #fratecipolla "/>
+        <relation type="nephew" mutual="#reguglielmo #gostanza-0404 "/><relation type="relative" mutual="#reguglielmo #guiscardo "/><relation type="nephew" mutual="#reguglielmo #ruggieri-0404 "/><relation type="cousin" mutual="#reguglielmo #federicoii "/><relation type="grandfather" mutual="#reguglielmo #gerbino "/>
+        <relation type="son" mutual="#guidocavalcanti #cavalcantecavalcanti "/>
+        <relation type="guardian" mutual="#guidotto #agnesabernabuccio "/>
+        
+        
+        
+        
+        <relation type="lover" mutual="#guiglielmoguardastagno #moglierossiglione-0409 "/>
+        <relation type="husband" mutual="#guiglielmomagna #isottauberti "/>
+        <relation type="husband" mutual="#guiglielmorossiglione #moglierossiglione-0409 "/><relation type="murderer" mutual="#guiglielmorossiglione #guiglielmoguardastagno "/>
+        <relation type="lover" mutual="#guiscardo #ghismonda "/><relation type="servant" mutual="#guiscardo #tancredi "/>
+        <relation type="lover" mutual="#gulfardo #ambruogia "/>
+        
+        
+        
+        <relation type="lover" mutual="#iancofiore #salabaetto "/>
+        
+        <relation type="wife" mutual="#isabella #marito-0706 "/><relation type="lover" mutual="#isabella #leonetto "/><relation type="lover" mutual="#isabella #lambertuccio "/>
+        
+        <relation type="wife" mutual="#monnaisabetta #frapuccio "/><relation type="lover" mutual="#monnaisabetta #donfelice "/>
+        <relation type="father" mutual="#isnardo #beltramo "/>
+        <relation type="daughter" mutual="#isottauberti #neriuberti "/><relation type="sister" mutual="#isottauberti #ginevrauberti "/><relation type="wife" mutual="#isottauberti #guiglielmomagna "/>
+        
+        <relation type="lover" mutual="#lagina #stramba "/>
+        <relation type="brother" mutual="#landolfoprocida #gianprocida "/><relation type="father" mutual="#landolfoprocida #gianniprocida "/>
+        
+        
+        <relation type="son" mutual="#lamberto #tebaldo "/><relation type="relative" mutual="#lamberto #agolanti "/><relation type="brother" mutual="#lamberto #agolante #tedaldo "/>
+        <relation type="lover" mutual="#lambertuccio #isabella "/>
+        
+        <relation type="lover" mutual="#lazzarinodeguazzagliotri #madonnafilippa "/>
+        <relation type="husband" mutual="#leonardosighieri #madre-0408 "/><relation type="father" mutual="#leonardosighieri #girolamo "/>
+        <relation type="lover" mutual="#leonetto #isabella "/>
+        <relation type="wife" mutual="#lidia #nicostrato "/><relation type="lover" mutual="#lidia #pirro "/>
+        <relation type="husband" mutual="#liello #donna-0503 "/>
+        <relation type="daughter" mutual="#lisa #bernardo #madre-1007 "/><relation type="wife" mutual="#lisa #perdicone "/>
+        <relation type="lover" mutual="#lisettaquirino #berto "/>
+        <relation type="husband" mutual="#lisimaco #cassandrea "/>
+        <relation type="husband" mutual="#lizio #giacomina "/><relation type="father" mutual="#lizio #caterina "/>
+        <relation type="lover" mutual="#lodovico #beatricegalluzzi "/><relation type="servant" mutual="#lodovico #eganogalluzzi "/>
+        <relation type="lover" mutual="#lorenzo #ellisabetta "/>
+        
+        <relation type="father" mutual="#lottogualandi #bartolomea "/>
+        <relation type="servant" mutual="#lusca #lidia "/>
+        
+        
+        <relation type="husband" mutual="#maffeopallizzi #ginevrauberti "/>
+        
+        
+        <relation type="family" mutual="#manardi #ricciardomanardi "/>
+        
+        <relation type="son" mutual="#remanfredi #federicoii "/><relation type="grandson" mutual="#remanfredi #gostanza-0404 "/><relation type="grandfather" mutual="#remanfredi #fediiar "/><relation type="father" mutual="#remanfredi #reina-1007 "/>
+        
+        
+        
+        <relation type="nephew" mutual="#manuello #imperatorecostantinopoli "/>
+        <relation type="father" mutual="#mannucciocuculia #monnatessa "/>
+        <relation type="brother" mutual="#marato #pericone "/><relation type="lover" mutual="#marato #alatiel "/>
+        
+        
+        <relation type="wife" mutual="#margheritaimolese #talano "/>
+        
+        <relation type="father" mutual="#marino #restituta "/>
+        
+        <relation type="husband" mutual="#martuccio #gostanza "/>
+        <relation type="servant" mutual="#masettolamporecchio #monache-0301 "/><relation type="lover" mutual="#masettolamporecchio #monache-0301 "/>
+        
+        
+        
+        
+        <relation type="husband" mutual="#matteomontagna #moglie-0410 "/>
+        
+        
+        
+        
+        <relation type="friend" mutual="#meucciotura #tingocciomini "/><relation type="lover" mutual="#meucciotura #mitaanselmini "/>
+        
+        
+        
+        
+        <relation type="husband" mutual="#minghino #agnesabernabuccio "/>
+        
+        <relation type="wife" mutual="#mitaanselmini #ambruogioanselmini "/><relation type="lover" mutual="#mitaanselmini #tingocciomini #meucciotura "/>
+        
+        
+        
+        
+        <relation type="husband" mutual="#nastagio #figliatraversari-0508 "/>
+        
+        <relation type="husband" mutual="#neerbale #alibech "/>
+        <relation type="father" mutual="#negropontecarraro #andreuola "/>
+        
+        <relation type="father" mutual="#neriuberti #ginevrauberti #isottauberti "/>
+        
+        
+        
+        <relation type="father" mutual="#niccolocornacchini #filippocornacchini "/>
+        <relation type="lover" mutual="#salabaetto #iancofiore "/>
+        <relation type="husband" mutual="#niccologragnano #spina "/>
+        <relation type="lover" mutual="#niccolosa #filippocornacchini "/>
+        <relation type="daughter" mutual="#niccolosa-0906 #oste-0906 "/><relation type="lover" mutual="#niccolosa-0906 #pinuccio "/>
+        <relation type="husband" mutual="#niccoluccio #catalina "/><relation type="friend" mutual="#niccoluccio #gentile "/><relation type="father" mutual="#niccoluccio #figlio-1004 "/>
+        <relation type="husband" mutual="#nicostrato #lidia "/>
+        <relation type="cousin" mutual="#nonnapulci #alessorinucci "/>
+        
+        
+        <relation type="son" mutual="#nutobuglietti #buglietto "/>
+        
+        <relation type="wife" mutual="#oretta #gerispina "/>
+        <relation type="brother" mutual="#ormisda #pasimunda "/>
+        <relation type="family" mutual="#orsini #liello "/>
+        <relation type="husband" mutual="#ozbek #alatiel "/>
+        
+        
+        <relation type="husband" mutual="#paganinomonaco #bartolomea "/>
+        
+        
+        <relation type="father" mutual="#paolotraversari #figliatraversari-0508 "/>
+        <relation type="brother" mutual="#pasimunda #ormisda "/>
+        <relation type="lover" mutual="#pasquino #simona "/><relation type="friend" mutual="#pasquino #stramba #atticiato #malagevole "/>
+        <relation type="husband" mutual="#perdicone #lisa "/>
+        <relation type="brother" mutual="#pericone #marato "/><relation type="lover" mutual="#pericone #alatiel "/>
+        
+        <relation type="wife" mutual="#peronella #marito-0702 "/><relation type="lover" mutual="#peronella #giannello "/>
+        <relation type="son" mutual="#luigi #gualtierianversa "/><relation type="brother" mutual="#luigi #violante "/>
+        
+        
+        <relation type="father" mutual="#pietro #andreuccio "/>
+        <relation type="husband" mutual="#pietrodatresanti #gemmata "/>
+        
+        <relation type="father" mutual="#pietroiiiaragona #fediiar "/>
+        <relation type="husband" mutual="#pietroboccamazza #agnolella "/>
+        <relation type="friend" mutual="#pietrocanigiano #salabaetto "/>
+        <relation type="husband" mutual="#pietrovinciolo #moglie-0510 "/><relation type="friend" mutual="#pietrovinciolo #ercolano "/>
+        <relation type="friend" mutual="#pinuccio #adriano "/><relation type="lover" mutual="#pinuccio #niccolosa-0906 "/>
+        <relation type="servant" mutual="#pirro #nicostrato "/><relation type="lover" mutual="#pirro #lidia "/>
+        
+        
+        <relation type="family" mutual="#publioambusto #quinzi "/>
+        <relation type="father" mutual="#publioqf #tito #fulvia "/><relation type="friend" mutual="#publioqf #cremete "/><relation type="family" mutual="#publioqf #quinzi "/>
+        <relation type="husband" mutual="#frapuccio #monnaisabetta "/>
+        
+        <relation type="family" mutual="#quinzi #publioqf #publioambusto #tito "/>
+        
+        
+        <relation type="lover" mutual="#restagnone #ninettacivada "/>
+        <relation type="daughter" mutual="#restituta #marino "/><relation type="wife" mutual="#restituta #gianniprocida "/>
+        <relation type="friend" mutual="#ribi #masosaggio #matteuzzo "/>
+        <relation type="husband" mutual="#riccardochinzica #bartolomea "/>
+        <relation type="husband" mutual="#ricciardomanardi #caterina "/>
+        <relation type="lover" mutual="#ricciardominutolo #catella "/>
+        <relation type="lover" mutual="#rinaldoasti #vedova-0202 "/>
+        <relation type="lover" mutual="#fraterinaldo #agnesa "/>
+        <relation type="husband" mutual="#rinaldodepugliesi #madonnafilippa "/>
+        
+        
+        <relation type="grandson" mutual="#robertoangio #recarloi "/><relation type="son" mutual="#robertoangio #recarloii "/>
+        
+        <relation type="lover" mutual="#ruberto #sismonda "/>
+        <relation type="father" mutual="#ruggieri-0404 #gerbino "/><relation type="brother" mutual="#ruggieri-0404 #gostanza-0404 "/><relation type="son" mutual="#ruggieri-0404 #reguglielmo "/><relation type="uncle" mutual="#ruggieri-0404 #federicoii "/><relation type="family" mutual="#ruggieri-0404 #guiscardo "/>
+        <relation type="lover" mutual="#ruggieriaieroli #moglie-0410 "/>
+        <relation type="family" mutual="#ruggierifigiovanni #figiovanni "/>
+        
+        <relation type="lover" mutual="#rustico #alibech "/>
+        
+        
+        
+        <relation type="wife" mutual="#salvestra #marito-0408 "/><relation type="lover" mutual="#salvestra #girolamo "/>
+        <relation type="relative" mutual="#sandroagolanti #agolanti "/>
+        <relation type="son" mutual="#loscacciato #arrighettocapece #beritolacaracciola "/><relation type="brother" mutual="#loscacciato #giuffredi "/><relation type="servant" mutual="#loscacciato #gasparredoria "/>
+        
+        
+        
+        <relation type="lover" mutual="#simona #pasquino "/>
+        
+        <relation type="wife" mutual="#sismonda #arriguccio "/><relation type="lover" mutual="#sismonda #ruberto "/><relation type="sister" mutual="#sismonda #fratello1-0708 #fratello2-0708 #fratello3-0708 "/><relation type="daughter" mutual="#sismonda #madre-0708 "/>
+        <relation type="wife" mutual="#sofronia #tito "/><relation type="relative" mutual="#sofronia #parentisofronia-1008 "/>
+        <relation type="daughter" mutual="#spina #corradomalaspina #mogliecmalaspina-0206 "/><relation type="wife" mutual="#spina #niccologragnano #giuffredi "/>
+        <relation type="lover" mutual="#spinelloccio #mogliezeppa-0808 "/><relation type="husband" mutual="#spinelloccio #mogliespinelloccio-0808 "/>
+        
+        
+        <relation type="lover" mutual="#stramba #lagina "/>
+        
+        <relation type="husband" mutual="#talano #margheritaimolese "/>
+        
+        <relation type="father" mutual="#tancredi #ghismonda "/>
+        <relation type="father" mutual="#tebaldo #agolante #lamberto #tedaldo "/><relation type="relative" mutual="#tebaldo #agolanti "/>
+        <relation type="son" mutual="#tedaldo #tebaldo "/><relation type="brother" mutual="#tedaldo #agolante #lamberto "/><relation type="relative" mutual="#tedaldo #agolanti "/>
+        <relation type="lover" mutual="#tedaldoelisei #ermellina "/>
+        <relation type="son" mutual="#teodoro #fineo "/><relation type="husband" mutual="#teodoro #violante-abate "/><relation type="servant" mutual="#teodoro #amerigo "/>
+        
+        <relation type="wife" mutual="#tessa #calandrino "/>
+        <relation type="wife" mutual="#monnatessa #giannilotteringhi "/><relation type="lover" mutual="#monnatessa #federigoneripegolotti "/><relation type="daughter" mutual="#monnatessa #mannucciocuculia "/>
+        <relation type="wife" mutual="#teodolinda #autari #agilulfo "/>
+        <relation type="friend" mutual="#tingocciomini #meucciotura "/>
+        <relation type="ward" mutual="#tito #cremete "/><relation type="son" mutual="#tito #publioqf "/><relation type="friend" mutual="#tito #gisippo "/><relation type="husband" mutual="#tito #sofronia "/><relation type="family" mutual="#tito #quinzi "/>
+        <relation type="husband" mutual="#tofano #ghita "/>
+        <relation type="husband" mutual="#torello #adalieta "/><relation type="friend" mutual="#torello #saladino "/><relation type="nephew" mutual="#torello #abatesp-1009 "/>
+        
+        <relation type="family" mutual="#traversari #paolotraversari "/>
+        <relation type="lover" mutual="#troilo #criseida "/>
+        
+        
+        <relation type="lover" mutual="#ughetto #bertellacivada "/><relation type="friend" mutual="#ughetto #folco "/>
+        
+        
+        
+        
+        
+        <relation type="friend" mutual="#verdiana #vecchia-0510 "/>
+        
+        
+        <relation type="daughter" mutual="#violante-abate #amerigo "/><relation type="wife" mutual="#violante-abate #teodoro "/>
+        
+        <relation type="lover" mutual="#zima #donna-0305 "/>
+        <relation type="friend" mutual="#zeppa #spinelloccio "/><relation type="lover" mutual="#zeppa #mogliespinelloccio-0808 "/>
+        <relation type="wife" mutual="#ginevra #bernabo "/><relation type="servant" mutual="#ginevra #encararh "/>
+        
+        
+        
+        
+        
+        <relation type="lover" mutual="#abate-0104 #giovinetta-0104 "/>
+        <relation type="wife" mutual="#donna-0203 #alessandro "/>
+        <relation type="lover" mutual="#abate-0308 #donna-0308 "/>
+        <relation type="uncle" mutual="#abatesp-1009 #torello "/>
+        
+        <relation type="lover" mutual="#amante-0807 #elena "/>
+        
+        
+        
+        
+        <relation type="friend" mutual="#brigata-0606 #nerivannini #pierodifiorentino "/>
+        <relation type="friend" mutual="#brigata-0609 #bettobrunelleschi "/>
+        
+        <relation type="servant" mutual="#cameriera-1005 #dianora "/>
+        
+        
+        
+        
+        <relation type="relative" mutual="#cognati-0402 #lisettaquirino "/>
+        
+        <relation type="friend" mutual="#compagni-1003 #mitridanes "/>
+        <relation type="friend" mutual="#compagni-1006 #recarloi "/>
+        <relation type="friend" mutual="#compagni-1009 #torello "/>
+        <relation type="friend" mutual="#compagno-0703 #fraterinaldo "/>
+        <relation type="family" mutual="#contipanago #gualtierisanluzzo #figliuolo-1010 #figliuola-1010 "/>
+        
+        <relation type="mother" mutual="#dama-0208 #giachetto "/><relation type="wife" mutual="#dama-0208 #padregiachetto-0208 "/><relation type="guardian" mutual="#dama-0208 #violante "/>
+        
+        
+        <relation type="wife" mutual="#mogliecmalaspina-0206 #corradomalaspina "/><relation type="mother" mutual="#mogliecmalaspina-0206 #spina "/>
+        
+        <relation type="wife" mutual="#donna-0305 #francesco "/>
+        <relation type="wife" mutual="#donna-0308 #ferondo "/><relation type="lover" mutual="#donna-0308 #abate-0308 "/>
+        
+        <relation type="wife" mutual="#moglierossiglione-0409 #guiglielmorossiglione "/><relation type="lover" mutual="#moglierossiglione-0409 #guiglielmoguardastagno "/>
+        <relation type="wife" mutual="#donna-0503 #liello "/>
+        <relation type="wife" mutual="#donna-0705 #geloso-0705 "/><relation type="lover" mutual="#donna-0705 #filippo "/>
+        <relation type="wife" mutual="#mogliezeppa-0808 #zeppa "/><relation type="lover" mutual="#mogliezeppa-0808 #spinelloccio "/>
+        <relation type="wife" mutual="#mogliespinelloccio-0808 #spinelloccio "/>
+        <relation type="wife" mutual="#donna-0809 #simone "/>
+        <relation type="wife" mutual="#donna-0906 #oste-0906 "/><relation type="mother" mutual="#donna-0906 #niccolosa-0906 "/><relation type="lover" mutual="#donna-0906 #adriano "/>
+        <relation type="wife" mutual="#donna-0909 #giosefo "/>
+        
+        
+        <relation type="relative" mutual="#ducaatene #principemorea #nuovoprincipemorea "/><relation type="murderer" mutual="#ducaatene #principemorea "/><relation type="lover" mutual="#ducaatene #alatiel "/>
+        <relation type="lover" mutual="#ducacreti #magdalenacivada "/>
+        
+        <relation type="servant" mutual="#famigliare-0209 #bernabo "/>
+        <relation type="servant" mutual="#famigliare-0401 #guiscardo "/>
+        <relation type="servant" mutual="#famigliare-0602 #gerispina "/>
+        <relation type="servant" mutual="#famigliare-1001 #realfonso "/>
+        <relation type="servant" mutual="#famigliare-1010 #gualtierisanluzzo "/>
+        <relation type="servant" mutual="#famigliari-1004 #gentile "/>
+        <relation type="servant" mutual="#famigliari-1005 #dianora "/>
+        <relation type="servant" mutual="#famigliari-1006 #neriuberti "/>
+        <relation type="servant" mutual="#famigliari-1009 #saladino "/>
+        <relation type="servant" mutual="#fanciulli-0709 #nicostrato "/>
+        
+        <relation type="servant" mutual="#fanciullo-0205 #fiordaliso "/>
+        <relation type="servant" mutual="#fante-0202 #rinaldoasti "/>
+        <relation type="servant" mutual="#fante-0205 #fiordaliso "/>
+        <relation type="servant" mutual="#fante-0410 #moglie-0410 "/>
+        <relation type="servant" mutual="#fante-0406 #andreuola "/>
+        <relation type="servant" mutual="#fante-0505 #giacomino #agnesabernabuccio "/>
+        <relation type="servant" mutual="#fante-0703 #agnesa "/>
+        <relation type="servant" mutual="#fante-0706 #isabella "/>
+        <relation type="servant" mutual="#fante-0708 #sismonda "/>
+        <relation type="servant" mutual="#fantedonna-0807 #elena "/>
+        <relation type="servant" mutual="#fanteuomo-0807 #rinieri "/>
+        
+        
+        
+        
+        <relation type="servant" mutual="#femina-1005 #ansaldo "/>
+        <relation type="lover" mutual="#femine-0410 #prestatori-0410 "/>
+        
+        <relation type="wife" mutual="#figliatraversari-0508 #nastagio "/><relation type="daughter" mutual="#figliatraversari-0508 #paolotraversari "/>
+        <relation type="son" mutual="#figlio-1004 #catalina #niccoluccio "/>
+        
+        <relation type="daughter" mutual="#figliuola-1010 #gualtierisanluzzo #griselda "/><relation type="relative" mutual="#figliuola-1010 #contipanago "/><relation type="granddaughter" mutual="#figliuola-1010 #giannucole "/>
+        <relation type="son" mutual="#figliuolo-1010 #gualtierisanluzzo #griselda "/><relation type="grandson" mutual="#figliuolo-1010 #giannucole "/><relation type="relative" mutual="#figliuolo-1010 #contipanago "/>
+        
+        
+        
+        
+        
+        <relation type="brother" mutual="#fratelli-0405 #ellisabetta "/><relation type="murderer" mutual="#fratelli-0405 #lorenzo "/>
+        <relation type="brother" mutual="#fratelligiovanna-0509 #giovanna "/>
+        <relation type="brother" mutual="#fratello1-0708 #sismonda "/><relation type="son" mutual="#fratello1-0708 #madre-0708 "/>
+        <relation type="brother" mutual="#fratello2-0708 #sismonda "/><relation type="son" mutual="#fratello2-0708 #madre-0708 "/>
+        <relation type="brother" mutual="#fratello3-0708 #sismonda "/><relation type="son" mutual="#fratello3-0708 #madre-0708 "/>
+        <relation type="brother" mutual="#fratelli-0804 #piccarda "/>
+        <relation type="husband" mutual="#geloso-0705 #donna-0705 "/>
+        
+        <relation type="son" mutual="#figliobalducci-04intro #filippobalducci "/>
+        <relation type="lover" mutual="#giovane-0704 #ghita "/>
+        <relation type="son" mutual="#figliogiovanna-0509 #giovanna "/>
+        <relation type="lover" mutual="#giovinetta-0104 #abate-0104 #monaco-0104 "/>
+        
+        
+        
+        
+        
+        
+        <relation type="servant" mutual="#lavoratore-0807 #elena "/>
+        
+        <relation type="mother" mutual="#madre-1004 #gentile "/>
+        <relation type="mother" mutual="#madre-0408 #girolamo "/><relation type="wife" mutual="#madre-0408 #leonardosighieri "/>
+        <relation type="mother" mutual="#madre-0708 #sismonda #fratello1-0708 #fratello2-0708 #fratello3-0708 "/>
+        <relation type="wife" mutual="#madre-1007 #bernardo "/><relation type="mother" mutual="#madre-1007 #lisa "/>
+        
+        <relation type="wife" mutual="#marchesanamonferrato #marchesemonferrato "/>
+        <relation type="husband" mutual="#marchesemonferrato #marchesanamonferrato "/>
+        <relation type="husband" mutual="#marito-0408 #salvestra "/>
+        <relation type="husband" mutual="#marito-0702 #peronella "/>
+        <relation type="husband" mutual="#marito-0703 #agnesa "/>
+        <relation type="husband" mutual="#marito-0706 #isabella "/>
+        <relation type="friend" mutual="#masnadieri-1002 #ghino "/>
+        
+        <relation type="wife" mutual="#moglie-0410 #matteomontagna "/>
+        <relation type="wife" mutual="#moglie-0510 #pietrovinciolo "/>
+        <relation type="wife" mutual="#moglieercolano-0510 #ercolano "/>
+        <relation type="lover" mutual="#monache-0301 #masettolamporecchio "/>
+        
+        
+        <relation type="lover" mutual="#monaco-0104 #giovinetta-0104 "/>
+        
+        
+        
+        <relation type="servant" mutual="#negromante-1009 #saladino "/>
+        
+        
+        
+        <relation type="father" mutual="#oste-0906 #niccolosa-0906 "/><relation type="husband" mutual="#oste-0906 #donna-0906 "/>
+        <relation type="father" mutual="#padregiachetto-0208 #giachetto "/><relation type="husband" mutual="#padregiachetto-0208 #dama-0208 "/><relation type="guardian" mutual="#padregiachetto-0208 #violante "/>
+        
+        <relation type="relative" mutual="#parenti-0704 #ghita "/>
+        <relation type="relative" mutual="#parentisofronia-1008 #sofronia "/>
+        <relation type="relative" mutual="#parentigisippo-1008 #gisippo #cremete "/>
+        
+        
+        <relation type="lover" mutual="#principemorea #alatiel "/><relation type="relative" mutual="#principemorea #ducaatene "/><relation type="brother" mutual="#principemorea #nuovoprincipemorea "/>
+        <relation type="brother" mutual="#nuovoprincipemorea #principemorea "/><relation type="relative" mutual="#nuovoprincipemorea #ducaatene "/>
+        <relation type="lover" mutual="#prestatori-0410 #femine-0410 "/>
+        
+        <relation type="lover" mutual="#prete-0802 #belcolore #biliuzza "/>
+        
+        <relation type="daughter" mutual="#principessatunisi-0404 #retunisi-0404 "/>
+        <relation type="lover" mutual="#proposto-0804 #ciutazza "/>
+        
+        
+        <relation type="guardian" mutual="#refrancia-0309 #beltramo "/>
+        
+        
+        <relation type="husband" mutual="#regarbo #alatiel "/>
+        
+        <relation type="father" mutual="#retunisi-0404 #principessatunisi-0404 "/>
+        <relation type="wife" mutual="#reina-1007 #pietroiiiaragona "/>
+        
+        
+        
+        
+        
+        <relation type="servant" mutual="#servigiale-0205 #fiordaliso "/>
+        
+        
+        
+        <relation type="guardian" mutual="#tutori-0408 #girolamo "/>
+        <relation type="friend" mutual="#uomini-0709 #nicostrato "/>
+        <relation type="friend" mutual="#uomini-1004 #gentile "/>
+        
+        <relation type="friend" mutual="#uomini-1010 #gualtierisanluzzo "/>
+        
+        
+        <relation type="murderer" mutual="#uomo-0307 #faziuolo "/>
+        
+        
+        
+        
+        
+        
+        
+        <relation type="servant" mutual="#vecchia-0205 #fiordaliso "/>
+        <relation type="wife" mutual="#vecchia-0503 #vecchio-0503 "/>
+        <relation type="friend" mutual="#vecchia-0510 #verdiana "/><relation type="friend" mutual="#vecchia-0510 #moglie-0510 "/>
+        <relation type="husband" mutual="#vecchio-0503 #vecchia-0503 "/>
+        <relation type="lover" mutual="#vedova-0202 #marcheseazzo "/>
+        
+        
+        
+        </listRelation></listPerson><listPlace type="imaginary"> 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="altarisi"><placeName>Altarisi</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="bengodi"><placeName>Bengodi</placeName></place>
+        <place xml:id="berlinzone"><placeName>Berlinzone</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="buffia"><placeName>Buffia</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="caprezio"><placeName>Caprezio</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="indiapastinacca"><placeName>India Pastinaca</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="menzogna"><placeName>Menzogna</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="narsia"><placeName>Narsia</placeName></place>
+        
+        <place xml:id="norrueca"><placeName>Norrueca</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="ponteoca"><placeName>Ponte dell'Oca</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+           
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="truffia"><placeName>Truffia</placeName></place>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <place xml:id="alberifrutt-c06"><placeName>
+            albori fruttiferi (VI.con)</placeName></place>
+        <place xml:id="boschetto-i09"><placeName>
+            boschetto (IX.in)</placeName></place>
+        
+        
+        
+        
+        
+        
+        <place xml:id="fiumicello1-c06"><placeName>
+            chiarissimo fiumicello (VI.con)</placeName></place>
+        <place xml:id="fiumicello2-c06"><placeName>
+            fiumicello (VI.con)</placeName></place>
+        
+        
+        <place xml:id="montagnette-c06"><placeName>
+            sei montagnette (VI.con)</placeName></place>
+        
+        
+        <place xml:id="prato-c06"><placeName>
+            prato d'erba minutissima
+            (VI.con)</placeName></place>
+        
+        
+        
+        
+        
+        <place xml:id="laghettobrigata-01"><placeName>
+            laghetto / pelaghetto</placeName></place>
+        
+        
+        
+        <place xml:id="valledonnebrigata-01"><placeName>Valle delle Donne</placeName></place>
+</listPlace><listPlace type="real"> 
+        
+        <place xml:id="Abruzzi"><placeName>Abruzzi</placeName></place>
+        <place xml:id="acaia"><placeName>Acaia</placeName></place>
+        <place xml:id="sangiovannidacri"><placeName>Acri</placeName></place>
+        <place xml:id="aiguesmortes"><placeName>Aguamorta</placeName></place>
+        <place xml:id="alagna"><placeName>Alagna</placeName></place>
+        
+        <place xml:id="albisola"><placeName>Alba</placeName></place>
+        <place xml:id="alessandriaeg"><placeName>Alessandria /
+            Alessandra</placeName></place>
+        
+        <place xml:id="amalfi"><placeName>Amalfi</placeName></place>
+        <place xml:id="ancona"><placeName>Ancona / Marca
+            d'Ancona</placeName></place>
+        <place xml:id="antiochia"><placeName>Antiochia</placeName></place>
+        <place xml:id="maregeo"><placeName>Arcipelago</placeName></place>
+        <place xml:id="arezzo"><placeName>Arezzo</placeName></place>
+        <place xml:id="argo"><placeName>Argo</placeName></place>
+        
+        <place xml:id="arno"><placeName>Arno</placeName></place>
+        <place xml:id="avignone"><placeName>Avignone</placeName></place>
+        <place xml:id="monteasinaio"><placeName>Monte
+            Asinaio</placeName></place>
+        <place xml:id="atene"><placeName>Atene</placeName></place>
+        
+        <place xml:id="cairo"><placeName>Babillonia / Babilonia</placeName></place>
+        <place xml:id="baffa"><placeName>Baffa (Pafo)</placeName></place>
+        <place xml:id="baldacca"><placeName>Baldacca</placeName></place>
+        <place xml:id="barberia"><placeName>Barberia / Barbaria</placeName></place>
+        
+        <place xml:id="barletta"><placeName>Barletta</placeName></place>
+        <place xml:id="terrabaschi"><placeName>terra de' Baschi</placeName></place>
+        
+        
+        <place xml:id="benevento"><placeName>Benevento</placeName></place>
+        <place xml:id="bitonto"><placeName>Bitonto</placeName></place>
+        <place xml:id="bologna"><placeName>Bologna</placeName></place>
+        <place xml:id="bonconvento"><placeName>Bonconvento</placeName></place>
+        <place xml:id="borgogreci"><placeName>Borgo de' Greci</placeName></place>
+        <place xml:id="borgogna"><placeName>Borgogna</placeName></place>
+        <place xml:id="sanpancrazio"><placeName>San Brancazio</placeName></place>
+        <place xml:id="contradabrancazio"><placeName>contrada San Brancazio</placeName></place>
+        <place xml:id="brindisi"><placeName>Brandizio</placeName></place>
+        <place xml:id="brescia"><placeName>Brescia</placeName></place>
+        <place xml:id="bruges"><placeName>Bruggia</placeName></place>
+        
+        
+        <place xml:id="cacavincigli"><placeName>Cacavincigli</placeName></place>
+        <place xml:id="calatabellotta"><placeName>Calatabellotta</placeName></place>
+        
+        <place xml:id="Calabria"><placeName>Calavria</placeName></place>
+        <place xml:id="calais"><placeName>Calese</placeName></place>
+        <place xml:id="camaldoli"><placeName>Camaldoli</placeName></place>
+        <place xml:id="camerata"><placeName>Camerata</placeName></place>
+        <place xml:id="camollia"><placeName>Camollia</placeName></place>
+        <place xml:id="campi"><placeName>Campi</placeName></place>
+        <place xml:id="camporeggi"><placeName>Camporeggi</placeName></place>
+        <place xml:id="candia"><placeName>Candia</placeName></place>
+        <place xml:id="cantomacina"><placeName>Canto alla
+            Macina</placeName></place>
+        <place xml:id="cappadocia"><placeName>Capadocia</placeName></place>
+        <place xml:id="capitolio"><placeName>Capitolio</placeName></place>
+        
+        <place xml:id="capova"><placeName>Capova</placeName></place>
+        <place xml:id="gafsa"><placeName>Capsa</placeName></place>
+        <place xml:id="cartagine"><placeName>Cartagine</placeName></place>
+        <place xml:id="castellammarestabia"><placeName>Castello da mare
+            di Stabia</placeName></place>
+        <place xml:id="castellorossiglione"><placeName>Castello dei
+            Rossiglione</placeName></place>
+        <place xml:id="castelloguardastagno"><placeName>Castello dei
+            Guardastagno</placeName></place>
+        <place xml:id="catania"><placeName>Catania</placeName></place>
+        <place xml:id="cattaio"><placeName>Cattaio</placeName></place>
+        
+        <place xml:id="loggiacavicciuli"><placeName>Loggia de' Cavicciuli</placeName></place>
+        <place xml:id="cefalonia"><placeName>Cifalonia</placeName></place>
+        <place xml:id="certaldo"><placeName>Certaldo</placeName></place>
+        <place xml:id="cefalu"><placeName>Cefalú</placeName></place>
+        <place xml:id="chiarenza"><placeName>Chiarenza</placeName></place>
+        
+        <place xml:id="chiassi"><placeName>Chiassi</placeName></place>
+        <place xml:id="chiesarossiglione-0409"><placeName>Chiesa del castello
+            dei Rossiglione</placeName></place>
+        <place xml:id="chios"><placeName>Chios</placeName></place>
+        <place xml:id="sicilia"><placeName>Cicilia</placeName></place>
+        <place xml:id="cipro"><placeName>Cipri</placeName></place>
+        <place xml:id="civillari"><placeName>Civillari</placeName></place>
+        <place xml:id="viacocomero"><placeName>Via del Cocomero / Mercato Vecchio</placeName></place>
+        <place xml:id="corniglia"><placeName>Corniglia</placeName></place>
+        <place xml:id="cornovaglia"><placeName>contea di
+            Cornovaglia</placeName></place>
+        <place xml:id="costantinopoli"><placeName>Costantinopoli</placeName></place>
+        <place xml:id="corsignano"><placeName>Corsignano</placeName></place>
+        <place xml:id="cremona"><placeName>Cremona</placeName></place>
+        <place xml:id="sancrescivalcava"><placeName>san Cresci in Valcava</placeName></place>
+        <place xml:id="creta"><placeName>Creti</placeName></place>
+        <place xml:id="cuba"><placeName>la
+            Cuba</placeName></place>
+        
+        
+        <place xml:id="egina"><placeName>Egina</placeName></place>
+        <place xml:id="egitto"><placeName>Egitto</placeName></place>
+        <place xml:id="armenia"><placeName>Erminia</placeName></place>
+        
+        <place xml:id="faenza"><placeName>Faenza</placeName></place>
+        <place xml:id="famagosta"><placeName>Famagosta</placeName></place>
+        
+        <place xml:id="fano"><placeName>Fano</placeName></place>
+        <place xml:id="ferrara"><placeName>Ferrara</placeName></place>
+        <place xml:id="lefiandre"><placeName>Fiandra</placeName></place>
+        <place xml:id="fiesole"><placeName>Fiesole</placeName></place>
+        <place xml:id="firenze"><placeName>Firenze</placeName></place>
+        <place xml:id="forlimpopoli"><placeName>Forlimpopoli</placeName></place>
+        <place xml:id="francia"><placeName>Francia</placeName></place>
+        <place xml:id="friuli"><placeName>Frioli</placeName></place>
+        
+        <place xml:id="gaeta"><placeName>Gaeta</placeName></place>
+        <place xml:id="galles"><placeName>Gales</placeName></place>
+        <place xml:id="reamegarbo"><placeName>reame del Garbo</placeName></place>
+        <place xml:id="genova"><placeName>Genova</placeName></place>
+        <place xml:id="agrigento"><placeName>Gergenti</placeName></place>
+        <place xml:id="granada"><placeName>Granata</placeName></place>
+        <place xml:id="guascogna"><placeName>Guascogna</placeName></place>
+        <place xml:id="castelguiglielmo"><placeName>Castel Guiglielmo</placeName></place>
+        <place xml:id="corfu"><placeName>Gurfo</placeName></place>
+        
+        <place xml:id="gerusalemme"><placeName>Ierusalem</placeName></place>
+        <place xml:id="imola"><placeName>Imola</placeName></place>
+        
+        <place xml:id="inferno"><placeName>Inferno / Ninferno</placeName></place>
+        <place xml:id="inghilterra"><placeName>Inghilterra</placeName></place>
+        <place xml:id="irlanda"><placeName>Irlanda</placeName></place>
+        <place xml:id="ischia"><placeName>Ischia</placeName></place>
+        <place xml:id="italia"><placeName>Italia</placeName></place>
+        
+        <place xml:id="laiazzo"><placeName>Laiazzo</placeName></place>
+        <place xml:id="lamporecchio"><placeName>Lamporecchio</placeName></place>
+        <place xml:id="laterino"><placeName>Laternino</placeName></place>
+        <place xml:id="lerici"><placeName>Lerici</placeName></place>
+        <place xml:id="legnaia"><placeName>Legnaia</placeName></place>
+        <place xml:id="lipari"><placeName>Lipari</placeName></place>
+        <place xml:id="lombardia"><placeName>Lombardia</placeName></place>
+        <place xml:id="londra"><placeName>Londra</placeName></place>
+        <place xml:id="lucifero"><placeName>Lucifero</placeName></place>
+        
+        <place xml:id="lunigiana"><placeName>Lunigiana</placeName></place>
+        
+        <place xml:id="magra"><placeName>Magra</placeName></place>
+        <place xml:id="maiorca"><placeName>Maiolica</placeName></place>
+        <place xml:id="macello"><placeName>Macello</placeName></place>
+        <place xml:id="malpertugio"><placeName>Malpertugio</placeName></place>
+        <place xml:id="maremma"><placeName>Maremma</placeName></place>
+        <place xml:id="marsiglia"><placeName>Marsilia</placeName></place>
+        
+        <place xml:id="messina"><placeName>Messina</placeName></place>
+        <place xml:id="milano"><placeName>Melano</placeName></place>
+        <place xml:id="minerva"><placeName>Minerva</placeName></place>
+        <place xml:id="modena"><placeName>Modona</placeName></place>
+        <place xml:id="monaco"><placeName>Monaco</placeName></place>
+        <place xml:id="montenero"><placeName>Monte
+            Nero</placeName></place>
+        <place xml:id="montesone"><placeName>Montesone</placeName></place>
+        <place xml:id="montisci"><placeName>Montisci</placeName></place>
+        <place xml:id="mmorello"><placeName>Monte
+            Morello</placeName></place>
+        <place xml:id="montughi"><placeName>Montughi</placeName></place>
+        <place xml:id="morea"><placeName>Morea (Peloponneso)</placeName></place>
+        <place xml:id="mugello"><placeName>Mugello</placeName></place>
+        <place xml:id="mugnone"><placeName>Mugnone /
+            Mugnon</placeName></place>
+        <place xml:id="montpellier"><placeName>Monpulier</placeName></place>
+        
+        <place xml:id="napoli"><placeName>Napoli</placeName></place>
+        
+        <place xml:id="nazarette"><placeName>Nazarette</placeName></place>
+        
+        <place xml:id="nostradama"><placeName>Nostra
+            Dama</placeName></place>
+        
+        <place xml:id="ortosanmichele"><placeName>Orto San Michele</placeName></place>
+        
+        <place xml:id="palermo"><placeName>Palermo</placeName></place>
+        <place xml:id="parigi"><placeName>Parigi</placeName></place>
+        <place xml:id="parione"><placeName>Parione</placeName></place>
+        <place xml:id="pasignano"><placeName>Passignano sul
+            Trasimeno</placeName></place>
+        <place xml:id="pavia"><placeName>Pavia</placeName></place>
+        <place xml:id="peretola"><placeName>Peretola</placeName></place>
+        <place xml:id="iran"><placeName>Persia</placeName></place>
+        <place xml:id="perugia"><placeName>Perugia</placeName></place>
+        <place xml:id="piccardia"><placeName>Piccardia</placeName></place>
+        <place xml:id="pisa"><placeName>Pisa</placeName></place>
+        <place xml:id="pistoia"><placeName>Pistoia</placeName></place>
+        
+        <place xml:id="porcellana"><placeName>Porcellana</placeName></place>
+        <place xml:id="ponza"><placeName>Ponzo</placeName></place>
+        <place xml:id="portasgallo"><placeName>porta a San
+            Gallo</placeName></place>
+        <place xml:id="portasalaia"><placeName>Porta Salaia</placeName></place>
+        <place xml:id="portapiero"><placeName>Porta San Piero</placeName></place>
+        <place xml:id="prato"><placeName>Prato</placeName></place>
+        <place xml:id="pratoognisanti"><placeName>prato d'Ognissanti</placeName></place>
+        <place xml:id="procida"><placeName>Procida</placeName></place>
+        <place xml:id="provenza"><placeName>Provenza</placeName></place>
+        <place xml:id="puglia"><placeName>Puglia</placeName></place>
+        
+        <place xml:id="radicofani"><placeName>Radicofani</placeName></place>
+        <place xml:id="ravello"><placeName>Ravello</placeName></place>
+        <place xml:id="ravenna"><placeName>Ravenna</placeName></place>
+        <place xml:id="reggio"><placeName>Reggio</placeName></place>
+        <place xml:id="rialto"><placeName>Rialto</placeName></place>
+        <place xml:id="rimini"><placeName>Rimini /
+            Ariminio</placeName></place>
+        
+        <place xml:id="rodi"><placeName>Rodi</placeName></place>
+        <place xml:id="roma"><placeName>Roma</placeName></place>
+        <place xml:id="romagna"><placeName>Romagna</placeName></place>
+        <place xml:id="romania"><placeName>Romania</placeName></place>
+        <place xml:id="roussillon"><placeName>Rossiglione</placeName></place>
+        <place xml:id="rouen"><placeName>Ruem</placeName></place>
+        <place xml:id="rugacatalana"><placeName>Ruga Catalana</placeName></place>
+        
+        <place xml:id="salerno"><placeName>Salerno</placeName></place>
+        <place xml:id="salerno-0410"><placeName>Salerno
+            (IV.10)</placeName></place>
+        <place xml:id="sanluzzo"><placeName>Sanluzzo</placeName></place>
+        <place xml:id="sangallo"><placeName>San Gallo</placeName></place>
+        <place xml:id="sangallo-ospedale"><placeName>San Gallo (ospedale)</placeName></place>
+        <place xml:id="sangimignano"><placeName>San
+            Gimignano</placeName></place>
+        <place xml:id="sangiovanni"><placeName>San Giovanni</placeName></place>
+           <place xml:id="ripole"><placeName>San
+            Jacopo di Ripoli</placeName></place>
+        <place xml:id="sanmarco"><placeName>San
+            Marco</placeName></place>
+        <place xml:id="sanpaolo"><placeName>San Paolo</placeName></place>
+        <place xml:id="sanpieroco"><placeName>San Piero in Ciel d'Oro</placeName></place>
+        <place xml:id="santacroce"><placeName>Santa Croce</placeName></place>
+        <place xml:id="santafiore"><placeName>Santafiore</placeName></place>
+        
+        <place xml:id="santalucia"><placeName>Santa Lucia dal Prato</placeName></place>
+        <place xml:id="santamariascala"><placeName>Santa Maria della Scala</placeName></place>
+        <place xml:id="santamariamaggiore"><placeName>Santa Maria Maggiore</placeName></place>
+        <place xml:id="smnovella"><placeName>Santa Maria Novella</placeName></place>
+        <place xml:id="santamariaughi"><placeName>Santa Maria Ughi</placeName></place>
+        <place xml:id="santamariaverzaia"><placeName>Santa Maria a Verzaia</placeName></place>
+        <place xml:id="santareparata"><placeName>Santa Reparata</placeName></place>
+        <place xml:id="santelpidio-a-mare"><placeName>Sant'Elpidio a Mare / San Lepidio</placeName></place>
+        <place xml:id="sardegna"><placeName>Sardigna</placeName></place>
+        <place xml:id="scalea"><placeName>Scalea in
+            Calavria</placeName></place>
+        <place xml:id="scozia"><placeName>Scozia</placeName></place>
+        <place xml:id="ssepolcro"><placeName>Sepolcro</placeName></place>
+        <place xml:id="settignano"><placeName>Settignano</placeName></place>
+        <place xml:id="siena"><placeName>Siena</placeName></place>
+        <place xml:id="sinigaglia"><placeName>Sinagaglia</placeName></place>
+        <place xml:id="smirne"><placeName>le Smirre</placeName></place>
+        <place xml:id="spagna"><placeName>Spagna / Ispagna</placeName></place>
+        <place xml:id="strangford"><placeName>Stanforda</placeName></place>
+        <place xml:id="susa"><placeName>Susa</placeName></place>
+        
+        <place xml:id="tebaide"><placeName>Tebaida</placeName></place>
+        <place xml:id="terrasanta"><placeName>Terra Santa</placeName></place>
+        <place xml:id="ticino"><placeName>Tesino</placeName></place>
+        <place xml:id="torrenieri"><placeName>Torrenieri</placeName></place>
+        <place xml:id="toscana"><placeName>Toscana</placeName></place>
+        <place xml:id="trapani"><placeName>Trapani</placeName></place>
+        <place xml:id="trani"><placeName>Trani</placeName></place>
+        <place xml:id="tresanti"><placeName>Tresanti</placeName></place>
+        <place xml:id="treviso"><placeName>Trivigi</placeName></place>
+        
+        <place xml:id="tunisi"><placeName>Tunisi</placeName></place>
+        
+        <place xml:id="udine"><placeName>Udine</placeName></place>
+        <place xml:id="ustica"><placeName>Ustica</placeName></place>
+        
+        <place xml:id="valdelsa"><placeName>Valdelsa</placeName></place>
+        <place xml:id="vallecchio"><placeName>Vallecchio</placeName></place>
+        <place xml:id="varlungo"><placeName>Varlungo</placeName></place>
+        <place xml:id="verona"><placeName>Verona</placeName></place>
+        <place xml:id="venezia"><placeName>Vinegia</placeName></place>
+        
+        
+        
+        
+        <place xml:id="casamento-1006"><placeName>casamento di Neri Uberti (X.6)</placeName></place>
+        <place xml:id="contado-0601"><placeName>contado (VI.1)</placeName></place>
+        <place xml:id="duomotreviso-0201"><placeName>(maggior) chiesa (II.1)</placeName></place>
+        <place xml:id="duomofiesole-0804"><placeName>maggior chiesa (VIII.4)</placeName></place>
+        <place xml:id="sanfrancesco-0901"><placeName>chiesa de' frati minori (IX.1)</placeName></place>
+        <place xml:id="chiesa-1004"><placeName>chiesa (X.4)</placeName></place>
+        <place xml:id="fiume-0202"><placeName>fiume (II.2)</placeName></place>
+        <place xml:id="giardino-0406"><placeName>giardino (IV.6)</placeName></place>
+        <place xml:id="giardino-0407"><placeName>giardino (IV.7)</placeName></place>
+        <place xml:id="giardino-0709"><placeName>giardino (VII.9)</placeName></place>
+        <place xml:id="giardino-1005"><placeName>giardino (X.5)</placeName></place>
+        <place xml:id="giardino-1006"><placeName>giardino di
+            Neri Uberti (X.6)</placeName></place>
+        <place xml:id="luogo-1009"><placeName>un luogo di Torello (X.9)</placeName></place>
+        <place xml:id="monistero-0104"><placeName>monistero
+            (I.4)</placeName></place>
+        <place xml:id="monistero-0301"><placeName>monistero
+            (III.1)</placeName></place>
+        <place xml:id="ostiere-1006"><placeName>ostiere di re Carlo I (X.6)</placeName></place>
+        <place xml:id="palagiofolco-0403"><placeName>il palagio di
+            Folco (IV.3)</placeName></place>
+        <place xml:id="palagionicostrato-0709"><placeName>palagio di Nicostrato (VII.9)</placeName></place>
+        <place xml:id="palagiomitridanes-1003"><placeName>palagio di
+            Mitridanes (X.3)</placeName></place>
+        <place xml:id="palagionatan-1003"><placeName>palagio di Natan
+            (X.3)</placeName></place>
+        <place xml:id="pero-0709"><placeName>pero (VII.9)</placeName></place>
+        <place xml:id="piazza-0510"><placeName>Piazza (V.10)</placeName></place>
+        <place xml:id="prato-1005"><placeName>prato (X.5)</placeName></place>
+        <place xml:id="pretorio-1008"><placeName>pretorio (X.8)</placeName></place>
+        
+        <place xml:id="tempio-1008"><placeName>tempio (X.8)</placeName></place>
+        
+        
+        
+        
+        
+        <place xml:id="canaletti-i03"><placeName>canaletti (III.in)</placeName></place>
+        <place xml:id="cortile-i01"><placeName>cortile (I.in)</placeName></place>
+        <place xml:id="chiesetta-i08"><placeName>chiesetta (VIII.con)</placeName></place>
+        <place xml:id="giardinetto-c02"><placeName>giardinetto
+            (II.con)</placeName></place>
+        <place xml:id="giardini-i02"><placeName>giardini (II.in)</placeName></place>
+        <place xml:id="giardino-i01"><placeName>giardino
+            (I.in)</placeName></place>
+        
+        
+        <place xml:id="montagnetta-i01"><placeName>montagnetta (I.in)</placeName></place>
+        <place xml:id="montagnetta-c01"><placeName>montagnetta (I.con)</placeName></place>
+        
+        <place xml:id="pratello-i02"><placeName>pratello
+            (II.in)</placeName></place>
+        <place xml:id="prato-i03"><placeName>prato
+            (III.in)</placeName></place>
+        
+        <place xml:id="rivo-c01"><placeName>rivo (I.con)</placeName></place>
+        <place xml:id="valle-c01"><placeName>valle ombrosa
+            (I.con)</placeName></place>
+        
+        <place xml:id="fontebrigata-01"><placeName> fonte di
+            marmo bianchissimo (III.in) messe le tavole intorno alla bella fonte (III.con) nella
+            maniera usata vicini alla bella fonte (IV.in) tutti raccolti, come usati erano, appresso
+            della bella fonte (IV.con) intorno della bella fontana di presente furono in sul danzare
+            (VII.con) appresso la bella fontana a seder posti (VIII.in) dintorno alla chiara fonte
+            (X.in) </placeName></place>
+        <place xml:id="giardinobrigata-01"><placeName>giardino
+            (III.in) (III.con) (IV.in) (IV.con) lo dittevole giardino (V.in) e poi fra le piacevoli
+            ombre del giardino (X.in) </placeName></place>
+        
+        <place xml:id="mulinibrigata-01"><placeName>mulina
+            (III.in) (IV.con)</placeName></place>
+        <place xml:id="palagiobrigata-01"><placeName>palagio
+            (I.in) (I.con)</placeName></place>
+        <place xml:id="palagiobrigata-02"><placeName>bellissimo
+            e ricco palagio (III.in) bel palagio (IV.in) al palagio tornare (VII.con)</placeName></place>
+        
+</listPlace></body></text></TEI>

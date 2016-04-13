@@ -2,6 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="decameronValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -23,7 +24,7 @@
       target="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US">Creative Commons
       Attribution-ShareAlike 4.0 International License</ref>.</p>
     <p>Elisa Beshero-Bondar transformed an XML of the English text produced by Bencivenga
-     and Lopez into TEI P5, 15 March 2015.</p>
+     and Lopez into TEI P5, 15 March 2016.</p>
     <p>More information about the Pitt-Greensburg Decameron Project </p>
     <!--2015-03-15 ebb: Keep working on the TEI Header, and look at the Pacific and Mitford projects for models. -->
    </publicationStmt>

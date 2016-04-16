@@ -1,0 +1,593 @@
+
+London
+51.5074 N, 0.1278 W
+
+Naples
+26.1420 N, 81.7948 W
+
+Florence
+43.7696 N, 11.2558 E
+
+Italy
+41.8719 N, 12.5674 E
+
+Santa Maria Novella
+43.7746 N, 11.2494 E
+
+Fiesole
+43.8065 N, 11.2932 E
+
+France
+46.2276 N, 2.2137 E
+
+Tuscany
+43.7711 N, 11.2486 E
+
+Prato
+43.8777 N, 11.1022 E
+
+Paris
+48.8566 N, 2.3522 E
+
+Burgundy
+47.0525 N, 4.3837 E
+
+Rome
+41.9028 N, 12.4964 E
+
+Notre Dame
+48.8530 N, 2.3499 E
+
+Egypt
+26.8206 N, 30.8025 E
+
+Alexandria
+31.2001 N, 29.9187 E
+
+Lunigiana
+44.2001 N. 10.1754 E
+
+Genoa
+44.4056 N, 8.9463 E
+
+Santa Croce
+45.7384 N, 13.6890 E
+
+Verona
+45.4384 N, 10.9916 E
+
+Cyprus
+35.1264 N, 33.4299 E
+
+Holy Land
+???
+
+Gascony
+???
+
+Holy Sepulchre
+31.7785 N, 35.2296 E
+
+Bologna
+44.4949 N, 11.3426 E
+
+Treviso
+45.6669 N, 12.2430 E
+
+Castel Guglielmo
+45.0254 N, 11.5385 E
+
+Ferrara
+44.8381 N, 11.6198 E
+
+England
+52.3555 N, 1.1743 W
+
+Scotland
+56.4907 N, 4.2026 W
+
+Corfu
+39.6243 N, 19.9217 E
+
+Reggio
+38.111N, 15.647E
+
+Gaeta
+41.2107 N, 13.5714 E
+
+Salerno
+40.6719 N, 14.8104 E
+
+Amalfi
+40.6340 N, 14.6027 E
+
+Ravello
+40.6492 N, 14.6117 E
+
+Constantinople
+41.0082N, 28.9788
+
+Cephalonia
+38.1754 N, 20.5692 E
+
+Brindisi
+40.6327 N, 17.9418 E
+
+Trani
+41.2775 N, 16.4178 E
+
+Perugia
+43.1107 N, 12.3908 E
+
+Sicily
+37.3979 N, 14.6588 E
+
+Palermo
+38.1157 N, 13.3613 E
+
+Girgenti
+42.2371N, 13.0749E
+
+Ruga Catalana
+41.2227N, 1.5366E
+
+Benevento
+41.1298 N, 14.7826 E
+
+Lipari
+38.4937 N, 14.9272 E
+
+Ponza
+40.8955N, 12.9589E
+
+Apulia
+40.7928 N, 17.1012 E
+
+Magra
+???
+
+Procida
+40.7578 N, 14.0151 E
+
+Lerici
+44.0756 N, 9.9169 E
+
+Babylon
+???
+
+Garbo
+???
+
+Granada
+12.1165 N, 61.6790 W
+
+Sardinia
+40.1209 N, 9.0129 E
+
+Majorca
+39.6953 N, 3.0176 E
+
+Morea
+???
+
+Egina
+50.4452 N, 104.6189 W
+
+Chios
+38.3682 N, 26.1310 E
+
+Smyrna
+33.8840 N, 84.5144 W
+
+Cappadocia
+42.0073N, 13.2784E
+
+Rhodes
+36.4341 N, 28.2176 E
+
+Baffa
+34.4407 N, 73.2205 E
+
+Armenia
+40.0691 N, 45.0382 E
+
+Famagosta
+45.437N, 9.1681E
+
+Aguamorta
+???
+
+Crete
+35.2401 N, 24.8093 E
+
+Ireland
+53.1424 N, 7.6921 W
+
+Calais
+50.9513 N, 1.8587 E
+
+Picardy
+49.6636 N, 2.5281 E
+
+Wales
+52.1307 N, 3.7837 W
+
+Stamford
+41.0534 N, 73.5387 W
+
+Rouen
+49.4432 N, 1.1000 E
+
+Alba
+44.7009N, 8.0356E
+
+Monaco
+43.7384 N, 7.4246 E
+
+Pisa
+43.7228 N, 10.4017 E
+
+Ravenna
+44.4184 N, 12.2035 E
+
+Monte Nero
+46.2661N, 13.6583E
+
+Lamporecchio
+43.8170 N, 10.8963 E
+
+Pavia
+45.1847 N, 9.1582 E
+
+Lombardy
+45.4791 N, 9.8452 E
+
+San Pancrazio
+46.5839N, 11.0845E
+
+Pistoia
+43.9302 N, 10.9079 E
+
+Milan
+45.4654 N, 9.1859 E
+
+Ancona
+43.6158 N, 13.5189 E
+
+Persia
+32.4279 N, 53.6880 E
+
+Roussillon
+43.9023 N, 5.2929 E
+
+Montpellier
+43.6108 N, 3.8767 E
+
+Capsa
+46.9088N, 26.1095E
+
+Tunis
+33.8869 N, 9.5375 E
+
+Thebaid
+???
+
+Monte Asinaio
+???
+
+Capua
+41.1061N, 14.2130E
+
+Venice
+45.4408 N, 12.3155 E
+
+Imola
+44.3600 N, 11.7124 E
+
+Flanders
+???
+
+Maremma
+43.7123N, 11.0022E
+
+Rialto
+34.1064 N, 117.3703 W
+
+San Marco
+???
+
+Marseilles
+43.2965 N, 5.3698 E
+
+Provence
+???
+
+Spain
+40.4637 N, 3.7492 W
+
+Candia
+???
+
+Carthage
+37.1764 N, 94.3102 W
+
+
+Messina
+38.1938 N, 15.5540 E
+
+Ustica
+38.7031 N, 13.1683 E
+
+Trapani
+38.0176N, 12.5372E
+
+San Gimignano
+43.4654 N, 11.0485 E
+
+Brescia
+45.5416 N, 10.2118 E
+
+San Gallo
+38.1414, 14.9644
+
+San Paolo
+23.5505 S, 46.6333 W
+
+Guardastagno
+???
+
+Susa
+45.1386 N, 7.0485 E
+
+Avignon
+43.9493 N, 4.8055 E
+
+Romagna
+44.5444, 10.98361
+
+Cremona
+45.1404 N, 10.0326 E
+
+Faenza
+44.2899 N, 11.8774 E
+
+Fano
+43.8398 N, 13.0194 E
+
+Ischia
+40.7270 N, 13.9029 E
+
+Calabria
+39.3088 N, 16.3464 E
+
+Cuba
+21.5218 N, 77.7812 W
+
+Minerva
+???
+
+Scalea in Calabria
+???
+
+Scalea
+39.8141 N, 15.7913 E
+
+Chiassi
+???
+
+Campi
+???
+
+Santa Maria Ughi
+???
+
+Arno
+???
+
+Siena
+43.3188 N, 11.3308 E
+
+Porta San Piero
+???
+
+Peretola
+43.8087 N, 11.2012 E
+
+Mugello
+???
+
+Mont' Ughi
+???
+
+Santa Maria Maggiore
+46.1338 N, 8.4598 E
+
+Or San Michele
+???
+
+Santa Reparata
+???
+
+Certaldo
+43.5477 N, 11.0415 E
+
+Nazareth
+32.6996 N, 35.3035 E
+
+Porcellana
+???
+
+Baldacca
+???
+
+Parione
+???
+
+Truffia
+???
+
+Buffia
+???
+
+Menzogna
+???
+
+Abruzzi
+42.1920 N, 13.7289 E
+
+India
+20.5937 N, 78.9629 E
+
+Jerusalem
+31.7683 N, 35.2137 E
+
+Caprezio
+???
+
+Camerata
+???
+
+Arezzo
+43.4633 N, 11.8796 E
+
+Rimini
+44.0678 N, 12.5695 E
+
+Argos
+44.0678 N, 12.5695 E
+
+Achaia
+38.1159 N, 21.9522 E
+
+Varlungo
+???
+
+Mugnone
+duplicate
+
+Mugnone
+duplicate
+
+Berlinzone
+???
+
+land of the Basques
+???
+
+Bengodi
+???
+
+Settignano
+43.7834 N, 11.3218 E
+
+Montisci
+???
+
+Monte Morello
+43.8821 N, 11.2314 E
+
+Porta a San Gallo
+???
+
+San Lepidio
+???
+
+Santa Maria a Verzaia
+???
+
+Santa Lucia of Prato
+???
+
+Camollia
+???
+
+Via del Cocomero
+???
+
+Legnaia
+???
+
+Montesone
+46.9812 N, 123.6027 W
+
+Narsia
+???
+
+Cacavincigli
+???
+
+Vallecchio
+???
+
+Civillari
+???
+
+Santa Maria della Scala
+???
+
+Ripoli
+32.8872 N, 13.1913 E
+
+Mercato Vecchio
+???
+
+Buonconvento
+43.1361 N, 11.4796 E
+
+Corsignano
+???
+
+Torrenieri
+???
+
+Camaldoli
+43.7945 N, 11.8204 E
+
+Loggia de' Cavicciuli
+???
+
+Bridge of Geese
+???
+
+Barletta
+41.3197 N, 16.2838 E
+
+Tresanti
+???
+
+Bitonto
+41.1078 N, 16.6911 E
+
+Radicofani
+42.8959 N, 11.7674 E
+
+Corniglia
+44.1199 N, 9.7100 E
+
+Modena
+44.6471 N, 10.9252 E
+
+Friuli
+46.2259 N, 13.1034 E
+
+Udine
+46.0711 N, 13.2346 E
+
+Castello
+ da Mare di Stabia
+???
+
+Calatabellotta
+37.5757 N, 13.2186 E
+
+Capitol
+38.8899 N, 77.0091 W
+
+Ticino
+46.3317 N, 8.8005 E
+
+San Piero in Ciel d'Oro
+???
+
+Saluzzo
+44.6445 N, 7.4927 E

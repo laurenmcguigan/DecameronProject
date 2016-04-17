@@ -1,0 +1,33 @@
+html {
+    background-color: #ffffff;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+div#right {
+    float: right;
+    width: 60%;
+    padding: 15px;
+}
+div#left {
+    float: left;
+    width: 35%;
+    padding: 15px;
+}
+span.placeName.on {
+    background-color: #ff80b3;
+}
+span.floating.on {
+    background-color:  #5dd55d;
+}
+span.nested.on {
+    background-color: #ffdb4d;
+}
+fieldset {
+    width: 300px;
+}

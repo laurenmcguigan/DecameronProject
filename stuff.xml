@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.oxygenxml.com/ns/report">
+<incident>
+<description>Mont' Ughi,0.0,0.0</description>
+<match>0.0,0.0</match>
+<systemID>C:\Users\Momo\Documents\GitHub\DecameronProject\listOfPlaces.csv</systemID>
+<location>
+<start>
+<line>111</line>
+<column>12</column>
+</start>
+</location>
+<offset>2659</offset>
+<length>7</length>
+</incident>
+<incident>
+<description>Loggia de' Cavicciuli,0.0,0.0</description>
+<match>0.0,0.0</match>
+<systemID>C:\Users\Momo\Documents\GitHub\DecameronProject\listOfPlaces.csv</systemID>
+<location>
+<start>
+<line>130</line>
+<column>23</column>
+</start>
+</location>
+<offset>3136</offset>
+<length>7</length>
+</incident>
+<incident>
+<description>Castello, da Mare di Stabia,0.0,0.0</description>
+<match>0.0,0.0</match>
+<systemID>C:\Users\Momo\Documents\GitHub\DecameronProject\listOfPlaces.csv</systemID>
+<location>
+<start>
+<line>138</line>
+<column>29</column>
+</start>
+</location>
+<offset>3341</offset>
+<length>7</length>
+</incident>
+<incident>
+<description>San Piero in Ciel d'Oro,0.0,0.0</description>
+<match>0.0,0.0</match>
+<systemID>C:\Users\Momo\Documents\GitHub\DecameronProject\listOfPlaces.csv</systemID>
+<location>
+<start>
+<line>142</line>
+<column>25</column>
+</start>
+</location>
+<offset>3450</offset>
+<length>7</length>
+</incident>
+</report>

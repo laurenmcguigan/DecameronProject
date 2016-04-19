@@ -17,7 +17,9 @@
                 <h1>The Decameron</h1>
                 <h2>Table of Contents</h2>
                 <ul>
-                    <xsl:apply-templates select="//div[@type='Day']/head" mode="toc"/>
+
+                    <xsl:apply-templates select="//div[@type='Day']//head" mode="toc"/>
+
                 </ul>
                 <hr/>
                 
@@ -54,6 +56,10 @@
                 <xsl:apply-templates/>
             </a>
         </li> <br/>
+        
+        <li>
+            <xsl:apply-templates/>
+        </li>
     </xsl:template>
     
     <xsl:template match="div[@type='Day']/head">

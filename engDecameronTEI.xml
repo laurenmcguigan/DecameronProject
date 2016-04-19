@@ -1376,7 +1376,7 @@
       <milestone unit="locus" corresp="p01030010"/><q>My lord, a pretty question indeed is this which you propound,
 	and fain would I answer it; to which end it is apposite that
 	I tell you a story, which, if you will hearken, is as follows: 
-	<milestone unit="locus" corresp="p01030011"/><!--nested-->If I
+	<milestone unit="locus" corresp="p01030011"/><floatingText type="nested"><body><p>If I
 	mistake not, I remember to have often heard tell of a great and rich
 	man of old time, who among other most precious jewels had in his
 	treasury a ring of extraordinary beauty and value, which by reason
@@ -1409,7 +1409,7 @@
 	by God the Father, I answer: Each of these peoples deems itself to
 	have the true inheritance, the true law, the true commandments of
 	God; but which of them is justified in so believing, is a question
-	which, like that of the rings, remains pendent.</q><!--nested--> 
+	which, like that of the rings, remains pendent.</p></body></floatingText></q> 
       <milestone unit="locus" corresp="p01030017"/>The excellent
       adroitness with which the Jew had contrived to evade the snare
       which he had laid for his feet was not lost upon Saladin. He therefore
@@ -3155,7 +3155,7 @@
  sights, being strange to him, confirmed his belief that he was in the
  house of no other than a great lady. <milestone unit="locus" corresp="p02050018"/>They sate down side by side
  on a chest at the foot of the bed, and thus she began to speak:
- <!--nested--><q>Andreuccio, I cannot doubt that thou dost marvel both at the
+ <floatingText type="nested"><body><q>Andreuccio, I cannot doubt that thou dost marvel both at the
  caresses which I bestow upon thee, and at my tears, seeing that thou
  knowest me not, and, maybe, hast never so much as heard my name;
  wait but a moment and thou shalt learn what perhaps will cause thee
@@ -3200,7 +3200,7 @@
  an ample pension, which he regularly pays to my husband and thy
  brother-in-law, as thou mayst yet see. In this manner I live here;
  but that I am blest with the sight of thee, I ascribe entirely to the
- mercy of God; and no thanks to thee, my sweet brother.</q><!--nested--> <milestone unit="locus" corresp="p02050024"/>So saying
+ mercy of God; and no thanks to thee, my sweet brother.</q></body></floatingText> <milestone unit="locus" corresp="p02050024"/>So saying
  she embraced him again, and melting anew into tears kissed his
  brow.</p><p><milestone unit="locus" corresp="p02050025"/>This story, so congruous, so consistent in every detail, came trippingly
  and without the least hesitancy from her tongue. Andreuccio
@@ -4610,7 +4610,7 @@
       was somewhat rested, the Soldan inquired how it was that she was
       yet alive, and where she had been so long without letting him know
       how it fared with her. <milestone unit="locus" corresp="p02070106"/>Whereupon the lady, who had got Antigono's
-      lesson by heart, answered thus: <!--nested--><q>My father, 'twas perhaps the
+      lesson by heart, answered thus: <floatingText type="nested"><body><q>My father, 'twas perhaps the
 	twentieth night after my departure from you when our ship parted her
 	<pb n="134"/>timbers in a terrible storm and went ashore nigh a place called
 	<placeName>Aguamorta</placeName>, away there in the West: what was the fate of the men
@@ -4669,7 +4669,7 @@
 	me to the King of <placeName>Cyprus</placeName>, who accorded me welcome there and
 	conduct hither so honourable as words of mine can never describe. It
 	aught remains to tell, you may best learn it from the lips of Antigono,
-	who has often heard my story.</q><!--nested-->
+	who has often heard my story.</q></body></floatingText>
     </p><p><milestone unit="locus" corresp="p02070116"/>Then Antigono, addressing the Soldan, said: <q>Sire, what she
  has told you accords with what she has often told me, and with
  what I have learned from the gentlemen and ladies who accompanied

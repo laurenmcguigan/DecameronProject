@@ -49,28 +49,31 @@
     </xsl:template>
     
     <xsl:template match="div[@type='Day']//head" mode="toc">
-        <li>
-            <xsl:apply-templates/>
-        </li>
+        <li style="font-size:20pt"> 
+            <a href="#">
+                <xsl:apply-templates/>
+            </a>
+        </li> <br/>
+
     </xsl:template>
     
-    <xsl:template match="div[@type='Day']//head">
-        <h1>
+    <xsl:template match="div[@type='Day']/head">
+        <h1 id="">
             <xsl:apply-templates/>
         </h1>
     </xsl:template>
     
     <xsl:template match="div[@type='novella']//head">
-        <h2>
+        <h3>
             <xsl:apply-templates/>
-        </h2>
+        </h3>
     </xsl:template>
     
     <xsl:template match="div[@type='introduction']//head">
-        <h2>
+        <h3>
             <xsl:apply-templates/>
-        </h2>
+        </h3>
     </xsl:template>
     
- 
+    
 </xsl:stylesheet>

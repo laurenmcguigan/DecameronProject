@@ -27,7 +27,7 @@ div.middle {
     width: 800px;
     margin-left: auto;
     margin-right: auto;
-    padding: 15px;
+    padding: 10px;
 }
 div#nav{
     border: none;
@@ -35,7 +35,7 @@ div#nav{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    padding: 15px;
+    padding: 5px;
 }
 a:link, a:visited {
     color: #067900;

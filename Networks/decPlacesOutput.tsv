@@ -1,0 +1,5107 @@
+London	novella	55	England 
+ 
+London	novella	55	Florence 
+ 
+London	novella	55	Italy 
+ 
+London	novella	55	Rome 
+ 
+London	novella	55	Tuscany 
+ 
+London	novella	55	Scotland 
+ 
+London	novella	55	Paris 
+ 
+London	novella	55	Ireland 
+ 
+London	novella	55	France 
+ 
+London	novella	55	Calais 
+ 
+London	novella	55	Picardy 
+ 
+London	novella	55	Wales 
+ 
+London	novella	55	Stamford 
+ 
+London	novella	55	Rouen 
+ 
+Florence	floatingFrame	3	Salerno 
+ 
+Florence	floatingFrame	3	Bologna 
+ 
+Italy	novella	111	Verona 
+ 
+Italy	novella	111	Paris 
+ 
+Italy	novella	111	Genoa 
+ 
+Italy	novella	111	England 
+ 
+Italy	novella	111	Florence 
+ 
+Italy	novella	111	London 
+ 
+Italy	novella	111	Rome 
+ 
+Italy	novella	111	Tuscany 
+ 
+Italy	novella	111	Scotland 
+ 
+Italy	novella	111	Corfu 
+ 
+Italy	novella	111	Reggio 
+ 
+Italy	novella	111	Gaeta 
+ 
+Italy	novella	111	Salerno 
+ 
+Italy	novella	111	Amalfi 
+ 
+Italy	novella	111	Ravello 
+ 
+Italy	novella	111	Cyprus 
+ 
+Italy	novella	111	Constantinople 
+ 
+Italy	novella	111	Cephalonia 
+ 
+Italy	novella	111	Brindisi 
+ 
+Italy	novella	111	Trani 
+ 
+Italy	novella	111	Alexandria 
+ 
+Italy	novella	111	Alba 
+ 
+Italy	novella	111	Naples 
+ 
+Italy	novella	111	Certaldo 
+ 
+Italy	novella	111	Holy Land 
+ 
+Italy	novella	111	Nazareth 
+ 
+Italy	novella	111	Egypt 
+ 
+Italy	novella	111	Porcellana 
+ 
+Italy	novella	111	Venice 
+ 
+Italy	novella	111	Garbo 
+ 
+Italy	novella	111	Baldacca 
+ 
+Italy	novella	111	Parione 
+ 
+Italy	novella	111	Sardinia 
+ 
+Italy	novella	111	Arno 
+ 
+Italy	novella	111	Truffia 
+ 
+Italy	novella	111	Buffia 
+ 
+Italy	novella	111	Menzogna 
+ 
+Italy	novella	111	Abruzzi 
+ 
+Italy	novella	111	India 
+ 
+Italy	novella	111	Jerusalem 
+ 
+Italy	novella	111	Caprezio 
+ 
+Italy	novella	111	Spain 
+ 
+Santa Maria Novella	novella	45	Florence 
+ 
+Santa Maria Novella	novella	45	San Pancrazio 
+ 
+Santa Maria Novella	novella	45	Camerata 
+ 
+Santa Maria Novella	novella	45	Fiesole 
+ 
+Santa Maria Novella	novella	45	Porta San Piero 
+ 
+Santa Maria Novella	novella	45	Bologna 
+ 
+Santa Maria Novella	novella	45	Via del Cocomero 
+ 
+Santa Maria Novella	novella	45	San Gallo 
+ 
+Santa Maria Novella	novella	45	Legnaia 
+ 
+Santa Maria Novella	novella	45	Montesone 
+ 
+Santa Maria Novella	novella	45	Scotland 
+ 
+Santa Maria Novella	novella	45	Berlinzone 
+ 
+Santa Maria Novella	novella	45	Narsia 
+ 
+Santa Maria Novella	novella	45	Venice 
+ 
+Santa Maria Novella	novella	45	France 
+ 
+Santa Maria Novella	novella	45	England 
+ 
+Santa Maria Novella	novella	45	Peretola 
+ 
+Santa Maria Novella	novella	45	Cacavincigli 
+ 
+Santa Maria Novella	novella	45	Vallecchio 
+ 
+Santa Maria Novella	novella	45	Paris 
+ 
+Santa Maria Novella	novella	45	Civillari 
+ 
+Santa Maria Novella	novella	45	Arno 
+ 
+Santa Maria Novella	novella	45	Arezzo 
+ 
+Santa Maria Novella	novella	45	Santa Maria della Scala 
+ 
+Santa Maria Novella	novella	45	Ripoli 
+ 
+Santa Maria Novella	novella	45	Rome 
+ 
+Fiesole	novella	7	Florence 
+ 
+Fiesole	novella	7	San Pancrazio 
+ 
+Fiesole	novella	7	Santa Maria Novella 
+ 
+Fiesole	novella	7	Camerata 
+ 
+Fiesole	novella	7	Porta San Piero 
+ 
+Tuscany	novella	134	France 
+ 
+Tuscany	novella	134	Prato 
+ 
+Tuscany	novella	134	Paris 
+ 
+Tuscany	novella	134	Burgundy 
+ 
+Tuscany	novella	134	England 
+ 
+Tuscany	novella	134	Florence 
+ 
+Tuscany	novella	134	London 
+ 
+Tuscany	novella	134	Italy 
+ 
+Tuscany	novella	134	Rome 
+ 
+Tuscany	novella	134	Scotland 
+ 
+Tuscany	novella	134	Lunigiana 
+ 
+Tuscany	novella	134	Sicily 
+ 
+Tuscany	novella	134	Naples 
+ 
+Tuscany	novella	134	Benevento 
+ 
+Tuscany	novella	134	Lipari 
+ 
+Tuscany	novella	134	Ponza 
+ 
+Tuscany	novella	134	Gaeta 
+ 
+Tuscany	novella	134	Apulia 
+ 
+Tuscany	novella	134	Magra 
+ 
+Tuscany	novella	134	Genoa 
+ 
+Tuscany	novella	134	Procida 
+ 
+Tuscany	novella	134	Alexandria 
+ 
+Tuscany	novella	134	Lerici 
+ 
+Tuscany	novella	134	Palermo 
+ 
+Tuscany	novella	134	Pistoia 
+ 
+Tuscany	novella	134	Milan 
+ 
+Tuscany	novella	134	Persia 
+ 
+Tuscany	novella	134	Bologna 
+ 
+Tuscany	novella	134	Sardinia 
+ 
+Tuscany	novella	134	Roussillon 
+ 
+Tuscany	novella	134	Montpellier 
+ 
+Tuscany	novella	134	Campi 
+ 
+Tuscany	novella	134	Certaldo 
+ 
+Tuscany	novella	134	Holy Land 
+ 
+Tuscany	novella	134	Nazareth 
+ 
+Tuscany	novella	134	Egypt 
+ 
+Tuscany	novella	134	Porcellana 
+ 
+Tuscany	novella	134	Venice 
+ 
+Tuscany	novella	134	Garbo 
+ 
+Tuscany	novella	134	Baldacca 
+ 
+Tuscany	novella	134	Parione 
+ 
+Tuscany	novella	134	Arno 
+ 
+Tuscany	novella	134	Truffia 
+ 
+Tuscany	novella	134	Buffia 
+ 
+Tuscany	novella	134	Menzogna 
+ 
+Tuscany	novella	134	Abruzzi 
+ 
+Tuscany	novella	134	India 
+ 
+Tuscany	novella	134	Jerusalem 
+ 
+Tuscany	novella	134	Caprezio 
+ 
+Tuscany	novella	134	Spain 
+ 
+Paris	novella	210	France 
+ 
+Paris	novella	210	Tuscany 
+ 
+Paris	novella	210	Prato 
+ 
+Paris	novella	210	Burgundy 
+ 
+Paris	novella	210	Rome 
+ 
+Paris	novella	210	Notre Dame 
+ 
+Paris	novella	210	Italy 
+ 
+Paris	novella	210	Verona 
+ 
+Paris	novella	210	England 
+ 
+Paris	novella	210	Florence 
+ 
+Paris	novella	210	London 
+ 
+Paris	novella	210	Scotland 
+ 
+Paris	novella	210	Ireland 
+ 
+Paris	novella	210	Calais 
+ 
+Paris	novella	210	Picardy 
+ 
+Paris	novella	210	Wales 
+ 
+Paris	novella	210	Stamford 
+ 
+Paris	novella	210	Rouen 
+ 
+Paris	novella	210	Genoa 
+ 
+Paris	novella	210	Alexandria 
+ 
+Paris	novella	210	Alba 
+ 
+Paris	novella	210	San Pancrazio 
+ 
+Paris	novella	210	Naples 
+ 
+Paris	novella	210	Roussillon 
+ 
+Paris	novella	210	Montpellier 
+ 
+Paris	novella	210	Bologna 
+ 
+Paris	novella	210	Holy Sepulchre 
+ 
+Paris	novella	210	India 
+ 
+Paris	novella	210	Santa Lucia of Prato 
+ 
+Paris	novella	210	Arno 
+ 
+Paris	novella	210	Via del Cocomero 
+ 
+Paris	novella	210	San Gallo 
+ 
+Paris	novella	210	Legnaia 
+ 
+Paris	novella	210	Montesone 
+ 
+Paris	novella	210	Berlinzone 
+ 
+Paris	novella	210	Narsia 
+ 
+Paris	novella	210	Venice 
+ 
+Paris	novella	210	Peretola 
+ 
+Paris	novella	210	Cacavincigli 
+ 
+Paris	novella	210	Vallecchio 
+ 
+Paris	novella	210	Civillari 
+ 
+Paris	novella	210	Arezzo 
+ 
+Paris	novella	210	Santa Maria Novella 
+ 
+Paris	novella	210	Santa Maria della Scala 
+ 
+Paris	novella	210	Ripoli 
+ 
+Paris	novella	210	Pavia 
+ 
+Paris	novella	210	Holy Land 
+ 
+Paris	novella	210	Babylon 
+ 
+Paris	novella	210	Egypt 
+ 
+Paris	novella	210	Lombardy 
+ 
+Paris	novella	210	Milan 
+ 
+Paris	novella	210	Ticino 
+ 
+Paris	novella	210	Cyprus 
+ 
+Paris	novella	210	Provence 
+ 
+Paris	novella	210	Crete 
+ 
+Paris	novella	210	Sicily 
+ 
+Paris	novella	210	San Piero in Ciel d'Oro 
+ 
+Burgundy	novella	7	France 
+ 
+Burgundy	novella	7	Tuscany 
+ 
+Burgundy	novella	7	Prato 
+ 
+Burgundy	novella	7	Paris 
+ 
+Rome	novella	94	Paris 
+ 
+Rome	novella	94	Notre Dame 
+ 
+Rome	novella	94	England 
+ 
+Rome	novella	94	Florence 
+ 
+Rome	novella	94	London 
+ 
+Rome	novella	94	Italy 
+ 
+Rome	novella	94	Tuscany 
+ 
+Rome	novella	94	Scotland 
+ 
+Rome	novella	94	Avignon 
+ 
+Rome	novella	94	Sicily 
+ 
+Rome	novella	94	Trapani 
+ 
+Rome	novella	94	Armenia 
+ 
+Rome	novella	94	Bologna 
+ 
+Rome	novella	94	Via del Cocomero 
+ 
+Rome	novella	94	San Gallo 
+ 
+Rome	novella	94	Legnaia 
+ 
+Rome	novella	94	Montesone 
+ 
+Rome	novella	94	Berlinzone 
+ 
+Rome	novella	94	Narsia 
+ 
+Rome	novella	94	Venice 
+ 
+Rome	novella	94	France 
+ 
+Rome	novella	94	Peretola 
+ 
+Rome	novella	94	Cacavincigli 
+ 
+Rome	novella	94	Vallecchio 
+ 
+Rome	novella	94	Civillari 
+ 
+Rome	novella	94	Arno 
+ 
+Rome	novella	94	Arezzo 
+ 
+Rome	novella	94	Santa Maria Novella 
+ 
+Rome	novella	94	Santa Maria della Scala 
+ 
+Rome	novella	94	Ripoli 
+ 
+Rome	novella	94	Siena 
+ 
+Rome	novella	94	Radicofani 
+ 
+Rome	novella	94	Corniglia 
+ 
+Rome	novella	94	Capitol 
+ 
+Rome	novella	94	Achaia 
+ 
+Rome	novella	94	Saluzzo 
+ 
+Notre Dame	novella	10	Rome 
+ 
+Notre Dame	novella	10	Paris 
+ 
+Egypt	novella	132	Alexandria 
+ 
+Egypt	novella	132	Babylon 
+ 
+Egypt	novella	132	Garbo 
+ 
+Egypt	novella	132	Granada 
+ 
+Egypt	novella	132	Sardinia 
+ 
+Egypt	novella	132	Majorca 
+ 
+Egypt	novella	132	Morea 
+ 
+Egypt	novella	132	Constantinople 
+ 
+Egypt	novella	132	Egina 
+ 
+Egypt	novella	132	Chios 
+ 
+Egypt	novella	132	Smyrna 
+ 
+Egypt	novella	132	Cappadocia 
+ 
+Egypt	novella	132	Rhodes 
+ 
+Egypt	novella	132	Cyprus 
+ 
+Egypt	novella	132	Baffa 
+ 
+Egypt	novella	132	Armenia 
+ 
+Egypt	novella	132	Famagosta 
+ 
+Egypt	novella	132	Aguamorta 
+ 
+Egypt	novella	132	Crete 
+ 
+Egypt	novella	132	France 
+ 
+Egypt	novella	132	Certaldo 
+ 
+Egypt	novella	132	Tuscany 
+ 
+Egypt	novella	132	Holy Land 
+ 
+Egypt	novella	132	Nazareth 
+ 
+Egypt	novella	132	Italy 
+ 
+Egypt	novella	132	Porcellana 
+ 
+Egypt	novella	132	Venice 
+ 
+Egypt	novella	132	Florence 
+ 
+Egypt	novella	132	Baldacca 
+ 
+Egypt	novella	132	Parione 
+ 
+Egypt	novella	132	Arno 
+ 
+Egypt	novella	132	Truffia 
+ 
+Egypt	novella	132	Buffia 
+ 
+Egypt	novella	132	Menzogna 
+ 
+Egypt	novella	132	Abruzzi 
+ 
+Egypt	novella	132	India 
+ 
+Egypt	novella	132	Jerusalem 
+ 
+Egypt	novella	132	Caprezio 
+ 
+Egypt	novella	132	Pavia 
+ 
+Egypt	novella	132	Lombardy 
+ 
+Egypt	novella	132	Milan 
+ 
+Egypt	novella	132	Ticino 
+ 
+Egypt	novella	132	Paris 
+ 
+Egypt	novella	132	Genoa 
+ 
+Egypt	novella	132	Provence 
+ 
+Egypt	novella	132	Sicily 
+ 
+Egypt	novella	132	San Piero in Ciel d'Oro 
+ 
+Alexandria	novella	150	Egypt 
+ 
+Alexandria	novella	150	Lunigiana 
+ 
+Alexandria	novella	150	Sicily 
+ 
+Alexandria	novella	150	Naples 
+ 
+Alexandria	novella	150	Benevento 
+ 
+Alexandria	novella	150	Lipari 
+ 
+Alexandria	novella	150	Ponza 
+ 
+Alexandria	novella	150	Gaeta 
+ 
+Alexandria	novella	150	Apulia 
+ 
+Alexandria	novella	150	Magra 
+ 
+Alexandria	novella	150	Tuscany 
+ 
+Alexandria	novella	150	Genoa 
+ 
+Alexandria	novella	150	Procida 
+ 
+Alexandria	novella	150	Lerici 
+ 
+Alexandria	novella	150	Palermo 
+ 
+Alexandria	novella	150	Babylon 
+ 
+Alexandria	novella	150	Garbo 
+ 
+Alexandria	novella	150	Granada 
+ 
+Alexandria	novella	150	Sardinia 
+ 
+Alexandria	novella	150	Majorca 
+ 
+Alexandria	novella	150	Morea 
+ 
+Alexandria	novella	150	Constantinople 
+ 
+Alexandria	novella	150	Egina 
+ 
+Alexandria	novella	150	Chios 
+ 
+Alexandria	novella	150	Smyrna 
+ 
+Alexandria	novella	150	Cappadocia 
+ 
+Alexandria	novella	150	Rhodes 
+ 
+Alexandria	novella	150	Cyprus 
+ 
+Alexandria	novella	150	Baffa 
+ 
+Alexandria	novella	150	Armenia 
+ 
+Alexandria	novella	150	Famagosta 
+ 
+Alexandria	novella	150	Aguamorta 
+ 
+Alexandria	novella	150	Crete 
+ 
+Alexandria	novella	150	France 
+ 
+Alexandria	novella	150	Italy 
+ 
+Alexandria	novella	150	Paris 
+ 
+Alexandria	novella	150	Alba 
+ 
+Alexandria	novella	150	Pavia 
+ 
+Alexandria	novella	150	Holy Land 
+ 
+Alexandria	novella	150	Lombardy 
+ 
+Alexandria	novella	150	Milan 
+ 
+Alexandria	novella	150	Ticino 
+ 
+Alexandria	novella	150	Provence 
+ 
+Alexandria	novella	150	San Piero in Ciel d'Oro 
+ 
+Lunigiana	novella	45	Sicily 
+ 
+Lunigiana	novella	45	Naples 
+ 
+Lunigiana	novella	45	Benevento 
+ 
+Lunigiana	novella	45	Lipari 
+ 
+Lunigiana	novella	45	Ponza 
+ 
+Lunigiana	novella	45	Gaeta 
+ 
+Lunigiana	novella	45	Apulia 
+ 
+Lunigiana	novella	45	Magra 
+ 
+Lunigiana	novella	45	Tuscany 
+ 
+Lunigiana	novella	45	Genoa 
+ 
+Lunigiana	novella	45	Procida 
+ 
+Lunigiana	novella	45	Alexandria 
+ 
+Lunigiana	novella	45	Lerici 
+ 
+Lunigiana	novella	45	Palermo 
+ 
+Lunigiana	novella	45	Florence 
+ 
+Lunigiana	novella	45	Ancona 
+ 
+Lunigiana	novella	45	Cyprus 
+ 
+Lunigiana	novella	45	Holy Sepulchre 
+ 
+Lunigiana	novella	45	Constantinople 
+ 
+Genoa	novella	124	France 
+ 
+Genoa	novella	124	Italy 
+ 
+Genoa	novella	124	Corfu 
+ 
+Genoa	novella	124	Reggio 
+ 
+Genoa	novella	124	Gaeta 
+ 
+Genoa	novella	124	Salerno 
+ 
+Genoa	novella	124	Amalfi 
+ 
+Genoa	novella	124	Ravello 
+ 
+Genoa	novella	124	Cyprus 
+ 
+Genoa	novella	124	Constantinople 
+ 
+Genoa	novella	124	Cephalonia 
+ 
+Genoa	novella	124	Brindisi 
+ 
+Genoa	novella	124	Trani 
+ 
+Genoa	novella	124	Lunigiana 
+ 
+Genoa	novella	124	Sicily 
+ 
+Genoa	novella	124	Naples 
+ 
+Genoa	novella	124	Benevento 
+ 
+Genoa	novella	124	Lipari 
+ 
+Genoa	novella	124	Ponza 
+ 
+Genoa	novella	124	Apulia 
+ 
+Genoa	novella	124	Magra 
+ 
+Genoa	novella	124	Tuscany 
+ 
+Genoa	novella	124	Procida 
+ 
+Genoa	novella	124	Alexandria 
+ 
+Genoa	novella	124	Lerici 
+ 
+Genoa	novella	124	Palermo 
+ 
+Genoa	novella	124	Paris 
+ 
+Genoa	novella	124	Alba 
+ 
+Genoa	novella	124	Crete 
+ 
+Genoa	novella	124	Rhodes 
+ 
+Genoa	novella	124	Marseilles 
+ 
+Genoa	novella	124	Provence 
+ 
+Genoa	novella	124	Spain 
+ 
+Genoa	novella	124	Candia 
+ 
+Genoa	novella	124	Prato 
+ 
+Genoa	novella	124	Milan 
+ 
+Genoa	novella	124	Pavia 
+ 
+Genoa	novella	124	Holy Land 
+ 
+Genoa	novella	124	Babylon 
+ 
+Genoa	novella	124	Egypt 
+ 
+Genoa	novella	124	Lombardy 
+ 
+Genoa	novella	124	Ticino 
+ 
+Genoa	novella	124	San Piero in Ciel d'Oro 
+ 
+Santa Croce	novella	1	France 
+ 
+Verona	novella	13	Italy 
+ 
+Verona	novella	13	Paris 
+ 
+Verona	novella	13	Castel Guglielmo 
+ 
+Verona	novella	13	Ferrara 
+ 
+Verona	novella	13	Bologna 
+ 
+Cyprus	novella	155	Holy Land 
+ 
+Cyprus	novella	155	Gascony 
+ 
+Cyprus	novella	155	Holy Sepulchre 
+ 
+Cyprus	novella	155	Corfu 
+ 
+Cyprus	novella	155	Italy 
+ 
+Cyprus	novella	155	Reggio 
+ 
+Cyprus	novella	155	Gaeta 
+ 
+Cyprus	novella	155	Salerno 
+ 
+Cyprus	novella	155	Amalfi 
+ 
+Cyprus	novella	155	Ravello 
+ 
+Cyprus	novella	155	Genoa 
+ 
+Cyprus	novella	155	Constantinople 
+ 
+Cyprus	novella	155	Cephalonia 
+ 
+Cyprus	novella	155	Brindisi 
+ 
+Cyprus	novella	155	Trani 
+ 
+Cyprus	novella	155	Babylon 
+ 
+Cyprus	novella	155	Egypt 
+ 
+Cyprus	novella	155	Garbo 
+ 
+Cyprus	novella	155	Granada 
+ 
+Cyprus	novella	155	Alexandria 
+ 
+Cyprus	novella	155	Sardinia 
+ 
+Cyprus	novella	155	Majorca 
+ 
+Cyprus	novella	155	Morea 
+ 
+Cyprus	novella	155	Egina 
+ 
+Cyprus	novella	155	Chios 
+ 
+Cyprus	novella	155	Smyrna 
+ 
+Cyprus	novella	155	Cappadocia 
+ 
+Cyprus	novella	155	Rhodes 
+ 
+Cyprus	novella	155	Baffa 
+ 
+Cyprus	novella	155	Armenia 
+ 
+Cyprus	novella	155	Famagosta 
+ 
+Cyprus	novella	155	Aguamorta 
+ 
+Cyprus	novella	155	Crete 
+ 
+Cyprus	novella	155	France 
+ 
+Cyprus	novella	155	Florence 
+ 
+Cyprus	novella	155	Ancona 
+ 
+Cyprus	novella	155	Lunigiana 
+ 
+Cyprus	novella	155	Palermo 
+ 
+Cyprus	novella	155	Sicily 
+ 
+Cyprus	novella	155	Messina 
+ 
+Cyprus	novella	155	Pisa 
+ 
+Cyprus	novella	155	Naples 
+ 
+Cyprus	novella	155	Monaco 
+ 
+Cyprus	novella	155	Ferrara 
+ 
+Cyprus	novella	155	Pavia 
+ 
+Cyprus	novella	155	Lombardy 
+ 
+Cyprus	novella	155	Milan 
+ 
+Cyprus	novella	155	Ticino 
+ 
+Cyprus	novella	155	Paris 
+ 
+Cyprus	novella	155	Provence 
+ 
+Cyprus	novella	155	San Piero in Ciel d'Oro 
+ 
+Holy Land	novella	80	Cyprus 
+ 
+Holy Land	novella	80	Gascony 
+ 
+Holy Land	novella	80	Holy Sepulchre 
+ 
+Holy Land	novella	80	Certaldo 
+ 
+Holy Land	novella	80	Tuscany 
+ 
+Holy Land	novella	80	Nazareth 
+ 
+Holy Land	novella	80	Egypt 
+ 
+Holy Land	novella	80	Italy 
+ 
+Holy Land	novella	80	Porcellana 
+ 
+Holy Land	novella	80	Venice 
+ 
+Holy Land	novella	80	Florence 
+ 
+Holy Land	novella	80	Garbo 
+ 
+Holy Land	novella	80	Baldacca 
+ 
+Holy Land	novella	80	Parione 
+ 
+Holy Land	novella	80	Sardinia 
+ 
+Holy Land	novella	80	Arno 
+ 
+Holy Land	novella	80	Truffia 
+ 
+Holy Land	novella	80	Buffia 
+ 
+Holy Land	novella	80	Menzogna 
+ 
+Holy Land	novella	80	Abruzzi 
+ 
+Holy Land	novella	80	India 
+ 
+Holy Land	novella	80	Jerusalem 
+ 
+Holy Land	novella	80	Caprezio 
+ 
+Holy Land	novella	80	Pavia 
+ 
+Holy Land	novella	80	Babylon 
+ 
+Holy Land	novella	80	Lombardy 
+ 
+Holy Land	novella	80	Milan 
+ 
+Holy Land	novella	80	Ticino 
+ 
+Holy Land	novella	80	Paris 
+ 
+Holy Land	novella	80	Alexandria 
+ 
+Holy Land	novella	80	Genoa 
+ 
+Holy Land	novella	80	Provence 
+ 
+Holy Land	novella	80	Crete 
+ 
+Holy Land	novella	80	Sicily 
+ 
+Holy Land	novella	80	San Piero in Ciel d'Oro 
+ 
+Holy Land	novella	80	France 
+ 
+Gascony	novella	5	Cyprus 
+ 
+Gascony	novella	5	Holy Land 
+ 
+Gascony	novella	5	Holy Sepulchre 
+ 
+Holy Sepulchre	novella	30	Cyprus 
+ 
+Holy Sepulchre	novella	30	Holy Land 
+ 
+Holy Sepulchre	novella	30	Gascony 
+ 
+Holy Sepulchre	novella	30	Florence 
+ 
+Holy Sepulchre	novella	30	Ancona 
+ 
+Holy Sepulchre	novella	30	Constantinople 
+ 
+Holy Sepulchre	novella	30	Lunigiana 
+ 
+Holy Sepulchre	novella	30	Paris 
+ 
+Holy Sepulchre	novella	30	France 
+ 
+Holy Sepulchre	novella	30	England 
+ 
+Holy Sepulchre	novella	30	Bologna 
+ 
+Bologna	floatingFrame	1	Florence 
+ 
+Castel Guglielmo	novella	4	Ferrara 
+ 
+Castel Guglielmo	novella	4	Bologna 
+ 
+Castel Guglielmo	novella	4	Verona 
+ 
+Ferrara	novella	27	Castel Guglielmo 
+ 
+Ferrara	novella	27	Bologna 
+ 
+Ferrara	novella	27	Verona 
+ 
+Ferrara	novella	27	Palermo 
+ 
+Ferrara	novella	27	Sicily 
+ 
+Ferrara	novella	27	Salerno 
+ 
+Ferrara	novella	27	Cyprus 
+ 
+Ferrara	novella	27	Messina 
+ 
+Ferrara	novella	27	Pisa 
+ 
+Ferrara	novella	27	Naples 
+ 
+Ferrara	novella	27	Constantinople 
+ 
+Ferrara	novella	27	Florence 
+ 
+Ferrara	novella	27	Monaco 
+ 
+England	novella	89	Florence 
+ 
+England	novella	89	London 
+ 
+England	novella	89	Italy 
+ 
+England	novella	89	Rome 
+ 
+England	novella	89	Tuscany 
+ 
+England	novella	89	Scotland 
+ 
+England	novella	89	Paris 
+ 
+England	novella	89	Ireland 
+ 
+England	novella	89	France 
+ 
+England	novella	89	Calais 
+ 
+England	novella	89	Picardy 
+ 
+England	novella	89	Wales 
+ 
+England	novella	89	Stamford 
+ 
+England	novella	89	Rouen 
+ 
+England	novella	89	Bologna 
+ 
+England	novella	89	Holy Sepulchre 
+ 
+England	novella	89	Via del Cocomero 
+ 
+England	novella	89	San Gallo 
+ 
+England	novella	89	Legnaia 
+ 
+England	novella	89	Montesone 
+ 
+England	novella	89	Berlinzone 
+ 
+England	novella	89	Narsia 
+ 
+England	novella	89	Venice 
+ 
+England	novella	89	Peretola 
+ 
+England	novella	89	Cacavincigli 
+ 
+England	novella	89	Vallecchio 
+ 
+England	novella	89	Civillari 
+ 
+England	novella	89	Arno 
+ 
+England	novella	89	Arezzo 
+ 
+England	novella	89	Santa Maria Novella 
+ 
+England	novella	89	Santa Maria della Scala 
+ 
+England	novella	89	Ripoli 
+ 
+Scotland	novella	60	England 
+ 
+Scotland	novella	60	Florence 
+ 
+Scotland	novella	60	London 
+ 
+Scotland	novella	60	Italy 
+ 
+Scotland	novella	60	Rome 
+ 
+Scotland	novella	60	Tuscany 
+ 
+Scotland	novella	60	Paris 
+ 
+Scotland	novella	60	Bologna 
+ 
+Scotland	novella	60	Via del Cocomero 
+ 
+Scotland	novella	60	San Gallo 
+ 
+Scotland	novella	60	Legnaia 
+ 
+Scotland	novella	60	Montesone 
+ 
+Scotland	novella	60	Berlinzone 
+ 
+Scotland	novella	60	Narsia 
+ 
+Scotland	novella	60	Venice 
+ 
+Scotland	novella	60	France 
+ 
+Scotland	novella	60	Peretola 
+ 
+Scotland	novella	60	Cacavincigli 
+ 
+Scotland	novella	60	Vallecchio 
+ 
+Scotland	novella	60	Civillari 
+ 
+Scotland	novella	60	Arno 
+ 
+Scotland	novella	60	Arezzo 
+ 
+Scotland	novella	60	Santa Maria Novella 
+ 
+Scotland	novella	60	Santa Maria della Scala 
+ 
+Scotland	novella	60	Ripoli 
+ 
+Corfu	novella	15	Italy 
+ 
+Corfu	novella	15	Reggio 
+ 
+Corfu	novella	15	Gaeta 
+ 
+Corfu	novella	15	Salerno 
+ 
+Corfu	novella	15	Amalfi 
+ 
+Corfu	novella	15	Ravello 
+ 
+Corfu	novella	15	Cyprus 
+ 
+Corfu	novella	15	Genoa 
+ 
+Corfu	novella	15	Constantinople 
+ 
+Corfu	novella	15	Cephalonia 
+ 
+Corfu	novella	15	Brindisi 
+ 
+Corfu	novella	15	Trani 
+ 
+Reggio	novella	17	Corfu 
+ 
+Reggio	novella	17	Italy 
+ 
+Reggio	novella	17	Gaeta 
+ 
+Reggio	novella	17	Salerno 
+ 
+Reggio	novella	17	Amalfi 
+ 
+Reggio	novella	17	Ravello 
+ 
+Reggio	novella	17	Cyprus 
+ 
+Reggio	novella	17	Genoa 
+ 
+Reggio	novella	17	Constantinople 
+ 
+Reggio	novella	17	Cephalonia 
+ 
+Reggio	novella	17	Brindisi 
+ 
+Reggio	novella	17	Trani 
+ 
+Gaeta	novella	50	Corfu 
+ 
+Gaeta	novella	50	Italy 
+ 
+Gaeta	novella	50	Reggio 
+ 
+Gaeta	novella	50	Salerno 
+ 
+Gaeta	novella	50	Amalfi 
+ 
+Gaeta	novella	50	Ravello 
+ 
+Gaeta	novella	50	Cyprus 
+ 
+Gaeta	novella	50	Genoa 
+ 
+Gaeta	novella	50	Constantinople 
+ 
+Gaeta	novella	50	Cephalonia 
+ 
+Gaeta	novella	50	Brindisi 
+ 
+Gaeta	novella	50	Trani 
+ 
+Gaeta	novella	50	Lunigiana 
+ 
+Gaeta	novella	50	Sicily 
+ 
+Gaeta	novella	50	Naples 
+ 
+Gaeta	novella	50	Benevento 
+ 
+Gaeta	novella	50	Lipari 
+ 
+Gaeta	novella	50	Ponza 
+ 
+Gaeta	novella	50	Apulia 
+ 
+Gaeta	novella	50	Magra 
+ 
+Gaeta	novella	50	Tuscany 
+ 
+Gaeta	novella	50	Procida 
+ 
+Gaeta	novella	50	Alexandria 
+ 
+Gaeta	novella	50	Lerici 
+ 
+Gaeta	novella	50	Palermo 
+ 
+Salerno	novella	47	Corfu 
+ 
+Salerno	novella	47	Italy 
+ 
+Salerno	novella	47	Reggio 
+ 
+Salerno	novella	47	Gaeta 
+ 
+Salerno	novella	47	Amalfi 
+ 
+Salerno	novella	47	Ravello 
+ 
+Salerno	novella	47	Cyprus 
+ 
+Salerno	novella	47	Genoa 
+ 
+Salerno	novella	47	Constantinople 
+ 
+Salerno	novella	47	Cephalonia 
+ 
+Salerno	novella	47	Brindisi 
+ 
+Salerno	novella	47	Trani 
+ 
+Salerno	novella	47	Capua 
+ 
+Salerno	novella	47	Messina 
+ 
+Salerno	novella	47	San Gimignano 
+ 
+Salerno	novella	47	Naples 
+ 
+Salerno	novella	47	Florence 
+ 
+Salerno	novella	47	Palermo 
+ 
+Salerno	novella	47	Sicily 
+ 
+Salerno	novella	47	Pisa 
+ 
+Salerno	novella	47	Monaco 
+ 
+Salerno	novella	47	Ferrara 
+ 
+Amalfi	novella	21	Corfu 
+ 
+Amalfi	novella	21	Italy 
+ 
+Amalfi	novella	21	Reggio 
+ 
+Amalfi	novella	21	Gaeta 
+ 
+Amalfi	novella	21	Salerno 
+ 
+Amalfi	novella	21	Ravello 
+ 
+Amalfi	novella	21	Cyprus 
+ 
+Amalfi	novella	21	Genoa 
+ 
+Amalfi	novella	21	Constantinople 
+ 
+Amalfi	novella	21	Cephalonia 
+ 
+Amalfi	novella	21	Brindisi 
+ 
+Amalfi	novella	21	Trani 
+ 
+Ravello	novella	15	Corfu 
+ 
+Ravello	novella	15	Italy 
+ 
+Ravello	novella	15	Reggio 
+ 
+Ravello	novella	15	Gaeta 
+ 
+Ravello	novella	15	Salerno 
+ 
+Ravello	novella	15	Amalfi 
+ 
+Ravello	novella	15	Cyprus 
+ 
+Ravello	novella	15	Genoa 
+ 
+Ravello	novella	15	Constantinople 
+ 
+Ravello	novella	15	Cephalonia 
+ 
+Ravello	novella	15	Brindisi 
+ 
+Ravello	novella	15	Trani 
+ 
+Constantinople	novella	105	Corfu 
+ 
+Constantinople	novella	105	Italy 
+ 
+Constantinople	novella	105	Reggio 
+ 
+Constantinople	novella	105	Gaeta 
+ 
+Constantinople	novella	105	Salerno 
+ 
+Constantinople	novella	105	Amalfi 
+ 
+Constantinople	novella	105	Ravello 
+ 
+Constantinople	novella	105	Cyprus 
+ 
+Constantinople	novella	105	Genoa 
+ 
+Constantinople	novella	105	Cephalonia 
+ 
+Constantinople	novella	105	Brindisi 
+ 
+Constantinople	novella	105	Trani 
+ 
+Constantinople	novella	105	Babylon 
+ 
+Constantinople	novella	105	Egypt 
+ 
+Constantinople	novella	105	Garbo 
+ 
+Constantinople	novella	105	Granada 
+ 
+Constantinople	novella	105	Alexandria 
+ 
+Constantinople	novella	105	Sardinia 
+ 
+Constantinople	novella	105	Majorca 
+ 
+Constantinople	novella	105	Morea 
+ 
+Constantinople	novella	105	Egina 
+ 
+Constantinople	novella	105	Chios 
+ 
+Constantinople	novella	105	Smyrna 
+ 
+Constantinople	novella	105	Cappadocia 
+ 
+Constantinople	novella	105	Rhodes 
+ 
+Constantinople	novella	105	Baffa 
+ 
+Constantinople	novella	105	Armenia 
+ 
+Constantinople	novella	105	Famagosta 
+ 
+Constantinople	novella	105	Aguamorta 
+ 
+Constantinople	novella	105	Crete 
+ 
+Constantinople	novella	105	France 
+ 
+Constantinople	novella	105	Florence 
+ 
+Constantinople	novella	105	Ancona 
+ 
+Constantinople	novella	105	Holy Sepulchre 
+ 
+Constantinople	novella	105	Lunigiana 
+ 
+Constantinople	novella	105	Palermo 
+ 
+Constantinople	novella	105	Sicily 
+ 
+Constantinople	novella	105	Messina 
+ 
+Constantinople	novella	105	Pisa 
+ 
+Constantinople	novella	105	Naples 
+ 
+Constantinople	novella	105	Monaco 
+ 
+Constantinople	novella	105	Ferrara 
+ 
+Cephalonia	novella	17	Corfu 
+ 
+Cephalonia	novella	17	Italy 
+ 
+Cephalonia	novella	17	Reggio 
+ 
+Cephalonia	novella	17	Gaeta 
+ 
+Cephalonia	novella	17	Salerno 
+ 
+Cephalonia	novella	17	Amalfi 
+ 
+Cephalonia	novella	17	Ravello 
+ 
+Cephalonia	novella	17	Cyprus 
+ 
+Cephalonia	novella	17	Genoa 
+ 
+Cephalonia	novella	17	Constantinople 
+ 
+Cephalonia	novella	17	Brindisi 
+ 
+Cephalonia	novella	17	Trani 
+ 
+Brindisi	novella	17	Corfu 
+ 
+Brindisi	novella	17	Italy 
+ 
+Brindisi	novella	17	Reggio 
+ 
+Brindisi	novella	17	Gaeta 
+ 
+Brindisi	novella	17	Salerno 
+ 
+Brindisi	novella	17	Amalfi 
+ 
+Brindisi	novella	17	Ravello 
+ 
+Brindisi	novella	17	Cyprus 
+ 
+Brindisi	novella	17	Genoa 
+ 
+Brindisi	novella	17	Constantinople 
+ 
+Brindisi	novella	17	Cephalonia 
+ 
+Brindisi	novella	17	Trani 
+ 
+Trani	novella	16	Corfu 
+ 
+Trani	novella	16	Italy 
+ 
+Trani	novella	16	Reggio 
+ 
+Trani	novella	16	Gaeta 
+ 
+Trani	novella	16	Salerno 
+ 
+Trani	novella	16	Amalfi 
+ 
+Trani	novella	16	Ravello 
+ 
+Trani	novella	16	Cyprus 
+ 
+Trani	novella	16	Genoa 
+ 
+Trani	novella	16	Constantinople 
+ 
+Trani	novella	16	Cephalonia 
+ 
+Trani	novella	16	Brindisi 
+ 
+Perugia	novella	22	Naples 
+ 
+Perugia	novella	22	Sicily 
+ 
+Perugia	novella	22	Palermo 
+ 
+Perugia	novella	22	Girgenti 
+ 
+Perugia	novella	22	Ruga Catalana 
+ 
+Sicily	novella	202	Perugia 
+ 
+Sicily	novella	202	Naples 
+ 
+Sicily	novella	202	Palermo 
+ 
+Sicily	novella	202	Girgenti 
+ 
+Sicily	novella	202	Ruga Catalana 
+ 
+Sicily	novella	202	Lunigiana 
+ 
+Sicily	novella	202	Benevento 
+ 
+Sicily	novella	202	Lipari 
+ 
+Sicily	novella	202	Ponza 
+ 
+Sicily	novella	202	Gaeta 
+ 
+Sicily	novella	202	Apulia 
+ 
+Sicily	novella	202	Magra 
+ 
+Sicily	novella	202	Tuscany 
+ 
+Sicily	novella	202	Genoa 
+ 
+Sicily	novella	202	Procida 
+ 
+Sicily	novella	202	Alexandria 
+ 
+Sicily	novella	202	Lerici 
+ 
+Sicily	novella	202	Tunis 
+ 
+Sicily	novella	202	Granada 
+ 
+Sicily	novella	202	Carthage 
+ 
+Sicily	novella	202	Messina 
+ 
+Sicily	novella	202	Sardinia 
+ 
+Sicily	novella	202	Ustica 
+ 
+Sicily	novella	202	Trapani 
+ 
+Sicily	novella	202	Susa 
+ 
+Sicily	novella	202	Ischia 
+ 
+Sicily	novella	202	Calabria 
+ 
+Sicily	novella	202	Cuba 
+ 
+Sicily	novella	202	Minerva 
+ 
+Sicily	novella	202	Scalea in Calabria 
+ 
+Sicily	novella	202	Scalea 
+ 
+Sicily	novella	202	Armenia 
+ 
+Sicily	novella	202	Rome 
+ 
+Sicily	novella	202	Salerno 
+ 
+Sicily	novella	202	Cyprus 
+ 
+Sicily	novella	202	Pisa 
+ 
+Sicily	novella	202	Constantinople 
+ 
+Sicily	novella	202	Florence 
+ 
+Sicily	novella	202	Monaco 
+ 
+Sicily	novella	202	Ferrara 
+ 
+Sicily	novella	202	Arezzo 
+ 
+Sicily	novella	202	Siena 
+ 
+Sicily	novella	202	Calatabellotta 
+ 
+Sicily	novella	202	Pavia 
+ 
+Sicily	novella	202	Holy Land 
+ 
+Sicily	novella	202	Babylon 
+ 
+Sicily	novella	202	Egypt 
+ 
+Sicily	novella	202	Lombardy 
+ 
+Sicily	novella	202	Milan 
+ 
+Sicily	novella	202	Ticino 
+ 
+Sicily	novella	202	Paris 
+ 
+Sicily	novella	202	Provence 
+ 
+Sicily	novella	202	Crete 
+ 
+Sicily	novella	202	San Piero in Ciel d'Oro 
+ 
+Sicily	novella	202	France 
+ 
+Palermo	novella	122	Perugia 
+ 
+Palermo	novella	122	Naples 
+ 
+Palermo	novella	122	Sicily 
+ 
+Palermo	novella	122	Girgenti 
+ 
+Palermo	novella	122	Ruga Catalana 
+ 
+Palermo	novella	122	Lunigiana 
+ 
+Palermo	novella	122	Benevento 
+ 
+Palermo	novella	122	Lipari 
+ 
+Palermo	novella	122	Ponza 
+ 
+Palermo	novella	122	Gaeta 
+ 
+Palermo	novella	122	Apulia 
+ 
+Palermo	novella	122	Magra 
+ 
+Palermo	novella	122	Tuscany 
+ 
+Palermo	novella	122	Genoa 
+ 
+Palermo	novella	122	Procida 
+ 
+Palermo	novella	122	Alexandria 
+ 
+Palermo	novella	122	Lerici 
+ 
+Palermo	novella	122	Tunis 
+ 
+Palermo	novella	122	Granada 
+ 
+Palermo	novella	122	Carthage 
+ 
+Palermo	novella	122	Messina 
+ 
+Palermo	novella	122	Sardinia 
+ 
+Palermo	novella	122	Ustica 
+ 
+Palermo	novella	122	Trapani 
+ 
+Palermo	novella	122	Ischia 
+ 
+Palermo	novella	122	Calabria 
+ 
+Palermo	novella	122	Cuba 
+ 
+Palermo	novella	122	Minerva 
+ 
+Palermo	novella	122	Scalea in Calabria 
+ 
+Palermo	novella	122	Scalea 
+ 
+Palermo	novella	122	Salerno 
+ 
+Palermo	novella	122	Cyprus 
+ 
+Palermo	novella	122	Pisa 
+ 
+Palermo	novella	122	Constantinople 
+ 
+Palermo	novella	122	Florence 
+ 
+Palermo	novella	122	Monaco 
+ 
+Palermo	novella	122	Ferrara 
+ 
+Palermo	novella	122	Arezzo 
+ 
+Palermo	novella	122	Siena 
+ 
+Palermo	novella	122	Calatabellotta 
+ 
+Girgenti	novella	28	Perugia 
+ 
+Girgenti	novella	28	Naples 
+ 
+Girgenti	novella	28	Sicily 
+ 
+Girgenti	novella	28	Palermo 
+ 
+Girgenti	novella	28	Ruga Catalana 
+ 
+Ruga Catalana	novella	28	Perugia 
+ 
+Ruga Catalana	novella	28	Naples 
+ 
+Ruga Catalana	novella	28	Sicily 
+ 
+Ruga Catalana	novella	28	Palermo 
+ 
+Ruga Catalana	novella	28	Girgenti 
+ 
+Benevento	novella	33	Lunigiana 
+ 
+Benevento	novella	33	Sicily 
+ 
+Benevento	novella	33	Naples 
+ 
+Benevento	novella	33	Lipari 
+ 
+Benevento	novella	33	Ponza 
+ 
+Benevento	novella	33	Gaeta 
+ 
+Benevento	novella	33	Apulia 
+ 
+Benevento	novella	33	Magra 
+ 
+Benevento	novella	33	Tuscany 
+ 
+Benevento	novella	33	Genoa 
+ 
+Benevento	novella	33	Procida 
+ 
+Benevento	novella	33	Alexandria 
+ 
+Benevento	novella	33	Lerici 
+ 
+Benevento	novella	33	Palermo 
+ 
+Lipari	novella	50	Lunigiana 
+ 
+Lipari	novella	50	Sicily 
+ 
+Lipari	novella	50	Naples 
+ 
+Lipari	novella	50	Benevento 
+ 
+Lipari	novella	50	Ponza 
+ 
+Lipari	novella	50	Gaeta 
+ 
+Lipari	novella	50	Apulia 
+ 
+Lipari	novella	50	Magra 
+ 
+Lipari	novella	50	Tuscany 
+ 
+Lipari	novella	50	Genoa 
+ 
+Lipari	novella	50	Procida 
+ 
+Lipari	novella	50	Alexandria 
+ 
+Lipari	novella	50	Lerici 
+ 
+Lipari	novella	50	Palermo 
+ 
+Lipari	novella	50	Susa 
+ 
+Lipari	novella	50	Tunis 
+ 
+Lipari	novella	50	Trapani 
+ 
+Lipari	novella	50	Granada 
+ 
+Ponza	novella	32	Lunigiana 
+ 
+Ponza	novella	32	Sicily 
+ 
+Ponza	novella	32	Naples 
+ 
+Ponza	novella	32	Benevento 
+ 
+Ponza	novella	32	Lipari 
+ 
+Ponza	novella	32	Gaeta 
+ 
+Ponza	novella	32	Apulia 
+ 
+Ponza	novella	32	Magra 
+ 
+Ponza	novella	32	Tuscany 
+ 
+Ponza	novella	32	Genoa 
+ 
+Ponza	novella	32	Procida 
+ 
+Ponza	novella	32	Alexandria 
+ 
+Ponza	novella	32	Lerici 
+ 
+Ponza	novella	32	Palermo 
+ 
+Apulia	novella	45	Lunigiana 
+ 
+Apulia	novella	45	Sicily 
+ 
+Apulia	novella	45	Naples 
+ 
+Apulia	novella	45	Benevento 
+ 
+Apulia	novella	45	Lipari 
+ 
+Apulia	novella	45	Ponza 
+ 
+Apulia	novella	45	Gaeta 
+ 
+Apulia	novella	45	Magra 
+ 
+Apulia	novella	45	Tuscany 
+ 
+Apulia	novella	45	Genoa 
+ 
+Apulia	novella	45	Procida 
+ 
+Apulia	novella	45	Alexandria 
+ 
+Apulia	novella	45	Lerici 
+ 
+Apulia	novella	45	Palermo 
+ 
+Apulia	novella	45	Barletta 
+ 
+Apulia	novella	45	Tresanti 
+ 
+Apulia	novella	45	Bitonto 
+ 
+Apulia	novella	45	Florence 
+ 
+Apulia	novella	45	Castello
+ da Mare di Stabia 
+ 
+Magra	novella	33	Lunigiana 
+ 
+Magra	novella	33	Sicily 
+ 
+Magra	novella	33	Naples 
+ 
+Magra	novella	33	Benevento 
+ 
+Magra	novella	33	Lipari 
+ 
+Magra	novella	33	Ponza 
+ 
+Magra	novella	33	Gaeta 
+ 
+Magra	novella	33	Apulia 
+ 
+Magra	novella	33	Tuscany 
+ 
+Magra	novella	33	Genoa 
+ 
+Magra	novella	33	Procida 
+ 
+Magra	novella	33	Alexandria 
+ 
+Magra	novella	33	Lerici 
+ 
+Magra	novella	33	Palermo 
+ 
+Procida	novella	55	Lunigiana 
+ 
+Procida	novella	55	Sicily 
+ 
+Procida	novella	55	Naples 
+ 
+Procida	novella	55	Benevento 
+ 
+Procida	novella	55	Lipari 
+ 
+Procida	novella	55	Ponza 
+ 
+Procida	novella	55	Gaeta 
+ 
+Procida	novella	55	Apulia 
+ 
+Procida	novella	55	Magra 
+ 
+Procida	novella	55	Tuscany 
+ 
+Procida	novella	55	Genoa 
+ 
+Procida	novella	55	Alexandria 
+ 
+Procida	novella	55	Lerici 
+ 
+Procida	novella	55	Palermo 
+ 
+Procida	novella	55	Ischia 
+ 
+Procida	novella	55	Calabria 
+ 
+Procida	novella	55	Cuba 
+ 
+Procida	novella	55	Minerva 
+ 
+Procida	novella	55	Scalea in Calabria 
+ 
+Procida	novella	55	Scalea 
+ 
+Lerici	novella	33	Lunigiana 
+ 
+Lerici	novella	33	Sicily 
+ 
+Lerici	novella	33	Naples 
+ 
+Lerici	novella	33	Benevento 
+ 
+Lerici	novella	33	Lipari 
+ 
+Lerici	novella	33	Ponza 
+ 
+Lerici	novella	33	Gaeta 
+ 
+Lerici	novella	33	Apulia 
+ 
+Lerici	novella	33	Magra 
+ 
+Lerici	novella	33	Tuscany 
+ 
+Lerici	novella	33	Genoa 
+ 
+Lerici	novella	33	Procida 
+ 
+Lerici	novella	33	Alexandria 
+ 
+Lerici	novella	33	Palermo 
+ 
+Babylon	novella	100	Egypt 
+ 
+Babylon	novella	100	Garbo 
+ 
+Babylon	novella	100	Granada 
+ 
+Babylon	novella	100	Alexandria 
+ 
+Babylon	novella	100	Sardinia 
+ 
+Babylon	novella	100	Majorca 
+ 
+Babylon	novella	100	Morea 
+ 
+Babylon	novella	100	Constantinople 
+ 
+Babylon	novella	100	Egina 
+ 
+Babylon	novella	100	Chios 
+ 
+Babylon	novella	100	Smyrna 
+ 
+Babylon	novella	100	Cappadocia 
+ 
+Babylon	novella	100	Rhodes 
+ 
+Babylon	novella	100	Cyprus 
+ 
+Babylon	novella	100	Baffa 
+ 
+Babylon	novella	100	Armenia 
+ 
+Babylon	novella	100	Famagosta 
+ 
+Babylon	novella	100	Aguamorta 
+ 
+Babylon	novella	100	Crete 
+ 
+Babylon	novella	100	France 
+ 
+Babylon	novella	100	Pavia 
+ 
+Babylon	novella	100	Holy Land 
+ 
+Babylon	novella	100	Lombardy 
+ 
+Babylon	novella	100	Milan 
+ 
+Babylon	novella	100	Ticino 
+ 
+Babylon	novella	100	Paris 
+ 
+Babylon	novella	100	Genoa 
+ 
+Babylon	novella	100	Provence 
+ 
+Babylon	novella	100	Sicily 
+ 
+Babylon	novella	100	San Piero in Ciel d'Oro 
+ 
+Garbo	novella	86	Babylon 
+ 
+Garbo	novella	86	Egypt 
+ 
+Garbo	novella	86	Granada 
+ 
+Garbo	novella	86	Alexandria 
+ 
+Garbo	novella	86	Sardinia 
+ 
+Garbo	novella	86	Majorca 
+ 
+Garbo	novella	86	Morea 
+ 
+Garbo	novella	86	Constantinople 
+ 
+Garbo	novella	86	Egina 
+ 
+Garbo	novella	86	Chios 
+ 
+Garbo	novella	86	Smyrna 
+ 
+Garbo	novella	86	Cappadocia 
+ 
+Garbo	novella	86	Rhodes 
+ 
+Garbo	novella	86	Cyprus 
+ 
+Garbo	novella	86	Baffa 
+ 
+Garbo	novella	86	Armenia 
+ 
+Garbo	novella	86	Famagosta 
+ 
+Garbo	novella	86	Aguamorta 
+ 
+Garbo	novella	86	Crete 
+ 
+Garbo	novella	86	France 
+ 
+Garbo	novella	86	Certaldo 
+ 
+Garbo	novella	86	Tuscany 
+ 
+Garbo	novella	86	Holy Land 
+ 
+Garbo	novella	86	Nazareth 
+ 
+Garbo	novella	86	Italy 
+ 
+Garbo	novella	86	Porcellana 
+ 
+Garbo	novella	86	Venice 
+ 
+Garbo	novella	86	Florence 
+ 
+Garbo	novella	86	Baldacca 
+ 
+Garbo	novella	86	Parione 
+ 
+Garbo	novella	86	Arno 
+ 
+Garbo	novella	86	Truffia 
+ 
+Garbo	novella	86	Buffia 
+ 
+Garbo	novella	86	Menzogna 
+ 
+Garbo	novella	86	Abruzzi 
+ 
+Garbo	novella	86	India 
+ 
+Garbo	novella	86	Jerusalem 
+ 
+Garbo	novella	86	Caprezio 
+ 
+Granada	novella	100	Babylon 
+ 
+Granada	novella	100	Egypt 
+ 
+Granada	novella	100	Garbo 
+ 
+Granada	novella	100	Alexandria 
+ 
+Granada	novella	100	Sardinia 
+ 
+Granada	novella	100	Majorca 
+ 
+Granada	novella	100	Morea 
+ 
+Granada	novella	100	Constantinople 
+ 
+Granada	novella	100	Egina 
+ 
+Granada	novella	100	Chios 
+ 
+Granada	novella	100	Smyrna 
+ 
+Granada	novella	100	Cappadocia 
+ 
+Granada	novella	100	Rhodes 
+ 
+Granada	novella	100	Cyprus 
+ 
+Granada	novella	100	Baffa 
+ 
+Granada	novella	100	Armenia 
+ 
+Granada	novella	100	Famagosta 
+ 
+Granada	novella	100	Aguamorta 
+ 
+Granada	novella	100	Crete 
+ 
+Granada	novella	100	France 
+ 
+Granada	novella	100	Tunis 
+ 
+Granada	novella	100	Sicily 
+ 
+Granada	novella	100	Carthage 
+ 
+Granada	novella	100	Palermo 
+ 
+Granada	novella	100	Messina 
+ 
+Granada	novella	100	Ustica 
+ 
+Granada	novella	100	Trapani 
+ 
+Granada	novella	100	Susa 
+ 
+Granada	novella	100	Lipari 
+ 
+Sardinia	novella	113	Babylon 
+ 
+Sardinia	novella	113	Egypt 
+ 
+Sardinia	novella	113	Garbo 
+ 
+Sardinia	novella	113	Granada 
+ 
+Sardinia	novella	113	Alexandria 
+ 
+Sardinia	novella	113	Majorca 
+ 
+Sardinia	novella	113	Morea 
+ 
+Sardinia	novella	113	Constantinople 
+ 
+Sardinia	novella	113	Egina 
+ 
+Sardinia	novella	113	Chios 
+ 
+Sardinia	novella	113	Smyrna 
+ 
+Sardinia	novella	113	Cappadocia 
+ 
+Sardinia	novella	113	Rhodes 
+ 
+Sardinia	novella	113	Cyprus 
+ 
+Sardinia	novella	113	Baffa 
+ 
+Sardinia	novella	113	Armenia 
+ 
+Sardinia	novella	113	Famagosta 
+ 
+Sardinia	novella	113	Aguamorta 
+ 
+Sardinia	novella	113	Crete 
+ 
+Sardinia	novella	113	France 
+ 
+Sardinia	novella	113	Tuscany 
+ 
+Sardinia	novella	113	Persia 
+ 
+Sardinia	novella	113	Bologna 
+ 
+Sardinia	novella	113	Tunis 
+ 
+Sardinia	novella	113	Sicily 
+ 
+Sardinia	novella	113	Carthage 
+ 
+Sardinia	novella	113	Palermo 
+ 
+Sardinia	novella	113	Messina 
+ 
+Sardinia	novella	113	Ustica 
+ 
+Sardinia	novella	113	Trapani 
+ 
+Sardinia	novella	113	Certaldo 
+ 
+Sardinia	novella	113	Holy Land 
+ 
+Sardinia	novella	113	Nazareth 
+ 
+Sardinia	novella	113	Italy 
+ 
+Sardinia	novella	113	Porcellana 
+ 
+Sardinia	novella	113	Venice 
+ 
+Sardinia	novella	113	Florence 
+ 
+Sardinia	novella	113	Baldacca 
+ 
+Sardinia	novella	113	Parione 
+ 
+Sardinia	novella	113	Arno 
+ 
+Sardinia	novella	113	Truffia 
+ 
+Sardinia	novella	113	Buffia 
+ 
+Sardinia	novella	113	Menzogna 
+ 
+Sardinia	novella	113	Abruzzi 
+ 
+Sardinia	novella	113	India 
+ 
+Sardinia	novella	113	Jerusalem 
+ 
+Sardinia	novella	113	Caprezio 
+ 
+Majorca	novella	53	Babylon 
+ 
+Majorca	novella	53	Egypt 
+ 
+Majorca	novella	53	Garbo 
+ 
+Majorca	novella	53	Granada 
+ 
+Majorca	novella	53	Alexandria 
+ 
+Majorca	novella	53	Sardinia 
+ 
+Majorca	novella	53	Morea 
+ 
+Majorca	novella	53	Constantinople 
+ 
+Majorca	novella	53	Egina 
+ 
+Majorca	novella	53	Chios 
+ 
+Majorca	novella	53	Smyrna 
+ 
+Majorca	novella	53	Cappadocia 
+ 
+Majorca	novella	53	Rhodes 
+ 
+Majorca	novella	53	Cyprus 
+ 
+Majorca	novella	53	Baffa 
+ 
+Majorca	novella	53	Armenia 
+ 
+Majorca	novella	53	Famagosta 
+ 
+Majorca	novella	53	Aguamorta 
+ 
+Majorca	novella	53	Crete 
+ 
+Majorca	novella	53	France 
+ 
+Morea	novella	54	Babylon 
+ 
+Morea	novella	54	Egypt 
+ 
+Morea	novella	54	Garbo 
+ 
+Morea	novella	54	Granada 
+ 
+Morea	novella	54	Alexandria 
+ 
+Morea	novella	54	Sardinia 
+ 
+Morea	novella	54	Majorca 
+ 
+Morea	novella	54	Constantinople 
+ 
+Morea	novella	54	Egina 
+ 
+Morea	novella	54	Chios 
+ 
+Morea	novella	54	Smyrna 
+ 
+Morea	novella	54	Cappadocia 
+ 
+Morea	novella	54	Rhodes 
+ 
+Morea	novella	54	Cyprus 
+ 
+Morea	novella	54	Baffa 
+ 
+Morea	novella	54	Armenia 
+ 
+Morea	novella	54	Famagosta 
+ 
+Morea	novella	54	Aguamorta 
+ 
+Morea	novella	54	Crete 
+ 
+Morea	novella	54	France 
+ 
+Egina	novella	56	Babylon 
+ 
+Egina	novella	56	Egypt 
+ 
+Egina	novella	56	Garbo 
+ 
+Egina	novella	56	Granada 
+ 
+Egina	novella	56	Alexandria 
+ 
+Egina	novella	56	Sardinia 
+ 
+Egina	novella	56	Majorca 
+ 
+Egina	novella	56	Morea 
+ 
+Egina	novella	56	Constantinople 
+ 
+Egina	novella	56	Chios 
+ 
+Egina	novella	56	Smyrna 
+ 
+Egina	novella	56	Cappadocia 
+ 
+Egina	novella	56	Rhodes 
+ 
+Egina	novella	56	Cyprus 
+ 
+Egina	novella	56	Baffa 
+ 
+Egina	novella	56	Armenia 
+ 
+Egina	novella	56	Famagosta 
+ 
+Egina	novella	56	Aguamorta 
+ 
+Egina	novella	56	Crete 
+ 
+Egina	novella	56	France 
+ 
+Chios	novella	55	Babylon 
+ 
+Chios	novella	55	Egypt 
+ 
+Chios	novella	55	Garbo 
+ 
+Chios	novella	55	Granada 
+ 
+Chios	novella	55	Alexandria 
+ 
+Chios	novella	55	Sardinia 
+ 
+Chios	novella	55	Majorca 
+ 
+Chios	novella	55	Morea 
+ 
+Chios	novella	55	Constantinople 
+ 
+Chios	novella	55	Egina 
+ 
+Chios	novella	55	Smyrna 
+ 
+Chios	novella	55	Cappadocia 
+ 
+Chios	novella	55	Rhodes 
+ 
+Chios	novella	55	Cyprus 
+ 
+Chios	novella	55	Baffa 
+ 
+Chios	novella	55	Armenia 
+ 
+Chios	novella	55	Famagosta 
+ 
+Chios	novella	55	Aguamorta 
+ 
+Chios	novella	55	Crete 
+ 
+Chios	novella	55	France 
+ 
+Smyrna	novella	53	Babylon 
+ 
+Smyrna	novella	53	Egypt 
+ 
+Smyrna	novella	53	Garbo 
+ 
+Smyrna	novella	53	Granada 
+ 
+Smyrna	novella	53	Alexandria 
+ 
+Smyrna	novella	53	Sardinia 
+ 
+Smyrna	novella	53	Majorca 
+ 
+Smyrna	novella	53	Morea 
+ 
+Smyrna	novella	53	Constantinople 
+ 
+Smyrna	novella	53	Egina 
+ 
+Smyrna	novella	53	Chios 
+ 
+Smyrna	novella	53	Cappadocia 
+ 
+Smyrna	novella	53	Rhodes 
+ 
+Smyrna	novella	53	Cyprus 
+ 
+Smyrna	novella	53	Baffa 
+ 
+Smyrna	novella	53	Armenia 
+ 
+Smyrna	novella	53	Famagosta 
+ 
+Smyrna	novella	53	Aguamorta 
+ 
+Smyrna	novella	53	Crete 
+ 
+Smyrna	novella	53	France 
+ 
+Cappadocia	novella	53	Babylon 
+ 
+Cappadocia	novella	53	Egypt 
+ 
+Cappadocia	novella	53	Garbo 
+ 
+Cappadocia	novella	53	Granada 
+ 
+Cappadocia	novella	53	Alexandria 
+ 
+Cappadocia	novella	53	Sardinia 
+ 
+Cappadocia	novella	53	Majorca 
+ 
+Cappadocia	novella	53	Morea 
+ 
+Cappadocia	novella	53	Constantinople 
+ 
+Cappadocia	novella	53	Egina 
+ 
+Cappadocia	novella	53	Chios 
+ 
+Cappadocia	novella	53	Smyrna 
+ 
+Cappadocia	novella	53	Rhodes 
+ 
+Cappadocia	novella	53	Cyprus 
+ 
+Cappadocia	novella	53	Baffa 
+ 
+Cappadocia	novella	53	Armenia 
+ 
+Cappadocia	novella	53	Famagosta 
+ 
+Cappadocia	novella	53	Aguamorta 
+ 
+Cappadocia	novella	53	Crete 
+ 
+Cappadocia	novella	53	France 
+ 
+Rhodes	novella	73	Babylon 
+ 
+Rhodes	novella	73	Egypt 
+ 
+Rhodes	novella	73	Garbo 
+ 
+Rhodes	novella	73	Granada 
+ 
+Rhodes	novella	73	Alexandria 
+ 
+Rhodes	novella	73	Sardinia 
+ 
+Rhodes	novella	73	Majorca 
+ 
+Rhodes	novella	73	Morea 
+ 
+Rhodes	novella	73	Constantinople 
+ 
+Rhodes	novella	73	Egina 
+ 
+Rhodes	novella	73	Chios 
+ 
+Rhodes	novella	73	Smyrna 
+ 
+Rhodes	novella	73	Cappadocia 
+ 
+Rhodes	novella	73	Cyprus 
+ 
+Rhodes	novella	73	Baffa 
+ 
+Rhodes	novella	73	Armenia 
+ 
+Rhodes	novella	73	Famagosta 
+ 
+Rhodes	novella	73	Aguamorta 
+ 
+Rhodes	novella	73	Crete 
+ 
+Rhodes	novella	73	France 
+ 
+Rhodes	novella	73	Marseilles 
+ 
+Rhodes	novella	73	Provence 
+ 
+Rhodes	novella	73	Spain 
+ 
+Rhodes	novella	73	Genoa 
+ 
+Rhodes	novella	73	Candia 
+ 
+Baffa	novella	52	Babylon 
+ 
+Baffa	novella	52	Egypt 
+ 
+Baffa	novella	52	Garbo 
+ 
+Baffa	novella	52	Granada 
+ 
+Baffa	novella	52	Alexandria 
+ 
+Baffa	novella	52	Sardinia 
+ 
+Baffa	novella	52	Majorca 
+ 
+Baffa	novella	52	Morea 
+ 
+Baffa	novella	52	Constantinople 
+ 
+Baffa	novella	52	Egina 
+ 
+Baffa	novella	52	Chios 
+ 
+Baffa	novella	52	Smyrna 
+ 
+Baffa	novella	52	Cappadocia 
+ 
+Baffa	novella	52	Rhodes 
+ 
+Baffa	novella	52	Cyprus 
+ 
+Baffa	novella	52	Armenia 
+ 
+Baffa	novella	52	Famagosta 
+ 
+Baffa	novella	52	Aguamorta 
+ 
+Baffa	novella	52	Crete 
+ 
+Baffa	novella	52	France 
+ 
+Armenia	novella	65	Babylon 
+ 
+Armenia	novella	65	Egypt 
+ 
+Armenia	novella	65	Garbo 
+ 
+Armenia	novella	65	Granada 
+ 
+Armenia	novella	65	Alexandria 
+ 
+Armenia	novella	65	Sardinia 
+ 
+Armenia	novella	65	Majorca 
+ 
+Armenia	novella	65	Morea 
+ 
+Armenia	novella	65	Constantinople 
+ 
+Armenia	novella	65	Egina 
+ 
+Armenia	novella	65	Chios 
+ 
+Armenia	novella	65	Smyrna 
+ 
+Armenia	novella	65	Cappadocia 
+ 
+Armenia	novella	65	Rhodes 
+ 
+Armenia	novella	65	Cyprus 
+ 
+Armenia	novella	65	Baffa 
+ 
+Armenia	novella	65	Famagosta 
+ 
+Armenia	novella	65	Aguamorta 
+ 
+Armenia	novella	65	Crete 
+ 
+Armenia	novella	65	France 
+ 
+Armenia	novella	65	Sicily 
+ 
+Armenia	novella	65	Trapani 
+ 
+Armenia	novella	65	Rome 
+ 
+Famagosta	novella	54	Babylon 
+ 
+Famagosta	novella	54	Egypt 
+ 
+Famagosta	novella	54	Garbo 
+ 
+Famagosta	novella	54	Granada 
+ 
+Famagosta	novella	54	Alexandria 
+ 
+Famagosta	novella	54	Sardinia 
+ 
+Famagosta	novella	54	Majorca 
+ 
+Famagosta	novella	54	Morea 
+ 
+Famagosta	novella	54	Constantinople 
+ 
+Famagosta	novella	54	Egina 
+ 
+Famagosta	novella	54	Chios 
+ 
+Famagosta	novella	54	Smyrna 
+ 
+Famagosta	novella	54	Cappadocia 
+ 
+Famagosta	novella	54	Rhodes 
+ 
+Famagosta	novella	54	Cyprus 
+ 
+Famagosta	novella	54	Baffa 
+ 
+Famagosta	novella	54	Armenia 
+ 
+Famagosta	novella	54	Aguamorta 
+ 
+Famagosta	novella	54	Crete 
+ 
+Famagosta	novella	54	France 
+ 
+Aguamorta	novella	55	Babylon 
+ 
+Aguamorta	novella	55	Egypt 
+ 
+Aguamorta	novella	55	Garbo 
+ 
+Aguamorta	novella	55	Granada 
+ 
+Aguamorta	novella	55	Alexandria 
+ 
+Aguamorta	novella	55	Sardinia 
+ 
+Aguamorta	novella	55	Majorca 
+ 
+Aguamorta	novella	55	Morea 
+ 
+Aguamorta	novella	55	Constantinople 
+ 
+Aguamorta	novella	55	Egina 
+ 
+Aguamorta	novella	55	Chios 
+ 
+Aguamorta	novella	55	Smyrna 
+ 
+Aguamorta	novella	55	Cappadocia 
+ 
+Aguamorta	novella	55	Rhodes 
+ 
+Aguamorta	novella	55	Cyprus 
+ 
+Aguamorta	novella	55	Baffa 
+ 
+Aguamorta	novella	55	Armenia 
+ 
+Aguamorta	novella	55	Famagosta 
+ 
+Aguamorta	novella	55	Crete 
+ 
+Aguamorta	novella	55	France 
+ 
+Crete	novella	126	Babylon 
+ 
+Crete	novella	126	Egypt 
+ 
+Crete	novella	126	Garbo 
+ 
+Crete	novella	126	Granada 
+ 
+Crete	novella	126	Alexandria 
+ 
+Crete	novella	126	Sardinia 
+ 
+Crete	novella	126	Majorca 
+ 
+Crete	novella	126	Morea 
+ 
+Crete	novella	126	Constantinople 
+ 
+Crete	novella	126	Egina 
+ 
+Crete	novella	126	Chios 
+ 
+Crete	novella	126	Smyrna 
+ 
+Crete	novella	126	Cappadocia 
+ 
+Crete	novella	126	Rhodes 
+ 
+Crete	novella	126	Cyprus 
+ 
+Crete	novella	126	Baffa 
+ 
+Crete	novella	126	Armenia 
+ 
+Crete	novella	126	Famagosta 
+ 
+Crete	novella	126	Aguamorta 
+ 
+Crete	novella	126	France 
+ 
+Crete	novella	126	Marseilles 
+ 
+Crete	novella	126	Provence 
+ 
+Crete	novella	126	Spain 
+ 
+Crete	novella	126	Genoa 
+ 
+Crete	novella	126	Candia 
+ 
+Crete	novella	126	Pavia 
+ 
+Crete	novella	126	Holy Land 
+ 
+Crete	novella	126	Lombardy 
+ 
+Crete	novella	126	Milan 
+ 
+Crete	novella	126	Ticino 
+ 
+Crete	novella	126	Paris 
+ 
+Crete	novella	126	Sicily 
+ 
+Crete	novella	126	San Piero in Ciel d'Oro 
+ 
+Ireland	novella	31	England 
+ 
+Ireland	novella	31	France 
+ 
+Ireland	novella	31	Calais 
+ 
+Ireland	novella	31	London 
+ 
+Ireland	novella	31	Picardy 
+ 
+Ireland	novella	31	Wales 
+ 
+Ireland	novella	31	Stamford 
+ 
+Ireland	novella	31	Paris 
+ 
+Ireland	novella	31	Rouen 
+ 
+Calais	novella	32	England 
+ 
+Calais	novella	32	Ireland 
+ 
+Calais	novella	32	France 
+ 
+Calais	novella	32	London 
+ 
+Calais	novella	32	Picardy 
+ 
+Calais	novella	32	Wales 
+ 
+Calais	novella	32	Stamford 
+ 
+Calais	novella	32	Paris 
+ 
+Calais	novella	32	Rouen 
+ 
+Picardy	novella	32	England 
+ 
+Picardy	novella	32	Ireland 
+ 
+Picardy	novella	32	France 
+ 
+Picardy	novella	32	Calais 
+ 
+Picardy	novella	32	London 
+ 
+Picardy	novella	32	Wales 
+ 
+Picardy	novella	32	Stamford 
+ 
+Picardy	novella	32	Paris 
+ 
+Picardy	novella	32	Rouen 
+ 
+Wales	novella	31	England 
+ 
+Wales	novella	31	Ireland 
+ 
+Wales	novella	31	France 
+ 
+Wales	novella	31	Calais 
+ 
+Wales	novella	31	London 
+ 
+Wales	novella	31	Picardy 
+ 
+Wales	novella	31	Stamford 
+ 
+Wales	novella	31	Paris 
+ 
+Wales	novella	31	Rouen 
+ 
+Stamford	novella	33	England 
+ 
+Stamford	novella	33	Ireland 
+ 
+Stamford	novella	33	France 
+ 
+Stamford	novella	33	Calais 
+ 
+Stamford	novella	33	London 
+ 
+Stamford	novella	33	Picardy 
+ 
+Stamford	novella	33	Wales 
+ 
+Stamford	novella	33	Paris 
+ 
+Stamford	novella	33	Rouen 
+ 
+Rouen	novella	33	England 
+ 
+Rouen	novella	33	Ireland 
+ 
+Rouen	novella	33	France 
+ 
+Rouen	novella	33	Calais 
+ 
+Rouen	novella	33	London 
+ 
+Rouen	novella	33	Picardy 
+ 
+Rouen	novella	33	Wales 
+ 
+Rouen	novella	33	Stamford 
+ 
+Rouen	novella	33	Paris 
+ 
+Alba	novella	23	Genoa 
+ 
+Alba	novella	23	Alexandria 
+ 
+Alba	novella	23	Italy 
+ 
+Alba	novella	23	Paris 
+ 
+Monaco	novella	26	Pisa 
+ 
+Monaco	novella	26	Ravenna 
+ 
+Monaco	novella	26	Monte Nero 
+ 
+Monaco	novella	26	Palermo 
+ 
+Monaco	novella	26	Sicily 
+ 
+Monaco	novella	26	Salerno 
+ 
+Monaco	novella	26	Cyprus 
+ 
+Monaco	novella	26	Messina 
+ 
+Monaco	novella	26	Naples 
+ 
+Monaco	novella	26	Constantinople 
+ 
+Monaco	novella	26	Florence 
+ 
+Monaco	novella	26	Ferrara 
+ 
+Pisa	novella	26	Monaco 
+ 
+Pisa	novella	26	Ravenna 
+ 
+Pisa	novella	26	Monte Nero 
+ 
+Pisa	novella	26	Palermo 
+ 
+Pisa	novella	26	Sicily 
+ 
+Pisa	novella	26	Salerno 
+ 
+Pisa	novella	26	Cyprus 
+ 
+Pisa	novella	26	Messina 
+ 
+Pisa	novella	26	Naples 
+ 
+Pisa	novella	26	Constantinople 
+ 
+Pisa	novella	26	Florence 
+ 
+Pisa	novella	26	Ferrara 
+ 
+Ravenna	novella	16	Monaco 
+ 
+Ravenna	novella	16	Pisa 
+ 
+Ravenna	novella	16	Monte Nero 
+ 
+Ravenna	novella	16	Chiassi 
+ 
+Ravenna	novella	16	Romagna 
+ 
+Ravenna	novella	16	France 
+ 
+Ravenna	novella	16	Spain 
+ 
+Monte Nero	novella	12	Monaco 
+ 
+Monte Nero	novella	12	Pisa 
+ 
+Monte Nero	novella	12	Ravenna 
+ 
+Pavia	novella	39	Lombardy 
+ 
+Pavia	novella	39	Cremona 
+ 
+Pavia	novella	39	Faenza 
+ 
+Pavia	novella	39	Romagna 
+ 
+Pavia	novella	39	Fano 
+ 
+Pavia	novella	39	Holy Land 
+ 
+Pavia	novella	39	Babylon 
+ 
+Pavia	novella	39	Egypt 
+ 
+Pavia	novella	39	Milan 
+ 
+Pavia	novella	39	Ticino 
+ 
+Pavia	novella	39	Cyprus 
+ 
+Pavia	novella	39	Paris 
+ 
+Pavia	novella	39	Alexandria 
+ 
+Pavia	novella	39	Genoa 
+ 
+Pavia	novella	39	Provence 
+ 
+Pavia	novella	39	Crete 
+ 
+Pavia	novella	39	Sicily 
+ 
+Pavia	novella	39	San Piero in Ciel d'Oro 
+ 
+Pavia	novella	39	France 
+ 
+Lombardy	novella	61	Pavia 
+ 
+Lombardy	novella	61	France 
+ 
+Lombardy	novella	61	Modena 
+ 
+Lombardy	novella	61	Spain 
+ 
+Lombardy	novella	61	Bologna 
+ 
+Lombardy	novella	61	Persia 
+ 
+Lombardy	novella	61	Holy Land 
+ 
+Lombardy	novella	61	Babylon 
+ 
+Lombardy	novella	61	Egypt 
+ 
+Lombardy	novella	61	Milan 
+ 
+Lombardy	novella	61	Ticino 
+ 
+Lombardy	novella	61	Cyprus 
+ 
+Lombardy	novella	61	Paris 
+ 
+Lombardy	novella	61	Alexandria 
+ 
+Lombardy	novella	61	Genoa 
+ 
+Lombardy	novella	61	Provence 
+ 
+Lombardy	novella	61	Crete 
+ 
+Lombardy	novella	61	Sicily 
+ 
+Lombardy	novella	61	San Piero in Ciel d'Oro 
+ 
+San Pancrazio	novella	11	Naples 
+ 
+San Pancrazio	novella	11	Paris 
+ 
+San Pancrazio	novella	11	Florence 
+ 
+San Pancrazio	novella	11	Santa Maria Novella 
+ 
+San Pancrazio	novella	11	Camerata 
+ 
+San Pancrazio	novella	11	Fiesole 
+ 
+San Pancrazio	novella	11	Porta San Piero 
+ 
+Ancona	novella	27	Florence 
+ 
+Ancona	novella	27	Cyprus 
+ 
+Ancona	novella	27	Holy Sepulchre 
+ 
+Ancona	novella	27	Constantinople 
+ 
+Ancona	novella	27	Lunigiana 
+ 
+Ancona	novella	27	Buonconvento 
+ 
+Ancona	novella	27	Siena 
+ 
+Ancona	novella	27	Corsignano 
+ 
+Ancona	novella	27	Torrenieri 
+ 
+Persia	novella	17	Tuscany 
+ 
+Persia	novella	17	Bologna 
+ 
+Persia	novella	17	Sardinia 
+ 
+Persia	novella	17	Modena 
+ 
+Persia	novella	17	Spain 
+ 
+Persia	novella	17	Lombardy 
+ 
+Roussillon	novella	13	France 
+ 
+Roussillon	novella	13	Florence 
+ 
+Roussillon	novella	13	Paris 
+ 
+Roussillon	novella	13	Tuscany 
+ 
+Roussillon	novella	13	Montpellier 
+ 
+Montpellier	novella	15	France 
+ 
+Montpellier	novella	15	Florence 
+ 
+Montpellier	novella	15	Paris 
+ 
+Montpellier	novella	15	Tuscany 
+ 
+Montpellier	novella	15	Roussillon 
+ 
+Capsa	novella	3	Tunis 
+ 
+Capsa	novella	3	Thebaid 
+ 
+Tunis	novella	38	Capsa 
+ 
+Tunis	novella	38	Thebaid 
+ 
+Tunis	novella	38	Sicily 
+ 
+Tunis	novella	38	Granada 
+ 
+Tunis	novella	38	Carthage 
+ 
+Tunis	novella	38	Palermo 
+ 
+Tunis	novella	38	Messina 
+ 
+Tunis	novella	38	Sardinia 
+ 
+Tunis	novella	38	Ustica 
+ 
+Tunis	novella	38	Trapani 
+ 
+Tunis	novella	38	Susa 
+ 
+Tunis	novella	38	Lipari 
+ 
+Thebaid	novella	5	Capsa 
+ 
+Thebaid	novella	5	Tunis 
+ 
+Monte Asinaio	frame	6	Florence 
+ 
+Monte Asinaio	frame	6	Pistoia 
+ 
+Capua	novella	3	Salerno 
+ 
+Imola	novella	12	Venice 
+ 
+Imola	novella	12	Flanders 
+ 
+Imola	novella	12	Maremma 
+ 
+Imola	novella	12	Rialto 
+ 
+Imola	novella	12	San Marco 
+ 
+Flanders	novella	15	Venice 
+ 
+Flanders	novella	15	Imola 
+ 
+Flanders	novella	15	Maremma 
+ 
+Flanders	novella	15	Rialto 
+ 
+Flanders	novella	15	San Marco 
+ 
+Maremma	novella	20	Venice 
+ 
+Maremma	novella	20	Imola 
+ 
+Maremma	novella	20	Flanders 
+ 
+Maremma	novella	20	Rialto 
+ 
+Maremma	novella	20	San Marco 
+ 
+Maremma	novella	20	Mont' Ughi 
+ 
+Maremma	novella	20	Florence 
+ 
+Maremma	novella	20	Santa Maria Maggiore 
+ 
+Rialto	novella	13	Venice 
+ 
+Rialto	novella	13	Imola 
+ 
+Rialto	novella	13	Flanders 
+ 
+Rialto	novella	13	Maremma 
+ 
+Rialto	novella	13	San Marco 
+ 
+San Marco	novella	14	Venice 
+ 
+San Marco	novella	14	Imola 
+ 
+San Marco	novella	14	Flanders 
+ 
+San Marco	novella	14	Maremma 
+ 
+San Marco	novella	14	Rialto 
+ 
+Marseilles	novella	11	Crete 
+ 
+Marseilles	novella	11	Rhodes 
+ 
+Marseilles	novella	11	Provence 
+ 
+Marseilles	novella	11	Spain 
+ 
+Marseilles	novella	11	Genoa 
+ 
+Marseilles	novella	11	Candia 
+ 
+Provence	novella	59	Crete 
+ 
+Provence	novella	59	Rhodes 
+ 
+Provence	novella	59	Marseilles 
+ 
+Provence	novella	59	Spain 
+ 
+Provence	novella	59	Genoa 
+ 
+Provence	novella	59	Candia 
+ 
+Provence	novella	59	Guardastagno 
+ 
+Provence	novella	59	France 
+ 
+Provence	novella	59	Pavia 
+ 
+Provence	novella	59	Holy Land 
+ 
+Provence	novella	59	Babylon 
+ 
+Provence	novella	59	Egypt 
+ 
+Provence	novella	59	Lombardy 
+ 
+Provence	novella	59	Milan 
+ 
+Provence	novella	59	Ticino 
+ 
+Provence	novella	59	Cyprus 
+ 
+Provence	novella	59	Paris 
+ 
+Provence	novella	59	Alexandria 
+ 
+Provence	novella	59	Sicily 
+ 
+Provence	novella	59	San Piero in Ciel d'Oro 
+ 
+Candia	novella	11	Crete 
+ 
+Candia	novella	11	Rhodes 
+ 
+Candia	novella	11	Marseilles 
+ 
+Candia	novella	11	Provence 
+ 
+Candia	novella	11	Spain 
+ 
+Candia	novella	11	Genoa 
+ 
+Carthage	novella	25	Tunis 
+ 
+Carthage	novella	25	Sicily 
+ 
+Carthage	novella	25	Granada 
+ 
+Carthage	novella	25	Palermo 
+ 
+Carthage	novella	25	Messina 
+ 
+Carthage	novella	25	Sardinia 
+ 
+Carthage	novella	25	Ustica 
+ 
+Carthage	novella	25	Trapani 
+ 
+Ustica	novella	25	Tunis 
+ 
+Ustica	novella	25	Sicily 
+ 
+Ustica	novella	25	Granada 
+ 
+Ustica	novella	25	Carthage 
+ 
+Ustica	novella	25	Palermo 
+ 
+Ustica	novella	25	Messina 
+ 
+Ustica	novella	25	Sardinia 
+ 
+Ustica	novella	25	Trapani 
+ 
+Trapani	novella	56	Tunis 
+ 
+Trapani	novella	56	Sicily 
+ 
+Trapani	novella	56	Granada 
+ 
+Trapani	novella	56	Carthage 
+ 
+Trapani	novella	56	Palermo 
+ 
+Trapani	novella	56	Messina 
+ 
+Trapani	novella	56	Sardinia 
+ 
+Trapani	novella	56	Ustica 
+ 
+Trapani	novella	56	Susa 
+ 
+Trapani	novella	56	Lipari 
+ 
+Trapani	novella	56	Armenia 
+ 
+Trapani	novella	56	Rome 
+ 
+San Gimignano	novella	9	Messina 
+ 
+San Gimignano	novella	9	Salerno 
+ 
+San Gimignano	novella	9	Naples 
+ 
+San Gimignano	novella	9	Florence 
+ 
+San Gallo	novella	38	Florence 
+ 
+San Gallo	novella	38	San Paolo 
+ 
+San Gallo	novella	38	Bologna 
+ 
+San Gallo	novella	38	Via del Cocomero 
+ 
+San Gallo	novella	38	Legnaia 
+ 
+San Gallo	novella	38	Montesone 
+ 
+San Gallo	novella	38	Scotland 
+ 
+San Gallo	novella	38	Berlinzone 
+ 
+San Gallo	novella	38	Narsia 
+ 
+San Gallo	novella	38	Venice 
+ 
+San Gallo	novella	38	France 
+ 
+San Gallo	novella	38	England 
+ 
+San Gallo	novella	38	Peretola 
+ 
+San Gallo	novella	38	Cacavincigli 
+ 
+San Gallo	novella	38	Vallecchio 
+ 
+San Gallo	novella	38	Paris 
+ 
+San Gallo	novella	38	Civillari 
+ 
+San Gallo	novella	38	Arno 
+ 
+San Gallo	novella	38	Arezzo 
+ 
+San Gallo	novella	38	Santa Maria Novella 
+ 
+San Gallo	novella	38	Santa Maria della Scala 
+ 
+San Gallo	novella	38	Ripoli 
+ 
+San Gallo	novella	38	Rome 
+ 
+San Paolo	novella	2	Florence 
+ 
+San Paolo	novella	2	San Gallo 
+ 
+Guardastagno	novella	3	Provence 
+ 
+Guardastagno	novella	3	France 
+ 
+Susa	novella	19	Tunis 
+ 
+Susa	novella	19	Lipari 
+ 
+Susa	novella	19	Sicily 
+ 
+Susa	novella	19	Trapani 
+ 
+Susa	novella	19	Granada 
+ 
+Cremona	novella	12	Pavia 
+ 
+Cremona	novella	12	Faenza 
+ 
+Cremona	novella	12	Romagna 
+ 
+Cremona	novella	12	Fano 
+ 
+Faenza	novella	10	Cremona 
+ 
+Faenza	novella	10	Pavia 
+ 
+Faenza	novella	10	Romagna 
+ 
+Faenza	novella	10	Fano 
+ 
+Fano	novella	14	Cremona 
+ 
+Fano	novella	14	Pavia 
+ 
+Fano	novella	14	Faenza 
+ 
+Fano	novella	14	Romagna 
+ 
+Ischia	novella	23	Procida 
+ 
+Ischia	novella	23	Naples 
+ 
+Ischia	novella	23	Calabria 
+ 
+Ischia	novella	23	Sicily 
+ 
+Ischia	novella	23	Palermo 
+ 
+Ischia	novella	23	Cuba 
+ 
+Ischia	novella	23	Minerva 
+ 
+Ischia	novella	23	Scalea in Calabria 
+ 
+Ischia	novella	23	Scalea 
+ 
+Calabria	novella	28	Procida 
+ 
+Calabria	novella	28	Naples 
+ 
+Calabria	novella	28	Ischia 
+ 
+Calabria	novella	28	Sicily 
+ 
+Calabria	novella	28	Palermo 
+ 
+Calabria	novella	28	Cuba 
+ 
+Calabria	novella	28	Minerva 
+ 
+Calabria	novella	28	Scalea in Calabria 
+ 
+Calabria	novella	28	Scalea 
+ 
+Cuba	novella	25	Procida 
+ 
+Cuba	novella	25	Naples 
+ 
+Cuba	novella	25	Ischia 
+ 
+Cuba	novella	25	Calabria 
+ 
+Cuba	novella	25	Sicily 
+ 
+Cuba	novella	25	Palermo 
+ 
+Cuba	novella	25	Minerva 
+ 
+Cuba	novella	25	Scalea in Calabria 
+ 
+Cuba	novella	25	Scalea 
+ 
+Minerva	novella	28	Procida 
+ 
+Minerva	novella	28	Naples 
+ 
+Minerva	novella	28	Ischia 
+ 
+Minerva	novella	28	Calabria 
+ 
+Minerva	novella	28	Sicily 
+ 
+Minerva	novella	28	Palermo 
+ 
+Minerva	novella	28	Cuba 
+ 
+Minerva	novella	28	Scalea in Calabria 
+ 
+Minerva	novella	28	Scalea 
+ 
+Scalea in Calabria	novella	28	Procida 
+ 
+Scalea in Calabria	novella	28	Naples 
+ 
+Scalea in Calabria	novella	28	Ischia 
+ 
+Scalea in Calabria	novella	28	Calabria 
+ 
+Scalea in Calabria	novella	28	Sicily 
+ 
+Scalea in Calabria	novella	28	Palermo 
+ 
+Scalea in Calabria	novella	28	Cuba 
+ 
+Scalea in Calabria	novella	28	Minerva 
+ 
+Scalea in Calabria	novella	28	Scalea 
+ 
+Scalea	novella	28	Procida 
+ 
+Scalea	novella	28	Naples 
+ 
+Scalea	novella	28	Ischia 
+ 
+Scalea	novella	28	Calabria 
+ 
+Scalea	novella	28	Sicily 
+ 
+Scalea	novella	28	Palermo 
+ 
+Scalea	novella	28	Cuba 
+ 
+Scalea	novella	28	Minerva 
+ 
+Scalea	novella	28	Scalea in Calabria 
+ 
+Chiassi	novella	10	Ravenna 
+ 
+Chiassi	novella	10	Romagna 
+ 
+Chiassi	novella	10	France 
+ 
+Chiassi	novella	10	Spain 
+ 
+Campi	novella	3	Florence 
+ 
+Campi	novella	3	Tuscany 
+ 
+Santa Maria Ughi	novella	3	Florence 
+ 
+Santa Maria Ughi	novella	3	Arno 
+ 
+Arno	novella	93	Florence 
+ 
+Arno	novella	93	Santa Maria Ughi 
+ 
+Arno	novella	93	Certaldo 
+ 
+Arno	novella	93	Tuscany 
+ 
+Arno	novella	93	Holy Land 
+ 
+Arno	novella	93	Nazareth 
+ 
+Arno	novella	93	Egypt 
+ 
+Arno	novella	93	Italy 
+ 
+Arno	novella	93	Porcellana 
+ 
+Arno	novella	93	Venice 
+ 
+Arno	novella	93	Garbo 
+ 
+Arno	novella	93	Baldacca 
+ 
+Arno	novella	93	Parione 
+ 
+Arno	novella	93	Sardinia 
+ 
+Arno	novella	93	Truffia 
+ 
+Arno	novella	93	Buffia 
+ 
+Arno	novella	93	Menzogna 
+ 
+Arno	novella	93	Abruzzi 
+ 
+Arno	novella	93	India 
+ 
+Arno	novella	93	Jerusalem 
+ 
+Arno	novella	93	Caprezio 
+ 
+Arno	novella	93	Paris 
+ 
+Arno	novella	93	Santa Lucia of Prato 
+ 
+Arno	novella	93	Bologna 
+ 
+Arno	novella	93	Via del Cocomero 
+ 
+Arno	novella	93	San Gallo 
+ 
+Arno	novella	93	Legnaia 
+ 
+Arno	novella	93	Montesone 
+ 
+Arno	novella	93	Scotland 
+ 
+Arno	novella	93	Berlinzone 
+ 
+Arno	novella	93	Narsia 
+ 
+Arno	novella	93	France 
+ 
+Arno	novella	93	England 
+ 
+Arno	novella	93	Peretola 
+ 
+Arno	novella	93	Cacavincigli 
+ 
+Arno	novella	93	Vallecchio 
+ 
+Arno	novella	93	Civillari 
+ 
+Arno	novella	93	Arezzo 
+ 
+Arno	novella	93	Santa Maria Novella 
+ 
+Arno	novella	93	Santa Maria della Scala 
+ 
+Arno	novella	93	Ripoli 
+ 
+Arno	novella	93	Rome 
+ 
+Arno	novella	93	Camerata 
+ 
+Arno	novella	93	Camaldoli 
+ 
+Arno	novella	93	Mugnone 
+ 
+Arno	novella	93	Loggia de' Cavicciuli 
+ 
+Siena	novella	27	Florence 
+ 
+Siena	novella	27	Porta San Piero 
+ 
+Siena	novella	27	Milan 
+ 
+Siena	novella	27	Camollia 
+ 
+Siena	novella	27	Buonconvento 
+ 
+Siena	novella	27	Ancona 
+ 
+Siena	novella	27	Corsignano 
+ 
+Siena	novella	27	Torrenieri 
+ 
+Siena	novella	27	Rome 
+ 
+Siena	novella	27	Radicofani 
+ 
+Siena	novella	27	Corniglia 
+ 
+Siena	novella	27	Sicily 
+ 
+Siena	novella	27	Palermo 
+ 
+Siena	novella	27	Arezzo 
+ 
+Siena	novella	27	Calatabellotta 
+ 
+Porta San Piero	novella	13	Florence 
+ 
+Porta San Piero	novella	13	Siena 
+ 
+Porta San Piero	novella	13	San Pancrazio 
+ 
+Porta San Piero	novella	13	Santa Maria Novella 
+ 
+Porta San Piero	novella	13	Camerata 
+ 
+Porta San Piero	novella	13	Fiesole 
+ 
+Peretola	novella	36	Bologna 
+ 
+Peretola	novella	36	Florence 
+ 
+Peretola	novella	36	Via del Cocomero 
+ 
+Peretola	novella	36	San Gallo 
+ 
+Peretola	novella	36	Legnaia 
+ 
+Peretola	novella	36	Montesone 
+ 
+Peretola	novella	36	Scotland 
+ 
+Peretola	novella	36	Berlinzone 
+ 
+Peretola	novella	36	Narsia 
+ 
+Peretola	novella	36	Venice 
+ 
+Peretola	novella	36	France 
+ 
+Peretola	novella	36	England 
+ 
+Peretola	novella	36	Cacavincigli 
+ 
+Peretola	novella	36	Vallecchio 
+ 
+Peretola	novella	36	Paris 
+ 
+Peretola	novella	36	Civillari 
+ 
+Peretola	novella	36	Arno 
+ 
+Peretola	novella	36	Arezzo 
+ 
+Peretola	novella	36	Santa Maria Novella 
+ 
+Peretola	novella	36	Santa Maria della Scala 
+ 
+Peretola	novella	36	Ripoli 
+ 
+Peretola	novella	36	Rome 
+ 
+Mugello	novella	3	Florence 
+ 
+Mont' Ughi	novella	7	Maremma 
+ 
+Mont' Ughi	novella	7	Florence 
+ 
+Mont' Ughi	novella	7	Santa Maria Maggiore 
+ 
+Santa Maria Maggiore	novella	7	Maremma 
+ 
+Santa Maria Maggiore	novella	7	Mont' Ughi 
+ 
+Santa Maria Maggiore	novella	7	Florence 
+ 
+Or San Michele	novella	3	Florence 
+ 
+Or San Michele	novella	3	Santa Reparata 
+ 
+Santa Reparata	novella	2	Florence 
+ 
+Santa Reparata	novella	2	Or San Michele 
+ 
+Certaldo	novella	27	Tuscany 
+ 
+Certaldo	novella	27	Holy Land 
+ 
+Certaldo	novella	27	Nazareth 
+ 
+Certaldo	novella	27	Egypt 
+ 
+Certaldo	novella	27	Italy 
+ 
+Certaldo	novella	27	Porcellana 
+ 
+Certaldo	novella	27	Venice 
+ 
+Certaldo	novella	27	Florence 
+ 
+Certaldo	novella	27	Garbo 
+ 
+Certaldo	novella	27	Baldacca 
+ 
+Certaldo	novella	27	Parione 
+ 
+Certaldo	novella	27	Sardinia 
+ 
+Certaldo	novella	27	Arno 
+ 
+Certaldo	novella	27	Truffia 
+ 
+Certaldo	novella	27	Buffia 
+ 
+Certaldo	novella	27	Menzogna 
+ 
+Certaldo	novella	27	Abruzzi 
+ 
+Certaldo	novella	27	India 
+ 
+Certaldo	novella	27	Jerusalem 
+ 
+Certaldo	novella	27	Caprezio 
+ 
+Nazareth	novella	30	Certaldo 
+ 
+Nazareth	novella	30	Tuscany 
+ 
+Nazareth	novella	30	Holy Land 
+ 
+Nazareth	novella	30	Egypt 
+ 
+Nazareth	novella	30	Italy 
+ 
+Nazareth	novella	30	Porcellana 
+ 
+Nazareth	novella	30	Venice 
+ 
+Nazareth	novella	30	Florence 
+ 
+Nazareth	novella	30	Garbo 
+ 
+Nazareth	novella	30	Baldacca 
+ 
+Nazareth	novella	30	Parione 
+ 
+Nazareth	novella	30	Sardinia 
+ 
+Nazareth	novella	30	Arno 
+ 
+Nazareth	novella	30	Truffia 
+ 
+Nazareth	novella	30	Buffia 
+ 
+Nazareth	novella	30	Menzogna 
+ 
+Nazareth	novella	30	Abruzzi 
+ 
+Nazareth	novella	30	India 
+ 
+Nazareth	novella	30	Jerusalem 
+ 
+Nazareth	novella	30	Caprezio 
+ 
+Porcellana	novella	30	Certaldo 
+ 
+Porcellana	novella	30	Tuscany 
+ 
+Porcellana	novella	30	Holy Land 
+ 
+Porcellana	novella	30	Nazareth 
+ 
+Porcellana	novella	30	Egypt 
+ 
+Porcellana	novella	30	Italy 
+ 
+Porcellana	novella	30	Venice 
+ 
+Porcellana	novella	30	Florence 
+ 
+Porcellana	novella	30	Garbo 
+ 
+Porcellana	novella	30	Baldacca 
+ 
+Porcellana	novella	30	Parione 
+ 
+Porcellana	novella	30	Sardinia 
+ 
+Porcellana	novella	30	Arno 
+ 
+Porcellana	novella	30	Truffia 
+ 
+Porcellana	novella	30	Buffia 
+ 
+Porcellana	novella	30	Menzogna 
+ 
+Porcellana	novella	30	Abruzzi 
+ 
+Porcellana	novella	30	India 
+ 
+Porcellana	novella	30	Jerusalem 
+ 
+Porcellana	novella	30	Caprezio 
+ 
+Baldacca	novella	30	Certaldo 
+ 
+Baldacca	novella	30	Tuscany 
+ 
+Baldacca	novella	30	Holy Land 
+ 
+Baldacca	novella	30	Nazareth 
+ 
+Baldacca	novella	30	Egypt 
+ 
+Baldacca	novella	30	Italy 
+ 
+Baldacca	novella	30	Porcellana 
+ 
+Baldacca	novella	30	Venice 
+ 
+Baldacca	novella	30	Florence 
+ 
+Baldacca	novella	30	Garbo 
+ 
+Baldacca	novella	30	Parione 
+ 
+Baldacca	novella	30	Sardinia 
+ 
+Baldacca	novella	30	Arno 
+ 
+Baldacca	novella	30	Truffia 
+ 
+Baldacca	novella	30	Buffia 
+ 
+Baldacca	novella	30	Menzogna 
+ 
+Baldacca	novella	30	Abruzzi 
+ 
+Baldacca	novella	30	India 
+ 
+Baldacca	novella	30	Jerusalem 
+ 
+Baldacca	novella	30	Caprezio 
+ 
+Parione	novella	30	Certaldo 
+ 
+Parione	novella	30	Tuscany 
+ 
+Parione	novella	30	Holy Land 
+ 
+Parione	novella	30	Nazareth 
+ 
+Parione	novella	30	Egypt 
+ 
+Parione	novella	30	Italy 
+ 
+Parione	novella	30	Porcellana 
+ 
+Parione	novella	30	Venice 
+ 
+Parione	novella	30	Florence 
+ 
+Parione	novella	30	Garbo 
+ 
+Parione	novella	30	Baldacca 
+ 
+Parione	novella	30	Sardinia 
+ 
+Parione	novella	30	Arno 
+ 
+Parione	novella	30	Truffia 
+ 
+Parione	novella	30	Buffia 
+ 
+Parione	novella	30	Menzogna 
+ 
+Parione	novella	30	Abruzzi 
+ 
+Parione	novella	30	India 
+ 
+Parione	novella	30	Jerusalem 
+ 
+Parione	novella	30	Caprezio 
+ 
+Truffia	novella	30	Certaldo 
+ 
+Truffia	novella	30	Tuscany 
+ 
+Truffia	novella	30	Holy Land 
+ 
+Truffia	novella	30	Nazareth 
+ 
+Truffia	novella	30	Egypt 
+ 
+Truffia	novella	30	Italy 
+ 
+Truffia	novella	30	Porcellana 
+ 
+Truffia	novella	30	Venice 
+ 
+Truffia	novella	30	Florence 
+ 
+Truffia	novella	30	Garbo 
+ 
+Truffia	novella	30	Baldacca 
+ 
+Truffia	novella	30	Parione 
+ 
+Truffia	novella	30	Sardinia 
+ 
+Truffia	novella	30	Arno 
+ 
+Truffia	novella	30	Buffia 
+ 
+Truffia	novella	30	Menzogna 
+ 
+Truffia	novella	30	Abruzzi 
+ 
+Truffia	novella	30	India 
+ 
+Truffia	novella	30	Jerusalem 
+ 
+Truffia	novella	30	Caprezio 
+ 
+Buffia	novella	30	Certaldo 
+ 
+Buffia	novella	30	Tuscany 
+ 
+Buffia	novella	30	Holy Land 
+ 
+Buffia	novella	30	Nazareth 
+ 
+Buffia	novella	30	Egypt 
+ 
+Buffia	novella	30	Italy 
+ 
+Buffia	novella	30	Porcellana 
+ 
+Buffia	novella	30	Venice 
+ 
+Buffia	novella	30	Florence 
+ 
+Buffia	novella	30	Garbo 
+ 
+Buffia	novella	30	Baldacca 
+ 
+Buffia	novella	30	Parione 
+ 
+Buffia	novella	30	Sardinia 
+ 
+Buffia	novella	30	Arno 
+ 
+Buffia	novella	30	Truffia 
+ 
+Buffia	novella	30	Menzogna 
+ 
+Buffia	novella	30	Abruzzi 
+ 
+Buffia	novella	30	India 
+ 
+Buffia	novella	30	Jerusalem 
+ 
+Buffia	novella	30	Caprezio 
+ 
+Menzogna	novella	30	Certaldo 
+ 
+Menzogna	novella	30	Tuscany 
+ 
+Menzogna	novella	30	Holy Land 
+ 
+Menzogna	novella	30	Nazareth 
+ 
+Menzogna	novella	30	Egypt 
+ 
+Menzogna	novella	30	Italy 
+ 
+Menzogna	novella	30	Porcellana 
+ 
+Menzogna	novella	30	Venice 
+ 
+Menzogna	novella	30	Florence 
+ 
+Menzogna	novella	30	Garbo 
+ 
+Menzogna	novella	30	Baldacca 
+ 
+Menzogna	novella	30	Parione 
+ 
+Menzogna	novella	30	Sardinia 
+ 
+Menzogna	novella	30	Arno 
+ 
+Menzogna	novella	30	Truffia 
+ 
+Menzogna	novella	30	Buffia 
+ 
+Menzogna	novella	30	Abruzzi 
+ 
+Menzogna	novella	30	India 
+ 
+Menzogna	novella	30	Jerusalem 
+ 
+Menzogna	novella	30	Caprezio 
+ 
+Abruzzi	novella	53	Certaldo 
+ 
+Abruzzi	novella	53	Tuscany 
+ 
+Abruzzi	novella	53	Holy Land 
+ 
+Abruzzi	novella	53	Nazareth 
+ 
+Abruzzi	novella	53	Egypt 
+ 
+Abruzzi	novella	53	Italy 
+ 
+Abruzzi	novella	53	Porcellana 
+ 
+Abruzzi	novella	53	Venice 
+ 
+Abruzzi	novella	53	Florence 
+ 
+Abruzzi	novella	53	Garbo 
+ 
+Abruzzi	novella	53	Baldacca 
+ 
+Abruzzi	novella	53	Parione 
+ 
+Abruzzi	novella	53	Sardinia 
+ 
+Abruzzi	novella	53	Arno 
+ 
+Abruzzi	novella	53	Truffia 
+ 
+Abruzzi	novella	53	Buffia 
+ 
+Abruzzi	novella	53	Menzogna 
+ 
+Abruzzi	novella	53	India 
+ 
+Abruzzi	novella	53	Jerusalem 
+ 
+Abruzzi	novella	53	Caprezio 
+ 
+Abruzzi	novella	53	Mugnone 
+ 
+Abruzzi	novella	53	San Giovanni 
+ 
+Abruzzi	novella	53	Berlinzone 
+ 
+Abruzzi	novella	53	land of the Basques 
+ 
+Abruzzi	novella	53	Bengodi 
+ 
+Abruzzi	novella	53	Settignano 
+ 
+Abruzzi	novella	53	Montisci 
+ 
+Abruzzi	novella	53	Monte Morello 
+ 
+Abruzzi	novella	53	Porta a San Gallo 
+ 
+India	novella	49	Certaldo 
+ 
+India	novella	49	Tuscany 
+ 
+India	novella	49	Holy Land 
+ 
+India	novella	49	Nazareth 
+ 
+India	novella	49	Egypt 
+ 
+India	novella	49	Italy 
+ 
+India	novella	49	Porcellana 
+ 
+India	novella	49	Venice 
+ 
+India	novella	49	Florence 
+ 
+India	novella	49	Garbo 
+ 
+India	novella	49	Baldacca 
+ 
+India	novella	49	Parione 
+ 
+India	novella	49	Sardinia 
+ 
+India	novella	49	Arno 
+ 
+India	novella	49	Truffia 
+ 
+India	novella	49	Buffia 
+ 
+India	novella	49	Menzogna 
+ 
+India	novella	49	Abruzzi 
+ 
+India	novella	49	Jerusalem 
+ 
+India	novella	49	Caprezio 
+ 
+India	novella	49	Mugnone 
+ 
+India	novella	49	Paris 
+ 
+India	novella	49	Santa Lucia of Prato 
+ 
+Jerusalem	novella	34	Certaldo 
+ 
+Jerusalem	novella	34	Tuscany 
+ 
+Jerusalem	novella	34	Holy Land 
+ 
+Jerusalem	novella	34	Nazareth 
+ 
+Jerusalem	novella	34	Egypt 
+ 
+Jerusalem	novella	34	Italy 
+ 
+Jerusalem	novella	34	Porcellana 
+ 
+Jerusalem	novella	34	Venice 
+ 
+Jerusalem	novella	34	Florence 
+ 
+Jerusalem	novella	34	Garbo 
+ 
+Jerusalem	novella	34	Baldacca 
+ 
+Jerusalem	novella	34	Parione 
+ 
+Jerusalem	novella	34	Sardinia 
+ 
+Jerusalem	novella	34	Arno 
+ 
+Jerusalem	novella	34	Truffia 
+ 
+Jerusalem	novella	34	Buffia 
+ 
+Jerusalem	novella	34	Menzogna 
+ 
+Jerusalem	novella	34	Abruzzi 
+ 
+Jerusalem	novella	34	India 
+ 
+Jerusalem	novella	34	Caprezio 
+ 
+Jerusalem	novella	34	Bridge of Geese 
+ 
+Caprezio	novella	30	Certaldo 
+ 
+Caprezio	novella	30	Tuscany 
+ 
+Caprezio	novella	30	Holy Land 
+ 
+Caprezio	novella	30	Nazareth 
+ 
+Caprezio	novella	30	Egypt 
+ 
+Caprezio	novella	30	Italy 
+ 
+Caprezio	novella	30	Porcellana 
+ 
+Caprezio	novella	30	Venice 
+ 
+Caprezio	novella	30	Florence 
+ 
+Caprezio	novella	30	Garbo 
+ 
+Caprezio	novella	30	Baldacca 
+ 
+Caprezio	novella	30	Parione 
+ 
+Caprezio	novella	30	Sardinia 
+ 
+Caprezio	novella	30	Arno 
+ 
+Caprezio	novella	30	Truffia 
+ 
+Caprezio	novella	30	Buffia 
+ 
+Caprezio	novella	30	Menzogna 
+ 
+Caprezio	novella	30	Abruzzi 
+ 
+Caprezio	novella	30	India 
+ 
+Caprezio	novella	30	Jerusalem 
+ 
+Camerata	novella	17	Florence 
+ 
+Camerata	novella	17	San Pancrazio 
+ 
+Camerata	novella	17	Santa Maria Novella 
+ 
+Camerata	novella	17	Fiesole 
+ 
+Camerata	novella	17	Porta San Piero 
+ 
+Camerata	novella	17	Camaldoli 
+ 
+Camerata	novella	17	Arno 
+ 
+Camerata	novella	17	Mugnone 
+ 
+Arezzo	novella	41	Bologna 
+ 
+Arezzo	novella	41	Florence 
+ 
+Arezzo	novella	41	Via del Cocomero 
+ 
+Arezzo	novella	41	San Gallo 
+ 
+Arezzo	novella	41	Legnaia 
+ 
+Arezzo	novella	41	Montesone 
+ 
+Arezzo	novella	41	Scotland 
+ 
+Arezzo	novella	41	Berlinzone 
+ 
+Arezzo	novella	41	Narsia 
+ 
+Arezzo	novella	41	Venice 
+ 
+Arezzo	novella	41	France 
+ 
+Arezzo	novella	41	England 
+ 
+Arezzo	novella	41	Peretola 
+ 
+Arezzo	novella	41	Cacavincigli 
+ 
+Arezzo	novella	41	Vallecchio 
+ 
+Arezzo	novella	41	Paris 
+ 
+Arezzo	novella	41	Civillari 
+ 
+Arezzo	novella	41	Arno 
+ 
+Arezzo	novella	41	Santa Maria Novella 
+ 
+Arezzo	novella	41	Santa Maria della Scala 
+ 
+Arezzo	novella	41	Ripoli 
+ 
+Arezzo	novella	41	Rome 
+ 
+Arezzo	novella	41	Sicily 
+ 
+Arezzo	novella	41	Palermo 
+ 
+Arezzo	novella	41	Siena 
+ 
+Arezzo	novella	41	Calatabellotta 
+ 
+Argos	novella	1	Achaia 
+ 
+Achaia	novella	18	Argos 
+ 
+Achaia	novella	18	Rome 
+ 
+Achaia	novella	18	Capitol 
+ 
+Varlungo	novella	4	Milan 
+ 
+Varlungo	novella	4	Avignon 
+ 
+Varlungo	novella	4	Florence 
+ 
+Mugnone	novella	34	Florence 
+ 
+Mugnone	novella	34	San Giovanni 
+ 
+Mugnone	novella	34	Berlinzone 
+ 
+Mugnone	novella	34	land of the Basques 
+ 
+Mugnone	novella	34	Bengodi 
+ 
+Mugnone	novella	34	Abruzzi 
+ 
+Mugnone	novella	34	Settignano 
+ 
+Mugnone	novella	34	Montisci 
+ 
+Mugnone	novella	34	Monte Morello 
+ 
+Mugnone	novella	34	Porta a San Gallo 
+ 
+Mugnone	novella	34	India 
+ 
+Mugnone	novella	34	Camerata 
+ 
+Mugnone	novella	34	Camaldoli 
+ 
+Mugnone	novella	34	Arno 
+ 
+Mugnone	novella	34	Romagna 
+ 
+San Giovanni	novella	23	Mugnone 
+ 
+San Giovanni	novella	23	Florence 
+ 
+San Giovanni	novella	23	Berlinzone 
+ 
+San Giovanni	novella	23	land of the Basques 
+ 
+San Giovanni	novella	23	Bengodi 
+ 
+San Giovanni	novella	23	Abruzzi 
+ 
+San Giovanni	novella	23	Settignano 
+ 
+San Giovanni	novella	23	Montisci 
+ 
+San Giovanni	novella	23	Monte Morello 
+ 
+San Giovanni	novella	23	Porta a San Gallo 
+ 
+Berlinzone	novella	59	Mugnone 
+ 
+Berlinzone	novella	59	Florence 
+ 
+Berlinzone	novella	59	San Giovanni 
+ 
+Berlinzone	novella	59	land of the Basques 
+ 
+Berlinzone	novella	59	Bengodi 
+ 
+Berlinzone	novella	59	Abruzzi 
+ 
+Berlinzone	novella	59	Settignano 
+ 
+Berlinzone	novella	59	Montisci 
+ 
+Berlinzone	novella	59	Monte Morello 
+ 
+Berlinzone	novella	59	Porta a San Gallo 
+ 
+Berlinzone	novella	59	Bologna 
+ 
+Berlinzone	novella	59	Via del Cocomero 
+ 
+Berlinzone	novella	59	San Gallo 
+ 
+Berlinzone	novella	59	Legnaia 
+ 
+Berlinzone	novella	59	Montesone 
+ 
+Berlinzone	novella	59	Scotland 
+ 
+Berlinzone	novella	59	Narsia 
+ 
+Berlinzone	novella	59	Venice 
+ 
+Berlinzone	novella	59	France 
+ 
+Berlinzone	novella	59	England 
+ 
+Berlinzone	novella	59	Peretola 
+ 
+Berlinzone	novella	59	Cacavincigli 
+ 
+Berlinzone	novella	59	Vallecchio 
+ 
+Berlinzone	novella	59	Paris 
+ 
+Berlinzone	novella	59	Civillari 
+ 
+Berlinzone	novella	59	Arno 
+ 
+Berlinzone	novella	59	Arezzo 
+ 
+Berlinzone	novella	59	Santa Maria Novella 
+ 
+Berlinzone	novella	59	Santa Maria della Scala 
+ 
+Berlinzone	novella	59	Ripoli 
+ 
+Berlinzone	novella	59	Rome 
+ 
+land of the Basques	novella	23	Mugnone 
+ 
+land of the Basques	novella	23	Florence 
+ 
+land of the Basques	novella	23	San Giovanni 
+ 
+land of the Basques	novella	23	Berlinzone 
+ 
+land of the Basques	novella	23	Bengodi 
+ 
+land of the Basques	novella	23	Abruzzi 
+ 
+land of the Basques	novella	23	Settignano 
+ 
+land of the Basques	novella	23	Montisci 
+ 
+land of the Basques	novella	23	Monte Morello 
+ 
+land of the Basques	novella	23	Porta a San Gallo 
+ 
+Bengodi	novella	22	Mugnone 
+ 
+Bengodi	novella	22	Florence 
+ 
+Bengodi	novella	22	San Giovanni 
+ 
+Bengodi	novella	22	Berlinzone 
+ 
+Bengodi	novella	22	land of the Basques 
+ 
+Bengodi	novella	22	Abruzzi 
+ 
+Bengodi	novella	22	Settignano 
+ 
+Bengodi	novella	22	Montisci 
+ 
+Bengodi	novella	22	Monte Morello 
+ 
+Bengodi	novella	22	Porta a San Gallo 
+ 
+Settignano	novella	23	Mugnone 
+ 
+Settignano	novella	23	Florence 
+ 
+Settignano	novella	23	San Giovanni 
+ 
+Settignano	novella	23	Berlinzone 
+ 
+Settignano	novella	23	land of the Basques 
+ 
+Settignano	novella	23	Bengodi 
+ 
+Settignano	novella	23	Abruzzi 
+ 
+Settignano	novella	23	Montisci 
+ 
+Settignano	novella	23	Monte Morello 
+ 
+Settignano	novella	23	Porta a San Gallo 
+ 
+Montisci	novella	22	Mugnone 
+ 
+Montisci	novella	22	Florence 
+ 
+Montisci	novella	22	San Giovanni 
+ 
+Montisci	novella	22	Berlinzone 
+ 
+Montisci	novella	22	land of the Basques 
+ 
+Montisci	novella	22	Bengodi 
+ 
+Montisci	novella	22	Abruzzi 
+ 
+Montisci	novella	22	Settignano 
+ 
+Montisci	novella	22	Monte Morello 
+ 
+Montisci	novella	22	Porta a San Gallo 
+ 
+Monte Morello	novella	23	Mugnone 
+ 
+Monte Morello	novella	23	Florence 
+ 
+Monte Morello	novella	23	San Giovanni 
+ 
+Monte Morello	novella	23	Berlinzone 
+ 
+Monte Morello	novella	23	land of the Basques 
+ 
+Monte Morello	novella	23	Bengodi 
+ 
+Monte Morello	novella	23	Abruzzi 
+ 
+Monte Morello	novella	23	Settignano 
+ 
+Monte Morello	novella	23	Montisci 
+ 
+Monte Morello	novella	23	Porta a San Gallo 
+ 
+Porta a San Gallo	novella	23	Mugnone 
+ 
+Porta a San Gallo	novella	23	Florence 
+ 
+Porta a San Gallo	novella	23	San Giovanni 
+ 
+Porta a San Gallo	novella	23	Berlinzone 
+ 
+Porta a San Gallo	novella	23	land of the Basques 
+ 
+Porta a San Gallo	novella	23	Bengodi 
+ 
+Porta a San Gallo	novella	23	Abruzzi 
+ 
+Porta a San Gallo	novella	23	Settignano 
+ 
+Porta a San Gallo	novella	23	Montisci 
+ 
+Porta a San Gallo	novella	23	Monte Morello 
+ 
+San Lepidio	novella	2	Santa Maria a Verzaia 
+ 
+San Lepidio	novella	2	Florence 
+ 
+Santa Maria a Verzaia	novella	2	San Lepidio 
+ 
+Santa Maria a Verzaia	novella	2	Florence 
+ 
+Santa Lucia of Prato	novella	13	Florence 
+ 
+Santa Lucia of Prato	novella	13	Paris 
+ 
+Santa Lucia of Prato	novella	13	India 
+ 
+Santa Lucia of Prato	novella	13	Arno 
+ 
+Camollia	novella	2	Siena 
+ 
+Via del Cocomero	novella	36	Bologna 
+ 
+Via del Cocomero	novella	36	Florence 
+ 
+Via del Cocomero	novella	36	San Gallo 
+ 
+Via del Cocomero	novella	36	Legnaia 
+ 
+Via del Cocomero	novella	36	Montesone 
+ 
+Via del Cocomero	novella	36	Scotland 
+ 
+Via del Cocomero	novella	36	Berlinzone 
+ 
+Via del Cocomero	novella	36	Narsia 
+ 
+Via del Cocomero	novella	36	Venice 
+ 
+Via del Cocomero	novella	36	France 
+ 
+Via del Cocomero	novella	36	England 
+ 
+Via del Cocomero	novella	36	Peretola 
+ 
+Via del Cocomero	novella	36	Cacavincigli 
+ 
+Via del Cocomero	novella	36	Vallecchio 
+ 
+Via del Cocomero	novella	36	Paris 
+ 
+Via del Cocomero	novella	36	Civillari 
+ 
+Via del Cocomero	novella	36	Arno 
+ 
+Via del Cocomero	novella	36	Arezzo 
+ 
+Via del Cocomero	novella	36	Santa Maria Novella 
+ 
+Via del Cocomero	novella	36	Santa Maria della Scala 
+ 
+Via del Cocomero	novella	36	Ripoli 
+ 
+Via del Cocomero	novella	36	Rome 
+ 
+Legnaia	novella	36	Bologna 
+ 
+Legnaia	novella	36	Florence 
+ 
+Legnaia	novella	36	Via del Cocomero 
+ 
+Legnaia	novella	36	San Gallo 
+ 
+Legnaia	novella	36	Montesone 
+ 
+Legnaia	novella	36	Scotland 
+ 
+Legnaia	novella	36	Berlinzone 
+ 
+Legnaia	novella	36	Narsia 
+ 
+Legnaia	novella	36	Venice 
+ 
+Legnaia	novella	36	France 
+ 
+Legnaia	novella	36	England 
+ 
+Legnaia	novella	36	Peretola 
+ 
+Legnaia	novella	36	Cacavincigli 
+ 
+Legnaia	novella	36	Vallecchio 
+ 
+Legnaia	novella	36	Paris 
+ 
+Legnaia	novella	36	Civillari 
+ 
+Legnaia	novella	36	Arno 
+ 
+Legnaia	novella	36	Arezzo 
+ 
+Legnaia	novella	36	Santa Maria Novella 
+ 
+Legnaia	novella	36	Santa Maria della Scala 
+ 
+Legnaia	novella	36	Ripoli 
+ 
+Legnaia	novella	36	Rome 
+ 
+Montesone	novella	36	Bologna 
+ 
+Montesone	novella	36	Florence 
+ 
+Montesone	novella	36	Via del Cocomero 
+ 
+Montesone	novella	36	San Gallo 
+ 
+Montesone	novella	36	Legnaia 
+ 
+Montesone	novella	36	Scotland 
+ 
+Montesone	novella	36	Berlinzone 
+ 
+Montesone	novella	36	Narsia 
+ 
+Montesone	novella	36	Venice 
+ 
+Montesone	novella	36	France 
+ 
+Montesone	novella	36	England 
+ 
+Montesone	novella	36	Peretola 
+ 
+Montesone	novella	36	Cacavincigli 
+ 
+Montesone	novella	36	Vallecchio 
+ 
+Montesone	novella	36	Paris 
+ 
+Montesone	novella	36	Civillari 
+ 
+Montesone	novella	36	Arno 
+ 
+Montesone	novella	36	Arezzo 
+ 
+Montesone	novella	36	Santa Maria Novella 
+ 
+Montesone	novella	36	Santa Maria della Scala 
+ 
+Montesone	novella	36	Ripoli 
+ 
+Montesone	novella	36	Rome 
+ 
+Narsia	novella	36	Bologna 
+ 
+Narsia	novella	36	Florence 
+ 
+Narsia	novella	36	Via del Cocomero 
+ 
+Narsia	novella	36	San Gallo 
+ 
+Narsia	novella	36	Legnaia 
+ 
+Narsia	novella	36	Montesone 
+ 
+Narsia	novella	36	Scotland 
+ 
+Narsia	novella	36	Berlinzone 
+ 
+Narsia	novella	36	Venice 
+ 
+Narsia	novella	36	France 
+ 
+Narsia	novella	36	England 
+ 
+Narsia	novella	36	Peretola 
+ 
+Narsia	novella	36	Cacavincigli 
+ 
+Narsia	novella	36	Vallecchio 
+ 
+Narsia	novella	36	Paris 
+ 
+Narsia	novella	36	Civillari 
+ 
+Narsia	novella	36	Arno 
+ 
+Narsia	novella	36	Arezzo 
+ 
+Narsia	novella	36	Santa Maria Novella 
+ 
+Narsia	novella	36	Santa Maria della Scala 
+ 
+Narsia	novella	36	Ripoli 
+ 
+Narsia	novella	36	Rome 
+ 
+Cacavincigli	novella	35	Bologna 
+ 
+Cacavincigli	novella	35	Florence 
+ 
+Cacavincigli	novella	35	Via del Cocomero 
+ 
+Cacavincigli	novella	35	San Gallo 
+ 
+Cacavincigli	novella	35	Legnaia 
+ 
+Cacavincigli	novella	35	Montesone 
+ 
+Cacavincigli	novella	35	Scotland 
+ 
+Cacavincigli	novella	35	Berlinzone 
+ 
+Cacavincigli	novella	35	Narsia 
+ 
+Cacavincigli	novella	35	Venice 
+ 
+Cacavincigli	novella	35	France 
+ 
+Cacavincigli	novella	35	England 
+ 
+Cacavincigli	novella	35	Peretola 
+ 
+Cacavincigli	novella	35	Vallecchio 
+ 
+Cacavincigli	novella	35	Paris 
+ 
+Cacavincigli	novella	35	Civillari 
+ 
+Cacavincigli	novella	35	Arno 
+ 
+Cacavincigli	novella	35	Arezzo 
+ 
+Cacavincigli	novella	35	Santa Maria Novella 
+ 
+Cacavincigli	novella	35	Santa Maria della Scala 
+ 
+Cacavincigli	novella	35	Ripoli 
+ 
+Cacavincigli	novella	35	Rome 
+ 
+Vallecchio	novella	36	Bologna 
+ 
+Vallecchio	novella	36	Florence 
+ 
+Vallecchio	novella	36	Via del Cocomero 
+ 
+Vallecchio	novella	36	San Gallo 
+ 
+Vallecchio	novella	36	Legnaia 
+ 
+Vallecchio	novella	36	Montesone 
+ 
+Vallecchio	novella	36	Scotland 
+ 
+Vallecchio	novella	36	Berlinzone 
+ 
+Vallecchio	novella	36	Narsia 
+ 
+Vallecchio	novella	36	Venice 
+ 
+Vallecchio	novella	36	France 
+ 
+Vallecchio	novella	36	England 
+ 
+Vallecchio	novella	36	Peretola 
+ 
+Vallecchio	novella	36	Cacavincigli 
+ 
+Vallecchio	novella	36	Paris 
+ 
+Vallecchio	novella	36	Civillari 
+ 
+Vallecchio	novella	36	Arno 
+ 
+Vallecchio	novella	36	Arezzo 
+ 
+Vallecchio	novella	36	Santa Maria Novella 
+ 
+Vallecchio	novella	36	Santa Maria della Scala 
+ 
+Vallecchio	novella	36	Ripoli 
+ 
+Vallecchio	novella	36	Rome 
+ 
+Civillari	novella	35	Bologna 
+ 
+Civillari	novella	35	Florence 
+ 
+Civillari	novella	35	Via del Cocomero 
+ 
+Civillari	novella	35	San Gallo 
+ 
+Civillari	novella	35	Legnaia 
+ 
+Civillari	novella	35	Montesone 
+ 
+Civillari	novella	35	Scotland 
+ 
+Civillari	novella	35	Berlinzone 
+ 
+Civillari	novella	35	Narsia 
+ 
+Civillari	novella	35	Venice 
+ 
+Civillari	novella	35	France 
+ 
+Civillari	novella	35	England 
+ 
+Civillari	novella	35	Peretola 
+ 
+Civillari	novella	35	Cacavincigli 
+ 
+Civillari	novella	35	Vallecchio 
+ 
+Civillari	novella	35	Paris 
+ 
+Civillari	novella	35	Arno 
+ 
+Civillari	novella	35	Arezzo 
+ 
+Civillari	novella	35	Santa Maria Novella 
+ 
+Civillari	novella	35	Santa Maria della Scala 
+ 
+Civillari	novella	35	Ripoli 
+ 
+Civillari	novella	35	Rome 
+ 
+Santa Maria della Scala	novella	36	Bologna 
+ 
+Santa Maria della Scala	novella	36	Florence 
+ 
+Santa Maria della Scala	novella	36	Via del Cocomero 
+ 
+Santa Maria della Scala	novella	36	San Gallo 
+ 
+Santa Maria della Scala	novella	36	Legnaia 
+ 
+Santa Maria della Scala	novella	36	Montesone 
+ 
+Santa Maria della Scala	novella	36	Scotland 
+ 
+Santa Maria della Scala	novella	36	Berlinzone 
+ 
+Santa Maria della Scala	novella	36	Narsia 
+ 
+Santa Maria della Scala	novella	36	Venice 
+ 
+Santa Maria della Scala	novella	36	France 
+ 
+Santa Maria della Scala	novella	36	England 
+ 
+Santa Maria della Scala	novella	36	Peretola 
+ 
+Santa Maria della Scala	novella	36	Cacavincigli 
+ 
+Santa Maria della Scala	novella	36	Vallecchio 
+ 
+Santa Maria della Scala	novella	36	Paris 
+ 
+Santa Maria della Scala	novella	36	Civillari 
+ 
+Santa Maria della Scala	novella	36	Arno 
+ 
+Santa Maria della Scala	novella	36	Arezzo 
+ 
+Santa Maria della Scala	novella	36	Santa Maria Novella 
+ 
+Santa Maria della Scala	novella	36	Ripoli 
+ 
+Santa Maria della Scala	novella	36	Rome 
+ 
+Ripoli	novella	36	Bologna 
+ 
+Ripoli	novella	36	Florence 
+ 
+Ripoli	novella	36	Via del Cocomero 
+ 
+Ripoli	novella	36	San Gallo 
+ 
+Ripoli	novella	36	Legnaia 
+ 
+Ripoli	novella	36	Montesone 
+ 
+Ripoli	novella	36	Scotland 
+ 
+Ripoli	novella	36	Berlinzone 
+ 
+Ripoli	novella	36	Narsia 
+ 
+Ripoli	novella	36	Venice 
+ 
+Ripoli	novella	36	France 
+ 
+Ripoli	novella	36	England 
+ 
+Ripoli	novella	36	Peretola 
+ 
+Ripoli	novella	36	Cacavincigli 
+ 
+Ripoli	novella	36	Vallecchio 
+ 
+Ripoli	novella	36	Paris 
+ 
+Ripoli	novella	36	Civillari 
+ 
+Ripoli	novella	36	Arno 
+ 
+Ripoli	novella	36	Arezzo 
+ 
+Ripoli	novella	36	Santa Maria Novella 
+ 
+Ripoli	novella	36	Santa Maria della Scala 
+ 
+Ripoli	novella	36	Rome 
+ 
+Mercato Vecchio	novella	1	Florence 
+ 
+Buonconvento	novella	12	Siena 
+ 
+Buonconvento	novella	12	Ancona 
+ 
+Buonconvento	novella	12	Corsignano 
+ 
+Buonconvento	novella	12	Torrenieri 
+ 
+Corsignano	novella	13	Buonconvento 
+ 
+Corsignano	novella	13	Siena 
+ 
+Corsignano	novella	13	Ancona 
+ 
+Corsignano	novella	13	Torrenieri 
+ 
+Torrenieri	novella	13	Buonconvento 
+ 
+Torrenieri	novella	13	Siena 
+ 
+Torrenieri	novella	13	Ancona 
+ 
+Torrenieri	novella	13	Corsignano 
+ 
+Camaldoli	novella	10	Camerata 
+ 
+Camaldoli	novella	10	Arno 
+ 
+Camaldoli	novella	10	Florence 
+ 
+Camaldoli	novella	10	Mugnone 
+ 
+Loggia de' Cavicciuli	novella	3	Florence 
+ 
+Loggia de' Cavicciuli	novella	3	Arno 
+ 
+Bridge of Geese	novella	2	Jerusalem 
+ 
+Barletta	novella	6	Apulia 
+ 
+Barletta	novella	6	Tresanti 
+ 
+Barletta	novella	6	Bitonto 
+ 
+Tresanti	novella	7	Barletta 
+ 
+Tresanti	novella	7	Apulia 
+ 
+Tresanti	novella	7	Bitonto 
+ 
+Bitonto	novella	9	Barletta 
+ 
+Bitonto	novella	9	Apulia 
+ 
+Bitonto	novella	9	Tresanti 
+ 
+Radicofani	novella	9	Rome 
+ 
+Radicofani	novella	9	Siena 
+ 
+Radicofani	novella	9	Corniglia 
+ 
+Corniglia	novella	9	Rome 
+ 
+Corniglia	novella	9	Siena 
+ 
+Corniglia	novella	9	Radicofani 
+ 
+Modena	novella	13	Spain 
+ 
+Modena	novella	13	Bologna 
+ 
+Modena	novella	13	Lombardy 
+ 
+Modena	novella	13	Persia 
+ 
+Friuli	novella	1	Udine 
+ 
+Udine	novella	1	Friuli 
+ 
+Castello
+ da Mare di Stabia	novella	4	Florence 
+ 
+Castello
+ da Mare di Stabia	novella	4	Naples 
+ 
+Castello
+ da Mare di Stabia	novella	4	Apulia 
+ 
+Calatabellotta	novella	5	Sicily 
+ 
+Calatabellotta	novella	5	Palermo 
+ 
+Calatabellotta	novella	5	Arezzo 
+ 
+Calatabellotta	novella	5	Siena 
+ 
+Capitol	novella	17	Rome 
+ 
+Capitol	novella	17	Achaia 
+ 
+Ticino	novella	46	Pavia 
+ 
+Ticino	novella	46	Holy Land 
+ 
+Ticino	novella	46	Babylon 
+ 
+Ticino	novella	46	Egypt 
+ 
+Ticino	novella	46	Lombardy 
+ 
+Ticino	novella	46	Milan 
+ 
+Ticino	novella	46	Cyprus 
+ 
+Ticino	novella	46	Paris 
+ 
+Ticino	novella	46	Alexandria 
+ 
+Ticino	novella	46	Genoa 
+ 
+Ticino	novella	46	Provence 
+ 
+Ticino	novella	46	Crete 
+ 
+Ticino	novella	46	Sicily 
+ 
+Ticino	novella	46	San Piero in Ciel d'Oro 
+ 
+Ticino	novella	46	France 
+ 
+San Piero in Ciel d'Oro	novella	46	Pavia 
+ 
+San Piero in Ciel d'Oro	novella	46	Holy Land 
+ 
+San Piero in Ciel d'Oro	novella	46	Babylon 
+ 
+San Piero in Ciel d'Oro	novella	46	Egypt 
+ 
+San Piero in Ciel d'Oro	novella	46	Lombardy 
+ 
+San Piero in Ciel d'Oro	novella	46	Milan 
+ 
+San Piero in Ciel d'Oro	novella	46	Ticino 
+ 
+San Piero in Ciel d'Oro	novella	46	Cyprus 
+ 
+San Piero in Ciel d'Oro	novella	46	Paris 
+ 
+San Piero in Ciel d'Oro	novella	46	Alexandria 
+ 
+San Piero in Ciel d'Oro	novella	46	Genoa 
+ 
+San Piero in Ciel d'Oro	novella	46	Provence 
+ 
+San Piero in Ciel d'Oro	novella	46	Crete 
+ 
+San Piero in Ciel d'Oro	novella	46	Sicily 
+ 
+San Piero in Ciel d'Oro	novella	46	France 
+ 
+Saluzzo	novella	7	France 
+ 
+Saluzzo	novella	7	Bologna 
+ 
+Saluzzo	novella	7	Rome 

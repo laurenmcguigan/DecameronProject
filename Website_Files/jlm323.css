@@ -23,12 +23,15 @@ p {
     color: #000000;
     padding: 5px;
 }
+p.right{
+    float: right; padding-right:20px; text-align:center;
+}
 div.middle {
     border: 5px solid #940004;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
-    padding: 15px;
+    padding: 10px;
 }
 div#nav{
     border: none;
@@ -36,7 +39,7 @@ div#nav{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    padding: 15px;
+    padding: 5px;
 }
 a:link, a:visited {
     color: #067900;
@@ -61,6 +64,7 @@ div.svg{
   margin:5px;
 text-align:center;
 }
+
 div.frame
 {
   background-color:rgb(97, 254, 252) 
@@ -78,4 +82,7 @@ div.nested
 
 div#days{
     text-align:center
+}
+img.people{width: 250px; 
+
 }

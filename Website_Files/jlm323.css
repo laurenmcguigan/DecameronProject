@@ -23,7 +23,7 @@ p {
     padding: 5px;
 }
 p.right{
-    float: right;
+    float: right; padding-right:20px; text-align:center;
 }
 div.middle {
     border: 5px solid #940004;

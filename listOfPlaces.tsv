@@ -108,7 +108,11 @@ Cuba	21.5218	77.7812
 Scalea	39.8141	15.7913
 Siena	43.3188	11.3308
 Peretola	43.8087	11.2012
+<<<<<<< HEAD
 Mont' Ughi	
+=======
+Mont' Ughi	0.0	0.0
+>>>>>>> efb8ccae3ea7d1f9ebfc9d9d34917a06f74e526b
 Santa Maria Maggiore	46.1338	8.4598
 Certaldo	43.5477	11.0415
 Nazareth	32.6996	35.3035
@@ -127,7 +131,11 @@ Montesone	46.9812	123.6027
 Ripoli	32.8872	13.1913
 Buonconvento	43.1361	11.4796
 Camaldoli	43.7945	11.8204
+<<<<<<< HEAD
 Loggia de' Cavicciuli	
+=======
+Loggia de' Cavicciuli	0.0	0.0
+>>>>>>> efb8ccae3ea7d1f9ebfc9d9d34917a06f74e526b
 Barletta	41.3197	16.2838
 Bitonto	41.1078	16.6911
 Radicofani	42.8959	11.7674
@@ -135,9 +143,17 @@ Corniglia	44.1199	9.7100
 Modena	44.6471	10.9252
 Friuli	46.2259	13.1034
 Udine	46.0711	13.2346
+<<<<<<< HEAD
 Castello da Mare di Stabia	
 Calatabellotta	37.5757	13.2186
 Capitol	38.8899	77.0091
 Ticino	46.3317	8.8005
 San Piero in Ciel d'Oro	
+=======
+Castello da Mare di Stabia	0.0	0.0
+Calatabellotta	37.5757	13.2186
+Capitol	38.8899	77.0091
+Ticino	46.3317	8.8005
+San Piero in Ciel d'Oro	0.0	0.0
+>>>>>>> efb8ccae3ea7d1f9ebfc9d9d34917a06f74e526b
 Saluzzo	44.6445	7.4927

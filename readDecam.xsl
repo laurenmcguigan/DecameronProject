@@ -17,7 +17,13 @@
                 <h1>The Decameron</h1>
                 <h2>Table of Contents</h2>
                 <ul>
+<<<<<<< HEAD
                     <xsl:apply-templates select="//div[@type='Day']//head" mode="toc"/>
+=======
+
+                    <xsl:apply-templates select="//div[@type='Day']//head" mode="toc"/>
+
+>>>>>>> efb8ccae3ea7d1f9ebfc9d9d34917a06f74e526b
                 </ul>
                 <hr/>
                 
@@ -49,28 +55,37 @@
     </xsl:template>
     
     <xsl:template match="div[@type='Day']//head" mode="toc">
+<<<<<<< HEAD
+=======
+        <li style="font-size:20pt"> 
+            <a href="#">
+                <xsl:apply-templates/>
+            </a>
+        </li> <br/>
+        
+>>>>>>> efb8ccae3ea7d1f9ebfc9d9d34917a06f74e526b
         <li>
             <xsl:apply-templates/>
         </li>
     </xsl:template>
     
-    <xsl:template match="div[@type='Day']//head">
-        <h1>
+    <xsl:template match="div[@type='Day']/head">
+        <h1 id="">
             <xsl:apply-templates/>
         </h1>
     </xsl:template>
     
     <xsl:template match="div[@type='novella']//head">
-        <h2>
+        <h3>
             <xsl:apply-templates/>
-        </h2>
+        </h3>
     </xsl:template>
     
     <xsl:template match="div[@type='introduction']//head">
-        <h2>
+        <h3>
             <xsl:apply-templates/>
-        </h2>
+        </h3>
     </xsl:template>
     
- 
+    
 </xsl:stylesheet>

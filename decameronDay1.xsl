@@ -39,13 +39,13 @@
     </xsl:template>
     
     <xsl:template match="div[@type='introduction']/head">
-        <h3>
+        <h3 >
             <xsl:apply-templates/>
         </h3>
     </xsl:template>
     
     <xsl:template match="div[@type='conclusion']/head">
-        <h3>
+        <h3 class="conclusion">
             <xsl:apply-templates/>
         </h3>
     </xsl:template>
@@ -68,10 +68,61 @@
         </p>
     </xsl:template>
     
-    <xsl:template match="floatingText">
+    <xsl:template match="floatingText[@type='frame']">
 
-            <em><span class="floatingText"><xsl:apply-templates/></span></em>
+            <em><div class="frame">
+                <xsl:apply-templates/>
+            </div></em>
 
     </xsl:template>
+    
+    <xsl:template match="floatingText[@type='song']">
+        
+        <em><div class="song">
+            <xsl:apply-templates/>
+        </div></em>
+        
+    </xsl:template>
+    
+    <xsl:template match="floatingText[@type='nested']">
+        
+        <em><div class="nested">
+            <xsl:apply-templates/>
+        </div></em>
+        
+    </xsl:template>
+    
+    <xsl:template match="div[@type='day']">
+        
+        <div class="day">
+            <xsl:apply-templates/>
+        </div>
+        
+    </xsl:template>
+    
+    <xsl:template match="div[@type='novella']">
+        
+        <div class="novella">
+            <xsl:apply-templates/>
+        </div>
+        
+    </xsl:template>
+    
+    <xsl:template match="div[@type='introduction']">
+        
+        <div class="introduction">
+            <xsl:apply-templates/>
+        </div>
+        
+    </xsl:template>
+    
+    <xsl:template match="div[@type='conclusion']">
+        
+        <div class="conclusion">
+            <xsl:apply-templates/>
+        </div>
+        
+    </xsl:template>
+    
 
 </xsl:stylesheet>

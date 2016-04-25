@@ -22,8 +22,8 @@ p {
     color: #000000;
     padding: 5px;
 }
-q {
-    quotes: "“" "”" "‘" "’";
+p.right{
+    float: right;
 }
 div.middle {
     border: 5px solid #940004;
@@ -65,4 +65,3 @@ text-align:center;
 }
 img.people{width: 250px; 
 }
-p{float:right}

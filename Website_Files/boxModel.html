@@ -2,69 +2,88 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 
-        <head>
-            <title>Model of the Decameron</title>
-            <link rel="stylesheet" type="text/css" href="jlm323.css"/>
-            <style>
-div.day {
-    background-color: lightgrey;
-    width: 500px;
-    padding: 100px;
-    border: 20px solid blue;
-    margin: 25px;
-    font-size: 50px
-}
-
-div.novella {
-    background-color: lightgrey;
-    width: 350px;
-    padding: 80px;
-    border: 15px solid yellow;
-    margin: 25px;
-    font-size: 30px
-}
-
-div.frame {
-    background-color: lightgrey;
-    width: 175px;
-    padding: 80px;
-    border: 15px solid rgb(97, 254, 252) ;
-    margin: 15px;
-    text-align: center
-}
-
-div.story {
-    background-color: lightgrey;
-    width: 175px;
-    padding: 80px;
-    border: 15px solid rgb(176, 238, 133) ;
-    margin: 15px;
-    text-align: center
-}
-
-div.song {
-    background-color: lightgrey;
-    width: 175px;
-    padding: 80px;
-    border: 15px solid rgb(255, 193, 252);
-    margin: 15px;
-    text-align: center
-}
-</style>
-        </head>
-        <body>
-            <h1>A Model of the Decameron</h1>
-            <!--#include virtual="decamnav.html" -->
-            <div class="day">Day 
-                <div class="novella"> Novella
-                    <div class="frame"> Frame</div>
-                    <div class="story"> Story </div>
-                    <div class="song"> Song</div>  
-                </div> 
+    <head>
+        <title>Model of the Decameron</title>
+        <link rel="stylesheet" type="text/css" href="jlm323.css" />
+        <style>
+            div.day{
+                background-color: lightgrey;
+                width: 40%;
+                height: 800px;
+                padding: 50px;
+                border: 20px solid blue;
+                margin: 25px;
+                font-size: 50px;
+                float: left
+            }
+            
+            div.novella{
+                background-color: lightgrey;
+                width: 250px;
+                height: 600px;
+                padding: 40px;
+                border: 15px solid yellow;
+                margin: 25px;
+                font-size: 30px
+            }
+            
+            div.frame{
+                background-color: lightgrey;
+                width: 75px;
+                height: 100;
+                padding: 50px;
+                border: 15px solid rgb(97, 254, 252);
+                margin: 15px;
+                text-align: center
+            }
+            
+            div.story{
+                background-color: lightgrey;
+                width: 75px;
+                height: 100;
+                padding: 50px;
+                border: 15px solid rgb(176, 238, 133);
+                margin: 15px;
+                text-align: center
+            }
+            
+            div.song{
+                background-color: lightgrey;
+                width: 75px;
+                height: 100;
+                padding: 50px;
+                border: 15px solid rgb(255, 193, 252);
+                margin: 15px;
+                text-align: center
+            }
+            
+            div.text
+            {
+                width: 30%;
+                height: 800px;
+                padding: 20px;
+                border: 5px solid blue;
+                float: right;
+                margin: 20px;
+                font-size: 18px
+            
+            }</style>
+    </head>
+    <body>
+        <!--#include virtual="decamnav.html" -->
+        <div class="day">Day <div class="novella"> Novella <div class="frame"> Frame</div>
+                <div class="story"> Story </div>
+                <div class="song"> Song</div>
             </div>
-            <!--#include virtual="decamfooter.html" -->
-            <!-- jlm: This SSI should be a footer that shows the date the page was last modified.
-        2016-04-20 ebb: I've just added your CC license to the footer! Feel free to move or change it as you wish.
-        -->      
-        </body>
-    </html>
+        </div>
+        <div class="text">
+            <p><em>The Decameron</em> is made up of 100 stories told within 10 days. Each day
+                contains 10 stories told by 10 individual storytellers. The box model seen to the
+                left is a visual representation of the structure of <em>The Decameron</em>. Inside
+                each of the 10 days there are 10 individual stories or "Novellas." The Novellas are
+                marked in our days as "Novel." Within each of these "novels," there are various
+                types of text. These three types of text can be broken down into three categories:
+                Frame Narratives, Stories, and Songs. In our readable versions of the days the types of texts are highlighted</p>
+        </div>
+    </body>
+</html>

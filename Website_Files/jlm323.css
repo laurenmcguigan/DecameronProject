@@ -5,8 +5,9 @@ html {
 h1 {
     font-size: 40px;
     color: #0B3CA5;
-    font-family: serif;
+    font-family: BlackChancery, serif;
     text-align: center;
+
 }
 h2 {
     font-size: 25px;
@@ -63,5 +64,25 @@ div.svg{
   margin:5px;
 text-align:center;
 }
+
+div.frame
+{
+  background-color:rgb(97, 254, 252) 
+}
+
+div.song
+{
+  background-color:rgb(255, 193, 252) 
+}
+
+div.nested
+{
+  background-color:rgb(176, 238, 133)
+}
+
+div#days{
+    text-align:center
+}
 img.people{width: 250px; 
+
 }

@@ -12,11 +12,11 @@
     <xsl:template match="/">
     <html>
         
-        <head><title>Day 1</title></head>
+        <head><title>Day 10</title></head>
         
         <body>
             <div id="main">
-                <xsl:apply-templates select="//div[@type='Day'] [@corresp='day01']"/>
+                <xsl:apply-templates select="//div[@type='Day'] [@corresp='day10']"/>
                 
             </div>
             
@@ -62,33 +62,34 @@
         </span>
     </xsl:template>
     
-    <xsl:template match=".//p">
-        <p n="{count(preceding::p) + 1}">
+    <xsl:template match="p">
+        <p>
             <xsl:apply-templates/>
         </p>
     </xsl:template>
     
+    
     <xsl:template match="floatingText[@type='frame']">
 
-            <em><div class="frame">
+            <div class="frame">
                 <xsl:apply-templates/>
-            </div></em>
+            </div>
 
     </xsl:template>
     
     <xsl:template match="floatingText[@type='song']">
         
-        <em><div class="song">
+        <div class="song">
             <xsl:apply-templates/>
-        </div></em>
+        </div>
         
     </xsl:template>
     
     <xsl:template match="floatingText[@type='nested']">
         
-        <em><div class="nested">
+        <div class="nested">
             <xsl:apply-templates/>
-        </div></em>
+        </div>
         
     </xsl:template>
     

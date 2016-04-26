@@ -18,12 +18,20 @@
                 <h2>Table of Contents</h2>
                 <ul>
 <<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> e490cb60d803743144a375bc0bf7e61d13751ca0
                     <xsl:apply-templates select="//div[@type='Day']//head" mode="toc"/>
 =======
 
                     <xsl:apply-templates select="//div[@type='Day']//head" mode="toc"/>
+<<<<<<< HEAD
+>>>>>>> 371d1da69c8763dfaaad518d6150691676bfd77b
+=======
 
 >>>>>>> efb8ccae3ea7d1f9ebfc9d9d34917a06f74e526b
+>>>>>>> e490cb60d803743144a375bc0bf7e61d13751ca0
                 </ul>
                 <hr/>
                 
@@ -66,14 +74,23 @@
             </a>
         </li> <br/>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
 
 =======
+>>>>>>> e490cb60d803743144a375bc0bf7e61d13751ca0
         
 >>>>>>> efb8ccae3ea7d1f9ebfc9d9d34917a06f74e526b
         <li>
             <xsl:apply-templates/>
         </li>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 371d1da69c8763dfaaad518d6150691676bfd77b
+=======
 >>>>>>> laurenmcguigan-master
+>>>>>>> e490cb60d803743144a375bc0bf7e61d13751ca0
     </xsl:template>
     
     <xsl:template match="div[@type='Day']/head">

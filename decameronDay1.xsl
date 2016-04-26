@@ -12,11 +12,11 @@
     <xsl:template match="/">
     <html>
         
-        <head><title>Day 1</title></head>
+        <head><title>Day 10</title></head>
         
         <body>
             <div id="main">
-                <xsl:apply-templates select="//div[@type='Day'] [@corresp='day01']"/>
+                <xsl:apply-templates select="//div[@type='Day'] [@corresp='day10']"/>
                 
             </div>
             

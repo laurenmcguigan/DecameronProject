@@ -15,7 +15,7 @@ h2 {
     font-family: serif;
     text-align: center;
 }
-h3 {font-size: 16px;
+h3 {font-size: 20px;
     color: #067900;
     font-family: serif;
 }
@@ -23,8 +23,26 @@ p {
     color: #000000;
     padding: 5px;
 }
+p.meg
+{
+     float: right; 
+    width: 350px;
+    height: 275px;
+    margin: -10px 50px;
+    border: 3px solid #067900;
+    font-size:18px;
+    background-color:lightgray;
+    display: inline-block   
+}
 p.right{
-    float: right; padding-right:20px; text-align:center;
+    float: right; 
+    width: 350px;
+    height: 275px;
+    margin: 20px 50px;
+    border: 3px solid #067900;
+    font-size:18px;
+    background-color:lightgray;
+    display: inline-block
 }
 div.middle {
     border: 5px solid #940004;
@@ -89,10 +107,11 @@ img.people{width: 250px;
 
 
 .menu {
-    width:600px ;
+    width:900px ;
     margin: 30px auto;
     height: 45px;
     font-family: 'Open Sans', sans-serif;
+    font-size:20px;
     background-color:maroon;
     border-radius: 15px;
 }
@@ -105,7 +124,7 @@ img.people{width: 250px;
 	display: inline-table;
 }
 #nav ul ul {
-       background: gray;
+       background: lightgray;
 	   border-radius: 0px;
 	   padding: 0;
 	   position: absolute;
@@ -113,14 +132,16 @@ img.people{width: 250px;
 	   display: none;
 }
 #nav ul ul li a {
-		padding: 15px 40px;
+		padding: 2px 30px;
 }
 #nav ul li:hover > ul {
 		display: block;
+		padding:5px;
 }
 #nav ul ul li {
 		float: none; 
 		position: relative;
+		padding:5px;
 }
 #nav ul:after {
 		content: "";
@@ -134,6 +155,7 @@ img.people{width: 250px;
 }
 #nav ul li {
 	   float: left;
+	   padding:5px
 }
 #nav li {
 	margin:0px 10px;
@@ -152,8 +174,8 @@ img.people{width: 250px;
 }
 img.logo
 {
-height:100px;
-width: 275px;
+height:200px;
+width: 435px;
 float:left;
-margin: 0px -90px;
+margin: -60px -275px;
 }

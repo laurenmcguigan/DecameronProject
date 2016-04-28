@@ -127,6 +127,7 @@ border: 3px solid #067900;
 	   position: absolute;
 	   top: 100%;
 	   display: none;
+	   border-radius: 20px;
 }
 #nav ul ul li a {
 		padding: 2px 30px;

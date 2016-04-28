@@ -23,26 +23,20 @@ p {
     color: #000000;
     padding: 5px;
 }
-p.meg
-{
-     float: right; 
-    width: 350px;
-    height: 275px;
-    margin: -10px 50px;
-    border: 3px solid #067900;
-    font-size:18px;
-    background-color:lightgray;
-    display: inline-block   
-}
+
 p.right{
     float: right; 
-    width: 350px;
-    height: 275px;
-    margin: 20px 50px;
+    width: 370px;
+    height: 295px;
+    margin: 10px 50px;
     border: 3px solid #067900;
-    font-size:18px;
-    background-color:lightgray;
-    display: inline-block
+    font-size:16px;
+    background-color: rgb(255, 255, 245);
+    display: inline-block;
+    border-radius:20px;
+    line-height: 1.5;
+    color:rgb(155, 75, 0);
+    text-align:center;
 }
 div.middle {
     border: 5px solid #940004;
@@ -101,13 +95,16 @@ div.nested
 div#days{
     text-align:center
 }
-img.people{width: 250px; 
+img.people{width: 250px;
+height: 350px;
+border: 3px solid #067900;
+    border-radius:20px;
 
 }
 
 
 .menu {
-    width:900px ;
+    width:100% ;
     margin: 30px auto;
     height: 45px;
     font-family: 'Open Sans', sans-serif;
@@ -124,7 +121,7 @@ img.people{width: 250px;
 	display: inline-table;
 }
 #nav ul ul {
-       background: lightgray;
+       background: maroon;
 	   border-radius: 0px;
 	   padding: 0;
 	   position: absolute;
@@ -164,7 +161,7 @@ img.people{width: 250px;
 	display:inline;
 }
 #nav a:hover {
-	background-color: gray;
+	background-color: rgb(187, 30, 55);
 	text-decoration: underline;
 	border-radius: 15px
 }
